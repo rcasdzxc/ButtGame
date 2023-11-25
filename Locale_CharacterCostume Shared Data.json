@@ -1,0 +1,869 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4826179110787420926
+  },
+  "m_Name": "Locale_CharacterCostume Shared Data",
+  "m_TableCollectionName": "Locale_CharacterCostume",
+  "m_TableCollectionNameGuidString": "7e24a2a514bc6c4468cfe0b41df66d19",
+  "m_Entries": [
+    {
+      "m_Id": 48433746151149568,
+      "m_Key": "swimsuit_2022_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315392,
+      "m_Key": "cbt_2022_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315393,
+      "m_Key": "temp_category_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173955,
+      "m_Key": "daily_2022_category",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94438513473949699,
+      "m_Key": "winter_2022_category",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107164954829459460,
+      "m_Key": "party_2023_category",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116560563017551877,
+      "m_Key": "valentine_2023_category",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160459396482797573,
+      "m_Key": "bunny_category",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186183728408236039,
+      "m_Key": "car_racer_category",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943845912584,
+      "m_Key": "ce_02_category",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358919041060872,
+      "m_Key": "halloween_category",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315394,
+      "m_Key": "swimsuit_2022_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315395,
+      "m_Key": "cbt_2022_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315396,
+      "m_Key": "temp_category_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173959,
+      "m_Key": "daily_2022_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94438513478144004,
+      "m_Key": "winter_2022_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107164954829459466,
+      "m_Key": "party_2023_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116560563017551884,
+      "m_Key": "valentine_2023_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160459396486991875,
+      "m_Key": "bunny_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186183728412430343,
+      "m_Key": "car_racer_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943850106888,
+      "m_Key": "ce_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358919045255177,
+      "m_Key": "halloween_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198430484395134980,
+      "m_Key": "82_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45930662449684486,
+      "m_Key": "costume_name_142_swimsuit_2022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45930662449684487,
+      "m_Key": "costume_name_201_swimsuit_2022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 181069211332448267,
+      "m_Key": "131_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186183728412430348,
+      "m_Key": "10_02_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 190074003606147085,
+      "m_Key": "201_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198430484395134986,
+      "m_Key": "350_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49191244369956872,
+      "m_Key": "costume_name_10_CBT_2022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315401,
+      "m_Key": "costume_name_temp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173965,
+      "m_Key": "160_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173966,
+      "m_Key": "11_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173967,
+      "m_Key": "30_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173968,
+      "m_Key": "70_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173969,
+      "m_Key": "72_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230486368256,
+      "m_Key": "72_02_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230486368257,
+      "m_Key": "102_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230486368258,
+      "m_Key": "181_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107167831253782552,
+      "m_Key": "170_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116560563017551899,
+      "m_Key": "141_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135462510462177280,
+      "m_Key": "80_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152432598037762065,
+      "m_Key": "430_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153111105896448023,
+      "m_Key": "800_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160766878044327961,
+      "m_Key": "191_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174896794046238750,
+      "m_Key": "90_02_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174896794046238751,
+      "m_Key": "282_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198430484395135005,
+      "m_Key": "260_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198839295501078562,
+      "m_Key": "70_02_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94438513478144018,
+      "m_Key": "90_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94438513478144020,
+      "m_Key": "210_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94438513478144021,
+      "m_Key": "212_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94438513478144019,
+      "m_Key": "150_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107167831253782557,
+      "m_Key": "140_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107167831253782558,
+      "m_Key": "352_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135462510495731712,
+      "m_Key": "202_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358919049449490,
+      "m_Key": "170_02_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227124939813752866,
+      "m_Key": "230_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227124939813752867,
+      "m_Key": "233_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116560563017551906,
+      "m_Key": "22_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160766878044327970,
+      "m_Key": "112_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174896794046238761,
+      "m_Key": "200_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186178923052863501,
+      "m_Key": "101_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943850106927,
+      "m_Key": "810_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943850106928,
+      "m_Key": "810_02_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943850106929,
+      "m_Key": "811_01_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943850106930,
+      "m_Key": "811_02_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218361308288585781,
+      "m_Key": "212_02_costume_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45923486893121544,
+      "m_Key": "obtain_costume_event_shop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45923486893121545,
+      "m_Key": "obtain_costume_costume_shop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315404,
+      "m_Key": "obtain_costume_cbt_player",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 101652445489991704,
+      "m_Key": "obtain_mission_pass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107448508213825565,
+      "m_Key": "obtiain_event_pass",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 102503573198934046,
+      "m_Key": "obtain_package_shop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315405,
+      "m_Key": "obtain_costume_temp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314319,
+      "m_Key": "10_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314320,
+      "m_Key": "11_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314321,
+      "m_Key": "30_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314322,
+      "m_Key": "70_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314323,
+      "m_Key": "102_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314324,
+      "m_Key": "72_2_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314325,
+      "m_Key": "181_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114726772993101852,
+      "m_Key": "90_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114726772993101853,
+      "m_Key": "210_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114726772993101854,
+      "m_Key": "150_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114726772993101855,
+      "m_Key": "140_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114726772993101856,
+      "m_Key": "352_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117617406141730863,
+      "m_Key": "170_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116560563021746195,
+      "m_Key": "141_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116560563021746196,
+      "m_Key": "22_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135462510495731713,
+      "m_Key": "80_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135462510495731714,
+      "m_Key": "202_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152432598041956369,
+      "m_Key": "160_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152432598041956370,
+      "m_Key": "212_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152432598041956371,
+      "m_Key": "430_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153111105896448059,
+      "m_Key": "800_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 162525798605721623,
+      "m_Key": "191_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160766878052716545,
+      "m_Key": "112_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174896794046238792,
+      "m_Key": "90_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174896794046238793,
+      "m_Key": "282_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174896794046238794,
+      "m_Key": "200_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 181069211332448329,
+      "m_Key": "131_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186188345846206502,
+      "m_Key": "142_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186185889640812611,
+      "m_Key": "10_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186178923057057822,
+      "m_Key": "101_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 190076101013999653,
+      "m_Key": "201_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198430484399329305,
+      "m_Key": "82_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198430484399329306,
+      "m_Key": "350_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198430484399329307,
+      "m_Key": "260_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198839295505272879,
+      "m_Key": "70_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943854301226,
+      "m_Key": "810_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943854301227,
+      "m_Key": "810_2_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943854301228,
+      "m_Key": "811_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943854301229,
+      "m_Key": "811_2_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358919057838098,
+      "m_Key": "72_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358919057838100,
+      "m_Key": "212_2_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358919057838099,
+      "m_Key": "170_2_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227124939817947182,
+      "m_Key": "230_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227124939817947183,
+      "m_Key": "233_1_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_KeyGenerator": {
+    "rid": 0
+  },
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "DistributedUIDGenerator",
+          "ns": "UnityEngine.Localization.Tables",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}

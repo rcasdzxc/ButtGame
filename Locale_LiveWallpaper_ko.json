@@ -1,0 +1,2345 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "Locale_LiveWallpaper_ko",
+  "m_LocaleId": {
+    "m_Code": "ko"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -380658978432913624
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 2364252162,
+      "m_Localized": "AK 미사일",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205824,
+      "m_Localized": "전방을 향해, 폭격 개시!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38613923523137536,
+      "m_Localized": "응급처치",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38613923523137537,
+      "m_Localized": "방주로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38613923523137538,
+      "m_Localized": "우리가 무엇으로 보이는가",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38613923523137539,
+      "m_Localized": "앱솔루트가 온다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38613923523137540,
+      "m_Localized": "EEEEEntertainment",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218794514334814214,
+      "m_Localized": "NO CALLER ID",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130353653090922502,
+      "m_Localized": "After Valentine",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130735010187096066,
+      "m_Localized": "바우와우 파라다이스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153193312511791111,
+      "m_Localized": "벚꽃만개",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 157519291031949321,
+      "m_Localized": "다시 그 세계로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160779917917360138,
+      "m_Localized": "갓데스 스쿼드 레디",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 175605419517612043,
+      "m_Localized": "바니들의 키스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 175605419517612044,
+      "m_Localized": "피는 피로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183910603834462221,
+      "m_Localized": "여름의 치유",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 192604546268860430,
+      "m_Localized": "NYA NYA PARADISE",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 192604546268860431,
+      "m_Localized": "바다의 보물",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200257744580317200,
+      "m_Localized": "이지스 스쿼드",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 210459798389067781,
+      "m_Localized": "OUTER AUTOMATA",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992821035026,
+      "m_Localized": "출석 체크",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992821035027,
+      "m_Localized": "나가와 설레는 시간",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992821035028,
+      "m_Localized": "티아와 달콤한 시간",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 219155107629699094,
+      "m_Localized": "멈춰라! A.C.P.U.다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227136098449166359,
+      "m_Localized": "REDASH",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73412624346976261,
+      "m_Localized": "다탄두 미사일",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205831,
+      "m_Localized": "화력 집중!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73412624346976262,
+      "m_Localized": "오직 화력!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205833,
+      "m_Localized": "드디어 보여드릴 때가 됐군요… 제 궁극의 화력을!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73412624346976263,
+      "m_Localized": "핀 포인트 미사일",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205835,
+      "m_Localized": "한바탕 놀아보자고-!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73412624346976264,
+      "m_Localized": "리얼라이즈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205837,
+      "m_Localized": "지휘관을 지켜야 해. 반드시!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73412624346976265,
+      "m_Localized": "이머전시 시그널",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205839,
+      "m_Localized": "위, 위, 위, 위급 상황!\r\n지원 부탁드려요오!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319682,
+      "m_Localized": "폴리스 라인",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205841,
+      "m_Localized": "형사 폴리 나가신닷-!\r\n안전하게 지켜드리겠습니당!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319683,
+      "m_Localized": "파워 업!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205843,
+      "m_Localized": "열심히! 더 열심히이-!\r\n힘이 솟는다아-!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319684,
+      "m_Localized": "AZX",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205845,
+      "m_Localized": "목표 조준! 출력 최대! Fire!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319685,
+      "m_Localized": "나도 한다면 해!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205847,
+      "m_Localized": "나만 믿어!\r\n내가 다 해결해 줄게!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319686,
+      "m_Localized": "스트로베리 쇼크",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205849,
+      "m_Localized": "이 바람이, 승리를 불러오기를.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319687,
+      "m_Localized": "착공시작",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205851,
+      "m_Localized": "우리 마이티 툴즈는!\r\n전지전능의 도구임다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319688,
+      "m_Localized": "더블 부스트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205853,
+      "m_Localized": "가자꾸나! 아우우우우-!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319689,
+      "m_Localized": "신기하고 이상한 나라",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205855,
+      "m_Localized": "다 같이 원더랜드!\r\n재미있게, 신나게!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693391,
+      "m_Localized": "알트루이즘",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205857,
+      "m_Localized": "온 마음으로 치유해 줄게~ 우후후.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693392,
+      "m_Localized": "정당방위",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205859,
+      "m_Localized": "다, 다가오지 마. 안 그러면!\r\n…다 죽여 버리는 수밖에 없잖아.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693393,
+      "m_Localized": "전세 역전",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205861,
+      "m_Localized": "이 자리에서 격추해 주마.\r\n격 떨어지는 잡종들아.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693394,
+      "m_Localized": "드레이크 스폐셜",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205863,
+      "m_Localized": "이것이 나의 가장 약한 공격이다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693395,
+      "m_Localized": "피어스 샷",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205865,
+      "m_Localized": "자아~ 출력 최대! 가라----!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693396,
+      "m_Localized": "더 테러리스트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205867,
+      "m_Localized": "역시 가장 효과적인 해결책은… 폭력이지.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693397,
+      "m_Localized": "백의의 천사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205869,
+      "m_Localized": "자~ 주사 맞을 시간이에요.\r\n이제 안 아프시죠?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693398,
+      "m_Localized": "페퍼 테라피",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205871,
+      "m_Localized": "포기하시면 안 돼요…!\r\n제가 도와드릴게요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693399,
+      "m_Localized": "트러블 슈터",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205873,
+      "m_Localized": "슬슬 끝내볼까.\r\n자, 다 받아 가.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693400,
+      "m_Localized": "투 더 빅토리",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205875,
+      "m_Localized": "자, 큰 거 한방 간다.\r\n먹고 죽어라 이 쨔샤-!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693401,
+      "m_Localized": "…귀찮아",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205877,
+      "m_Localized": "…짜증.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693402,
+      "m_Localized": "클라이맥스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205879,
+      "m_Localized": "연주하겠습니다.\r\n매섭게 몰아치는 전장의 선율을…!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693403,
+      "m_Localized": "BDG",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205881,
+      "m_Localized": "헤헤헤. 유니가 잔~뜩 놀아줄게~",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693404,
+      "m_Localized": "히스테릭 워커",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205883,
+      "m_Localized": "네놈들 말고도 처리할 일 많아!\r\n다 꺼져버려!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693405,
+      "m_Localized": "애정의 보은",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205885,
+      "m_Localized": "잘 부탁해. 모두를 돕는 거야!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693406,
+      "m_Localized": "마계흑룡파",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205887,
+      "m_Localized": "와라, 편익의 마왕이여!!\r\n마. 계. 흑. 룡. 파!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693407,
+      "m_Localized": "언령 : 힘있는 말",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205889,
+      "m_Localized": "숨결과 단어는 권능. 그것이 언령.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693408,
+      "m_Localized": "눈의 여왕",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205891,
+      "m_Localized": "이 몸이 왜 눈의 여왕으로 불리는지,\r\n직접 경험해 보거라.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693409,
+      "m_Localized": "싱글 페이먼트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205893,
+      "m_Localized": "돈다발 쏠게요!\r\n쇼퍼홀릭~ 샷!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693410,
+      "m_Localized": "일확천금",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205895,
+      "m_Localized": "돈으로 싸다구 맞아 봤나?\r\n정신을 못 차릴걸~",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693411,
+      "m_Localized": "R&D 샷",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205897,
+      "m_Localized": "사업 방해 요인을 발견. 처치할게.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693412,
+      "m_Localized": "원사이드 프로토콜",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205899,
+      "m_Localized": "적 시스템에 침투- 광역 해킹 완-료-",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693413,
+      "m_Localized": "사건 해결인 것입니다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205901,
+      "m_Localized": "흠흠 흐으음… 아니잇!!\r\n추리가 완성된 것입니다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693414,
+      "m_Localized": "세븐스 드워프 : I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205903,
+      "m_Localized": "세븐스 드워프! 풀 액티브!\r\n꿰뚫어라-!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693415,
+      "m_Localized": "가든 오브 샹그릴라",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205905,
+      "m_Localized": "이곳은 완전한 세계. \r\n가든 오브 샹그릴라.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693416,
+      "m_Localized": "홍련일섬",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205907,
+      "m_Localized": "천지만물을 벤다는 건 이런 것일세.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693417,
+      "m_Localized": "사멸의 날",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205909,
+      "m_Localized": "너희에게 죽음의 인장을 내리니,\r\n후회하고 절망하거라.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693418,
+      "m_Localized": "소닉 체이서",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205911,
+      "m_Localized": "세상 끝까지 추격해 주겠어.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784958693419,
+      "m_Localized": "약오르죠?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205913,
+      "m_Localized": "이런 게 바로 무적이란 거 아니겠어?\r\n키득키득.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887680,
+      "m_Localized": "SAFE 50-50",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205915,
+      "m_Localized": "평생 잊을 수 없는 트릭이 될 거야.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887681,
+      "m_Localized": "스플린트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205917,
+      "m_Localized": "1번 선수 폴크방!\r\n냉기로 가득한 골까지! 달립니다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887682,
+      "m_Localized": "에너제틱 노이즈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205919,
+      "m_Localized": "멈추지 않는 Noise! 함께 불러요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887683,
+      "m_Localized": "볼륨 업, 가이즈!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205921,
+      "m_Localized": "Drop the beat~!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887684,
+      "m_Localized": "아리아 디 캄포",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205923,
+      "m_Localized": "이 생이 끝나는 날까지\r\n멈추지 않는 아리아를.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887685,
+      "m_Localized": "이지스 캐논",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205925,
+      "m_Localized": "전속 전진! 이지스 캐논! 발사!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887686,
+      "m_Localized": "라플라스 버스터",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205927,
+      "m_Localized": "지금 이곳에 정의를 증명한다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887687,
+      "m_Localized": "파란 나비의 꿈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205929,
+      "m_Localized": "추억은 마음속에서 영원히 기억될 거예요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887688,
+      "m_Localized": "쇼퍼홀릭 데이트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205931,
+      "m_Localized": "오빠~ 빨리 같이 고르러 가자!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887689,
+      "m_Localized": "신세계",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205933,
+      "m_Localized": "당신의 운명, 거둬갈게요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887690,
+      "m_Localized": "크레이지 자칼",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205935,
+      "m_Localized": "죄다 물어뜯어버릴 거야! 히히히힛!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887691,
+      "m_Localized": "스네이크 바이트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205937,
+      "m_Localized": "내 사랑이야. 받아줄래?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887692,
+      "m_Localized": "잡았다아….",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205939,
+      "m_Localized": "풀렸다… 이제 날뛰어도 돼?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887693,
+      "m_Localized": "워드 오브 킬",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205941,
+      "m_Localized": "내 말을 듣고 싶어질 거야. 그렇지?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887694,
+      "m_Localized": "위대한 탈출",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205943,
+      "m_Localized": "드디어 탈출이다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887695,
+      "m_Localized": "프로 메이드장",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 127801941744205945,
+      "m_Localized": "마무리도 완벽하게.\r\n그게 바로 프로 메이드니깐.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 134779537186295808,
+      "m_Localized": "대청소 메이드",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135390639170301952,
+      "m_Localized": "오늘도… 깨끗하게!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135390639199662080,
+      "m_Localized": "조용히 해주겠니?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135390639199662081,
+      "m_Localized": "조용히 해주겠니?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135390639199662082,
+      "m_Localized": "피의 해머",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135390639199662083,
+      "m_Localized": "크하하! 파워가 제일 최강이다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135390639203856384,
+      "m_Localized": "고스트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135390639203856385,
+      "m_Localized": "해치워버려.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 142682257738108982,
+      "m_Localized": "산책 훈련",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 142705257294594082,
+      "m_Localized": "강아지 총출동!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153193312520179736,
+      "m_Localized": "번 아포칼립스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153474311916138513,
+      "m_Localized": "내 차례야. 버텨보라고--!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153193312520179737,
+      "m_Localized": "침묵의 심해",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153474311916138515,
+      "m_Localized": "고요한 잠을 깨우는 자에게, 대가를.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153193312520179738,
+      "m_Localized": "앵화난만",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153474311916138517,
+      "m_Localized": "보이지 않는 곳에서 만인을 움직이니, 제가 곧 조직입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153193312520179739,
+      "m_Localized": "패닉 사이트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153474311916138519,
+      "m_Localized": "으아아~ 내가 지금 뭐 하는 거지이-!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153193312520179740,
+      "m_Localized": "처단",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153474311916138521,
+      "m_Localized": "타겟 발견. 처리한다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160779917925748785,
+      "m_Localized": "실낙원",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 163689191482896397,
+      "m_Localized": "쓸모없는 건 낙원에서 추방할 뿐.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160779917925748786,
+      "m_Localized": "선배의 모범",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 163689191482896399,
+      "m_Localized": "내 후배들 괴롭히면 가만 안 둬!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174895110863654949,
+      "m_Localized": "쇼타임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 175605419526000703,
+      "m_Localized": "블랑과 누아르의 쇼 타임이에요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174895110863654950,
+      "m_Localized": "피날레",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 175605419526000705,
+      "m_Localized": "누아르와 블랑의 쇼 타임이에요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174895110863654951,
+      "m_Localized": "벤데타",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 175605419526000707,
+      "m_Localized": "자, 우리만의 벤데타를 즐겨보자고.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183910603842850885,
+      "m_Localized": "고요한 수면",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 185039845547048969,
+      "m_Localized": "잠시, 가까이 갈게요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183910603842850886,
+      "m_Localized": "풀 하이드로 샷",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 185039845547048971,
+      "m_Localized": "스승님...! 이 넘치는 수력 좀 보세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 190835060364742723,
+      "m_Localized": "크고 난폭한 고양이",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 195278013173071950,
+      "m_Localized": "…밤이 됐으니, 자유롭게 놀아볼까냥.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 190835060364742724,
+      "m_Localized": "비바람을 뚫고!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 195278013173071952,
+      "m_Localized": "럼주와 함께라면 폭풍도 두렵지 않지.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200257744588705865,
+      "m_Localized": "CIWS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200974332605280268,
+      "m_Localized": "이 느낌은… 그거다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200257744588705866,
+      "m_Localized": "스파클링 웨이브",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200974332605280270,
+      "m_Localized": "가자, 파도들아!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200257744588705867,
+      "m_Localized": "이지스 캐논 오버로드",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200974332605280272,
+      "m_Localized": "이지스 캐논! 전심전력! 포격 개시!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 210399742167552048,
+      "m_Localized": "연속 공격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213684899832397863,
+      "m_Localized": "힘의 차이를 깨달아라.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 210399742167552049,
+      "m_Localized": "B 모드",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213684899832397865,
+      "m_Localized": "B 모드!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 210399742167552050,
+      "m_Localized": "다들 다치지 말아요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213684899832397867,
+      "m_Localized": "여긴 저한테 맡겨주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992829423669,
+      "m_Localized": "스승의 은혜",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 219535633679061036,
+      "m_Localized": "그럼, 본격적인 수업을 시작하겠습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992829423670,
+      "m_Localized": "친구들과 함께라면!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 219535633679061038,
+      "m_Localized": "학교생활의 추억…\r\n마지막만큼은 아름답게 남기고 싶어.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992829423671,
+      "m_Localized": "도마뱀의 보호",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 219535633679061040,
+      "m_Localized": "어딜 보는거야~ 방심은 금물이라구♥",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 228158506022932548,
+      "m_Localized": "꿰뚫어보기",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229644514994683954,
+      "m_Localized": "이…! 이 못된 벌레 녀석…!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227136098461749248,
+      "m_Localized": "레드 울프",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229644514994683956,
+      "m_Localized": "아쉽지만, 여기까지야!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227136098461749249,
+      "m_Localized": "세븐스 드워프 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229644514994683958,
+      "m_Localized": "여긴 제가 맡을게요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200695390947446814,
+      "m_Localized": "드레이크 스폐셜",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200715559789703215,
+      "m_Localized": "부릉부릉!\r\n부아아아아앙-!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 203519968967069750,
+      "m_Localized": "신세계",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 203525951087181843,
+      "m_Localized": "진짜, 진짜 좋아해요…!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213242235657588765,
+      "m_Localized": "연속 공격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213684899832397873,
+      "m_Localized": "시간 낭비야.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992829423678,
+      "m_Localized": "싱글 페이먼트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 219535633679061048,
+      "m_Localized": "오늘은 루피가 쏜다! 럭셔리 래빗 샷!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227136098461749258,
+      "m_Localized": "실낙원",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229644514994683968,
+      "m_Localized": "이 시간이 영원하기를.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38613923523137542,
+      "m_Localized": "메인 퀘스트 진행 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38613923523137543,
+      "m_Localized": "메인 퀘스트 진행 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38613923523137544,
+      "m_Localized": "메인 퀘스트 진행 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38613923523137545,
+      "m_Localized": "메인 퀘스트 진행 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 38613923523137546,
+      "m_Localized": "메인 퀘스트 진행 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218794514347397161,
+      "m_Localized": "이벤트 [NO CALLER ID]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130353653107699742,
+      "m_Localized": "이벤트 [메이드 인 밸런타인]의 미션에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130735010212261902,
+      "m_Localized": "이벤트 [바우와우 파라다이스]의 미션에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153193312520179748,
+      "m_Localized": "이벤트 [체리블로섬]의 미션에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 157519291040337942,
+      "m_Localized": "이벤트 [L.T.K]의 미션에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160779917925748796,
+      "m_Localized": "이벤트 [OVER ZONE]의 미션에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 175605419526000718,
+      "m_Localized": "이벤트 [Bunny X 777]의 미션에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 175605419526000719,
+      "m_Localized": "이벤트 [Queen's Order]의 미션에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183950706162208843,
+      "m_Localized": "이벤트 [Blue water Island]의 미션에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 192604546277249097,
+      "m_Localized": "이벤트 [냐냐 파라다이스]의 미션에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 192604546277249098,
+      "m_Localized": "이벤트 [골든 쉽]의 미션에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200257744592900104,
+      "m_Localized": "이벤트 [SEA, YOU, AGAIN]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 210459798401650709,
+      "m_Localized": "이벤트 [OUTER AUTOMATA]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992829423696,
+      "m_Localized": "이벤트 [SCHOOL OF LOCK]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992829423697,
+      "m_Localized": "이벤트 [DAZZLING CUPID]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992829423698,
+      "m_Localized": "이벤트 [DAZZLING CUPID]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 219155107638087770,
+      "m_Localized": "이벤트 [A.C.P.U.! FREEZE!]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227136098461749281,
+      "m_Localized": "이벤트 [REDASH]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73412624351170563,
+      "m_Localized": "라피 한계 돌파 2 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73412624351170564,
+      "m_Localized": "네온 한계 돌파 2 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73412624351170565,
+      "m_Localized": "아니스 한계 돌파 2 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73412624351170566,
+      "m_Localized": "상점에서 구매 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73412624351170567,
+      "m_Localized": "시그널 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319701,
+      "m_Localized": "폴리 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319702,
+      "m_Localized": "미란다 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319703,
+      "m_Localized": "브리드 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319704,
+      "m_Localized": "솔린 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319705,
+      "m_Localized": "디젤 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319706,
+      "m_Localized": "센티 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319707,
+      "m_Localized": "리타 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 77413605141319708,
+      "m_Localized": "앨리스 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2364252171,
+      "m_Localized": "프리바티 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887715,
+      "m_Localized": "엠마 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887716,
+      "m_Localized": "베스티 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887717,
+      "m_Localized": "은화 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887718,
+      "m_Localized": "드레이크 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887719,
+      "m_Localized": "맥스웰 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887720,
+      "m_Localized": "크로우 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887721,
+      "m_Localized": "메어리 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887722,
+      "m_Localized": "페퍼 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887723,
+      "m_Localized": "슈가 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887724,
+      "m_Localized": "밀크 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887725,
+      "m_Localized": "프림 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887726,
+      "m_Localized": "율리아 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887727,
+      "m_Localized": "유니 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887728,
+      "m_Localized": "율하 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887729,
+      "m_Localized": "애드미 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887730,
+      "m_Localized": "길로틴 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887731,
+      "m_Localized": "메이든 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887732,
+      "m_Localized": "루드밀라 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887733,
+      "m_Localized": "루피 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887734,
+      "m_Localized": "얀 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887735,
+      "m_Localized": "도라 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887736,
+      "m_Localized": "엑시아 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887737,
+      "m_Localized": "노벨 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887738,
+      "m_Localized": "스노우 화이트 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887739,
+      "m_Localized": "라푼젤 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887740,
+      "m_Localized": "홍련 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887741,
+      "m_Localized": "하란 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887742,
+      "m_Localized": "이사벨 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887743,
+      "m_Localized": "노아 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887744,
+      "m_Localized": "에피넬 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887745,
+      "m_Localized": "폴크방 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887746,
+      "m_Localized": "노이즈 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887747,
+      "m_Localized": "볼륨 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887748,
+      "m_Localized": "아리아 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887749,
+      "m_Localized": "헬름 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887750,
+      "m_Localized": "라플라스 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887751,
+      "m_Localized": "앤 : 미라클 페어리 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887752,
+      "m_Localized": "루피: 윈터 쇼퍼 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887753,
+      "m_Localized": "모더니아 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887754,
+      "m_Localized": "자칼 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887755,
+      "m_Localized": "바이퍼 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887756,
+      "m_Localized": "길티 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887757,
+      "m_Localized": "신 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887758,
+      "m_Localized": "퀀시 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122383784962887759,
+      "m_Localized": "코코아 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 134779537219850240,
+      "m_Localized": "소다 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135390639203856386,
+      "m_Localized": "마키마 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135390639203856387,
+      "m_Localized": "파워 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135390639203856388,
+      "m_Localized": "히메노 한계 돌파 2 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 142682257742303270,
+      "m_Localized": "비스킷 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153193312524374035,
+      "m_Localized": "니힐리스타 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153193312524374036,
+      "m_Localized": "리버렐리오 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153193312524374037,
+      "m_Localized": "사쿠라 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153193312524374038,
+      "m_Localized": "이벤트 [FULL FOOL DAY]의 미션에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153193312524374039,
+      "m_Localized": "디 한계 돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160779917929943086,
+      "m_Localized": "도로시 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160779917929943087,
+      "m_Localized": "라이 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174895110867849223,
+      "m_Localized": "블랑 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174895110867849224,
+      "m_Localized": "누아르 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174895110867849225,
+      "m_Localized": "로산나 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183910603851239426,
+      "m_Localized": "메어리: 베이 갓데스 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 183910603851239427,
+      "m_Localized": "네온: 블루 오션 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 190835060373131273,
+      "m_Localized": "네로 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 190835060373131274,
+      "m_Localized": "마스트 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200257744597094417,
+      "m_Localized": "앵커 한계돌파 2 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200257744597094418,
+      "m_Localized": "아니스: 스파클링 서머 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200257744597094419,
+      "m_Localized": "헬름: 아쿠아마린 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 210399742171746374,
+      "m_Localized": "2B 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 210399742175940608,
+      "m_Localized": "A2 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 210399742175940609,
+      "m_Localized": "파스칼 한계돌파 2 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992837812237,
+      "m_Localized": "마르차나 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992837812238,
+      "m_Localized": "나가 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992837812239,
+      "m_Localized": "티아 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 228158506035515398,
+      "m_Localized": "키리 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227136098465943602,
+      "m_Localized": "레드 후드 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227136098465943603,
+      "m_Localized": "스노우 화이트: 이노센트 데이즈 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200695391001972767,
+      "m_Localized": "드레이크: 빌런 레이서 소지 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 203519968979652613,
+      "m_Localized": "모더니아: 퍼스트 어펙션 소지 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213242235665977353,
+      "m_Localized": "2B: 요르하 제복1 소지 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218421992837812243,
+      "m_Localized": "루피: 럭셔리 레빗 소지 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227136098465943608,
+      "m_Localized": "도로시: 노스텔지어 소지 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": []
+  }
+}

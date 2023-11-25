@@ -1,0 +1,1079 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4826179110787420926
+  },
+  "m_Name": "Locale_SubQuest Shared Data",
+  "m_TableCollectionName": "Locale_SubQuest",
+  "m_TableCollectionNameGuidString": "bc8c8b205e7b9684181df9b2683aff43",
+  "m_Entries": [
+    {
+      "m_Id": 20019787290161157,
+      "m_Key": "sub_quest_description_1011",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355456,
+      "m_Key": "sub_quest_description_1021",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355457,
+      "m_Key": "sub_quest_description_1031",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380674,
+      "m_Key": "sub_quest_description_1091",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355461,
+      "m_Key": "sub_quest_description_1061",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380676,
+      "m_Key": "sub_quest_description_1101",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355462,
+      "m_Key": "sub_quest_description_1062",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355463,
+      "m_Key": "sub_quest_description_1081",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380679,
+      "m_Key": "sub_quest_description_1102",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355458,
+      "m_Key": "sub_quest_description_1041",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355460,
+      "m_Key": "sub_quest_description_1051",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380682,
+      "m_Key": "sub_quest_description_1103",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380683,
+      "m_Key": "sub_quest_description_1092",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380684,
+      "m_Key": "sub_quest_description_1201",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380685,
+      "m_Key": "sub_quest_description_1104",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380686,
+      "m_Key": "sub_quest_description_1093",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355459,
+      "m_Key": "sub_quest_description_1042",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380688,
+      "m_Key": "sub_quest_description_1105",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709201,
+      "m_Key": "sub_quest_description_1012",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709202,
+      "m_Key": "sub_quest_description_1022",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709203,
+      "m_Key": "sub_quest_description_1111",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709204,
+      "m_Key": "sub_quest_description_1063",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709205,
+      "m_Key": "sub_quest_description_1191",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709206,
+      "m_Key": "sub_quest_description_1281",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709207,
+      "m_Key": "sub_quest_description_1121",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709208,
+      "m_Key": "sub_quest_description_1151",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709209,
+      "m_Key": "sub_quest_description_1211",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709210,
+      "m_Key": "sub_quest_description_1131",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709211,
+      "m_Key": "sub_quest_description_1141",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709212,
+      "m_Key": "sub_quest_description_1221",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709213,
+      "m_Key": "sub_quest_description_1161",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709214,
+      "m_Key": "sub_quest_description_1171",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709215,
+      "m_Key": "sub_quest_description_1181",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860993,
+      "m_Key": "sub_quest_description_1241",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860994,
+      "m_Key": "sub_quest_description_1192",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860995,
+      "m_Key": "sub_quest_description_1094",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860996,
+      "m_Key": "sub_quest_description_1261",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860997,
+      "m_Key": "sub_quest_description_1212",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860998,
+      "m_Key": "sub_quest_description_1013",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860999,
+      "m_Key": "sub_quest_description_1262",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115861000,
+      "m_Key": "sub_quest_description_1271",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115861001,
+      "m_Key": "sub_quest_description_1263",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115861002,
+      "m_Key": "sub_quest_description_1064",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115861003,
+      "m_Key": "sub_quest_description_1106",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115861004,
+      "m_Key": "sub_quest_description_1264",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96291852985729068,
+      "m_Key": "sub_quest_description_1231",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96291852985729069,
+      "m_Key": "sub_quest_description_1107",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96291852985729070,
+      "m_Key": "sub_quest_description_1251",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96291852985729071,
+      "m_Key": "sub_quest_description_1032",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96291852985729072,
+      "m_Key": "sub_quest_description_1043",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96291852985729073,
+      "m_Key": "sub_quest_description_1122",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120547300337156114,
+      "m_Key": "sub_quest_description_1193",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120547300337156115,
+      "m_Key": "sub_quest_description_1162",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120547300337156116,
+      "m_Key": "sub_quest_description_1213",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120547300337156117,
+      "m_Key": "sub_quest_description_1194",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120547300337156118,
+      "m_Key": "sub_quest_description_1291",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120547300337156119,
+      "m_Key": "sub_quest_description_1301",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164769561490010115,
+      "m_Key": "sub_quest_description_1311",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164769561490010116,
+      "m_Key": "sub_quest_description_1312",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164769561490010117,
+      "m_Key": "sub_quest_description_1313",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164769561490010118,
+      "m_Key": "sub_quest_description_1112",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164769561490010119,
+      "m_Key": "sub_quest_description_1321",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164769561490010120,
+      "m_Key": "sub_quest_description_1331",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197740209979830283,
+      "m_Key": "sub_quest_description_1023",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197740209979830284,
+      "m_Key": "sub_quest_description_1330",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197740209984024576,
+      "m_Key": "sub_quest_description_1340",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197740209984024577,
+      "m_Key": "sub_quest_description_1350",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197740209984024578,
+      "m_Key": "sub_quest_description_1360",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197740209984024579,
+      "m_Key": "sub_quest_description_1370",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233958206440255488,
+      "m_Key": "sub_quest_description_1132",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233958206440255489,
+      "m_Key": "sub_quest_description_1222",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233958206440255490,
+      "m_Key": "sub_quest_description_1302",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233958206440255491,
+      "m_Key": "sub_quest_description_1381",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233958206440255492,
+      "m_Key": "sub_quest_description_1382",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233958206440255493,
+      "m_Key": "sub_quest_description_1391",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 35838138947985422,
+      "m_Key": "emergency_quest_description_9990001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 35838138947985423,
+      "m_Key": "emergency_quest_description_9990002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 35838138947985424,
+      "m_Key": "emergency_quest_description_9990003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 35838138947985425,
+      "m_Key": "emergency_quest_description_9990004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145563,
+      "m_Key": "EVENT_QUEST_NAME_1000101",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145564,
+      "m_Key": "EVENT_QUEST_NAME_1000102",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145565,
+      "m_Key": "EVENT_QUEST_NAME_1000103",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145566,
+      "m_Key": "EVENT_QUEST_NAME_1000104",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145567,
+      "m_Key": "EVENT_QUEST_NAME_1000105",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145568,
+      "m_Key": "EVENT_QUEST_NAME_1000106",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145569,
+      "m_Key": "EVENT_QUEST_NAME_1000107",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145570,
+      "m_Key": "EVENT_QUEST_NAME_1000108",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145571,
+      "m_Key": "EVENT_QUEST_NAME_1000109",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145572,
+      "m_Key": "EVENT_QUEST_NAME_1000110",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154690447395565606,
+      "m_Key": "EVENT_QUEST_NAME_1000111",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158618706849239057,
+      "m_Key": "EVENT_QUEST_NAME_1000112",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158296986766479400,
+      "m_Key": "EVENT_QUEST_NAME_1000113",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145574,
+      "m_Key": "EVENT_QUEST_DESC_1000101",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145575,
+      "m_Key": "EVENT_QUEST_DESC_1000102",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145576,
+      "m_Key": "EVENT_QUEST_DESC_1000103",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145577,
+      "m_Key": "EVENT_QUEST_DESC_1000104",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145578,
+      "m_Key": "EVENT_QUEST_DESC_1000105",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145579,
+      "m_Key": "EVENT_QUEST_DESC_1000106",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145580,
+      "m_Key": "EVENT_QUEST_DESC_1000107",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145581,
+      "m_Key": "EVENT_QUEST_DESC_1000108",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145582,
+      "m_Key": "EVENT_QUEST_DESC_1000109",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145583,
+      "m_Key": "EVENT_QUEST_DESC_1000110",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154685701528006705,
+      "m_Key": "EVENT_QUEST_DESC_1000111",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158618706849239070,
+      "m_Key": "EVENT_QUEST_DESC_1000112",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158296986766479413,
+      "m_Key": "EVENT_QUEST_DESC_1000113",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338116,
+      "m_Key": "EVENT_QUEST_NAME_1000201",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338117,
+      "m_Key": "EVENT_QUEST_NAME_1000202",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338118,
+      "m_Key": "EVENT_QUEST_NAME_1000203",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338119,
+      "m_Key": "EVENT_QUEST_NAME_1000204",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338120,
+      "m_Key": "EVENT_QUEST_NAME_1000205",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338121,
+      "m_Key": "EVENT_QUEST_NAME_1000206",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338122,
+      "m_Key": "EVENT_QUEST_NAME_1000207",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338123,
+      "m_Key": "EVENT_QUEST_NAME_1000208",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338124,
+      "m_Key": "EVENT_QUEST_NAME_1000209",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338125,
+      "m_Key": "EVENT_QUEST_NAME_1000210",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201742179553185864,
+      "m_Key": "EVENT_QUEST_NAME_1000211",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201742179553185865,
+      "m_Key": "EVENT_QUEST_NAME_1000212",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338126,
+      "m_Key": "EVENT_QUEST_DESC_1000201",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338127,
+      "m_Key": "EVENT_QUEST_DESC_1000202",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338128,
+      "m_Key": "EVENT_QUEST_DESC_1000203",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338129,
+      "m_Key": "EVENT_QUEST_DESC_1000204",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338130,
+      "m_Key": "EVENT_QUEST_DESC_1000205",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338131,
+      "m_Key": "EVENT_QUEST_DESC_1000206",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338132,
+      "m_Key": "EVENT_QUEST_DESC_1000207",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338133,
+      "m_Key": "EVENT_QUEST_DESC_1000208",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338134,
+      "m_Key": "EVENT_QUEST_DESC_1000209",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338135,
+      "m_Key": "EVENT_QUEST_DESC_1000210",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201742179553185876,
+      "m_Key": "EVENT_QUEST_DESC_1000211",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201742179553185877,
+      "m_Key": "EVENT_QUEST_DESC_1000212",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535104,
+      "m_Key": "EVENT_QUEST_NAME_1000301",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535105,
+      "m_Key": "EVENT_QUEST_NAME_1000302",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535106,
+      "m_Key": "EVENT_QUEST_NAME_1000303",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535107,
+      "m_Key": "EVENT_QUEST_NAME_1000304",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535108,
+      "m_Key": "EVENT_QUEST_NAME_1000305",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535109,
+      "m_Key": "EVENT_QUEST_NAME_1000306",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535110,
+      "m_Key": "EVENT_QUEST_NAME_1000307",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535111,
+      "m_Key": "EVENT_QUEST_NAME_1000308",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535112,
+      "m_Key": "EVENT_QUEST_NAME_1000309",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729344,
+      "m_Key": "EVENT_QUEST_NAME_1000310",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729345,
+      "m_Key": "EVENT_QUEST_DESC_1000301",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729346,
+      "m_Key": "EVENT_QUEST_DESC_1000302",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729347,
+      "m_Key": "EVENT_QUEST_DESC_1000303",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729348,
+      "m_Key": "EVENT_QUEST_DESC_1000304",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729349,
+      "m_Key": "EVENT_QUEST_DESC_1000305",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729350,
+      "m_Key": "EVENT_QUEST_DESC_1000306",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729351,
+      "m_Key": "EVENT_QUEST_DESC_1000307",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729352,
+      "m_Key": "EVENT_QUEST_DESC_1000308",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729353,
+      "m_Key": "EVENT_QUEST_DESC_1000309",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729354,
+      "m_Key": "EVENT_QUEST_DESC_1000310",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_KeyGenerator": {
+    "rid": 0
+  },
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "DistributedUIDGenerator",
+          "ns": "UnityEngine.Localization.Tables",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}

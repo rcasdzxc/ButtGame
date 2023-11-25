@@ -1,0 +1,344 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4826179110787420926
+  },
+  "m_Name": "Locale_Dispatch2 Shared Data",
+  "m_TableCollectionName": "Locale_Dispatch2",
+  "m_TableCollectionNameGuidString": "2322f0f41291fc7409cae290d273c2d7",
+  "m_Entries": [
+    {
+      "m_Id": 12573725133938719,
+      "m_Key": "dispatch_description_1001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938720,
+      "m_Key": "dispatch_description_1002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938721,
+      "m_Key": "dispatch_description_1003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938722,
+      "m_Key": "dispatch_description_2001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938723,
+      "m_Key": "dispatch_description_2002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938724,
+      "m_Key": "dispatch_description_2003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938725,
+      "m_Key": "dispatch_description_2004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938726,
+      "m_Key": "dispatch_description_3001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938727,
+      "m_Key": "dispatch_description_3002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938728,
+      "m_Key": "dispatch_description_3003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938729,
+      "m_Key": "dispatch_description_3004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938730,
+      "m_Key": "dispatch_description_3005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938731,
+      "m_Key": "dispatch_description_4001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938732,
+      "m_Key": "dispatch_description_4002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938733,
+      "m_Key": "dispatch_description_4003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938734,
+      "m_Key": "dispatch_description_4004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938735,
+      "m_Key": "dispatch_description_4005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938736,
+      "m_Key": "dispatch_description_5001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938737,
+      "m_Key": "dispatch_description_5002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938738,
+      "m_Key": "dispatch_description_5003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938739,
+      "m_Key": "dispatch_description_5004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938740,
+      "m_Key": "dispatch_description_5005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938741,
+      "m_Key": "dispatch_description_1101",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938742,
+      "m_Key": "dispatch_description_1102",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938743,
+      "m_Key": "dispatch_description_1103",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938744,
+      "m_Key": "dispatch_description_2101",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938745,
+      "m_Key": "dispatch_description_2102",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938746,
+      "m_Key": "dispatch_description_2103",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938747,
+      "m_Key": "dispatch_description_2104",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938748,
+      "m_Key": "dispatch_description_3101",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938749,
+      "m_Key": "dispatch_description_3102",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938750,
+      "m_Key": "dispatch_description_3103",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938751,
+      "m_Key": "dispatch_description_3104",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938752,
+      "m_Key": "dispatch_description_3105",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938753,
+      "m_Key": "dispatch_description_4101",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938754,
+      "m_Key": "dispatch_description_4102",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938755,
+      "m_Key": "dispatch_description_4103",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938756,
+      "m_Key": "dispatch_description_4104",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938757,
+      "m_Key": "dispatch_description_4105",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938758,
+      "m_Key": "dispatch_description_5101",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938759,
+      "m_Key": "dispatch_description_5102",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938760,
+      "m_Key": "dispatch_description_5103",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938761,
+      "m_Key": "dispatch_description_5104",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938762,
+      "m_Key": "dispatch_description_5105",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_KeyGenerator": {
+    "rid": 0
+  },
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "DistributedUIDGenerator",
+          "ns": "UnityEngine.Localization.Tables",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}

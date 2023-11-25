@@ -1,0 +1,4418 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4826179110787420926
+  },
+  "m_Name": "Locale_Tutorial Shared Data",
+  "m_TableCollectionName": "Locale_Tutorial",
+  "m_TableCollectionNameGuidString": "e3d86c6ce5124b14bbc58fe7809a91b8",
+  "m_Entries": [
+    {
+      "m_Id": 17692854318579728,
+      "m_Key": "tuto01_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579746,
+      "m_Key": "tuto01_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579729,
+      "m_Key": "tuto01_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579747,
+      "m_Key": "tuto01_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579730,
+      "m_Key": "tuto01_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579748,
+      "m_Key": "tuto01_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61463706371661826,
+      "m_Key": "tuto01_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61463706371661827,
+      "m_Key": "tuto01_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64068912305446919,
+      "m_Key": "tuto01_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64068912305446920,
+      "m_Key": "tuto01_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579733,
+      "m_Key": "tuto03_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579751,
+      "m_Key": "tuto03_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579734,
+      "m_Key": "tuto04_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579752,
+      "m_Key": "tuto04_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579731,
+      "m_Key": "tuto02_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579749,
+      "m_Key": "tuto02_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579732,
+      "m_Key": "tuto02_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579750,
+      "m_Key": "tuto02_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61463706371661836,
+      "m_Key": "tuto05_00_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61463706371661837,
+      "m_Key": "tuto05_00_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579735,
+      "m_Key": "tuto05_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579753,
+      "m_Key": "tuto05_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579736,
+      "m_Key": "tuto05_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579754,
+      "m_Key": "tuto05_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276625,
+      "m_Key": "tuto05_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18518490977189890,
+      "m_Key": "tuto05_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276627,
+      "m_Key": "tuto05_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276628,
+      "m_Key": "tuto05_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276629,
+      "m_Key": "tuto05_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276630,
+      "m_Key": "tuto05_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276631,
+      "m_Key": "tuto05_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276632,
+      "m_Key": "tuto05_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276633,
+      "m_Key": "tuto05_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276634,
+      "m_Key": "tuto05_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579737,
+      "m_Key": "tuto06_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579755,
+      "m_Key": "tuto06_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579738,
+      "m_Key": "tuto06_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579756,
+      "m_Key": "tuto06_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579739,
+      "m_Key": "tuto07_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579757,
+      "m_Key": "tuto07_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579740,
+      "m_Key": "tuto07_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579758,
+      "m_Key": "tuto07_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168727,
+      "m_Key": "tuto07_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168728,
+      "m_Key": "tuto07_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579741,
+      "m_Key": "tuto08_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18171153859788852,
+      "m_Key": "tuto08_01_a_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12065439943229449,
+      "m_Key": "tuto08_01_b_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12313362605842458,
+      "m_Key": "tuto08_01_c_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29299391384195072,
+      "m_Key": "tuto08_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29299391388389376,
+      "m_Key": "tuto08_02_a_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29299391396777984,
+      "m_Key": "tuto08_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579743,
+      "m_Key": "tuto08_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579761,
+      "m_Key": "tuto08_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579744,
+      "m_Key": "tuto08_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6652979597582339,
+      "m_Key": "tuto08_04_a_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579762,
+      "m_Key": "tuto08_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579745,
+      "m_Key": "tuto08_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579763,
+      "m_Key": "tuto08_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466159194159,
+      "m_Key": "tuto08_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466159194160,
+      "m_Key": "tuto08_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168742,
+      "m_Key": "tuto09_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168743,
+      "m_Key": "tuto09_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168744,
+      "m_Key": "tuto09_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168745,
+      "m_Key": "tuto09_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168746,
+      "m_Key": "tuto09_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168747,
+      "m_Key": "tuto09_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470921,
+      "m_Key": "tuto09_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470922,
+      "m_Key": "tuto09_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470923,
+      "m_Key": "tuto09_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470924,
+      "m_Key": "tuto09_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60092947548119046,
+      "m_Key": "tuto09_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60092947548119047,
+      "m_Key": "tuto09_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60103938302320665,
+      "m_Key": "tuto09_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60103938302320666,
+      "m_Key": "tuto09_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64372209696415805,
+      "m_Key": "tuto09_08_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64372209696415806,
+      "m_Key": "tuto09_08_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303342702628,
+      "m_Key": "tuto09_09_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303342702629,
+      "m_Key": "tuto09_09_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303342702630,
+      "m_Key": "tuto09_10_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303342702631,
+      "m_Key": "tuto09_10_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303342702632,
+      "m_Key": "tuto09_11_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303342702633,
+      "m_Key": "tuto09_11_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583106973719,
+      "m_Key": "tuto09_12_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583106973720,
+      "m_Key": "tuto09_12_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168748,
+      "m_Key": "tuto10_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168749,
+      "m_Key": "tuto10_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7575844039729199,
+      "m_Key": "tuto10_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7575844039729200,
+      "m_Key": "tuto10_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20569673449644064,
+      "m_Key": "tuto12_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20569673449644065,
+      "m_Key": "tuto12_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20569673449644066,
+      "m_Key": "tuto12_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20569673449644067,
+      "m_Key": "tuto12_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168750,
+      "m_Key": "tuto11_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936920363008,
+      "m_Key": "tuto11_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936920363009,
+      "m_Key": "tuto11_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936920363010,
+      "m_Key": "tuto11_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7575844039729205,
+      "m_Key": "tuto11_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7575844039729206,
+      "m_Key": "tuto11_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361905,
+      "m_Key": "tuto11_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361906,
+      "m_Key": "tuto11_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361907,
+      "m_Key": "tuto11_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361908,
+      "m_Key": "tuto11_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494243984056320,
+      "m_Key": "tuto11_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244038582272,
+      "m_Key": "tuto11_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361909,
+      "m_Key": "tuto11_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361910,
+      "m_Key": "tuto11_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361911,
+      "m_Key": "tuto11_08_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361912,
+      "m_Key": "tuto11_08_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361913,
+      "m_Key": "tuto11_09_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361914,
+      "m_Key": "tuto11_09_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152424627830562827,
+      "m_Key": "tuto11_10_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152424627830562828,
+      "m_Key": "tuto11_10_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361917,
+      "m_Key": "tuto_auto_control_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556160,
+      "m_Key": "tuto_auto_control_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556161,
+      "m_Key": "tuto_auto_control_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556162,
+      "m_Key": "tuto_auto_control_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556163,
+      "m_Key": "tuto_auto_control_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556164,
+      "m_Key": "tuto_auto_control_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556165,
+      "m_Key": "tuto_auto_control_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556166,
+      "m_Key": "tuto_auto_control_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752754,
+      "m_Key": "field_tuto01_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975500058674,
+      "m_Key": "field_tuto01_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752756,
+      "m_Key": "field_tuto01_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975500058675,
+      "m_Key": "field_tuto01_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298773196857,
+      "m_Key": "field_tuto02_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298773196858,
+      "m_Key": "field_tuto02_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298773196859,
+      "m_Key": "field_tuto02_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391104,
+      "m_Key": "field_tuto02_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391105,
+      "m_Key": "field_tuto02_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391106,
+      "m_Key": "field_tuto02_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470949,
+      "m_Key": "field_tuto_element_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470950,
+      "m_Key": "field_tuto_element_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470951,
+      "m_Key": "field_tuto_element_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470952,
+      "m_Key": "field_tuto_element_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470953,
+      "m_Key": "field_tuto_element_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470954,
+      "m_Key": "field_tuto_element_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470955,
+      "m_Key": "field_tuto_element_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470956,
+      "m_Key": "field_tuto_element_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470957,
+      "m_Key": "field_tuto_element_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470958,
+      "m_Key": "field_tuto_element_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470959,
+      "m_Key": "field_mission_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470960,
+      "m_Key": "field_mission_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470961,
+      "m_Key": "field_mission_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470962,
+      "m_Key": "field_mission_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470963,
+      "m_Key": "field_mission_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470964,
+      "m_Key": "field_mission_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470965,
+      "m_Key": "field_mission_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470966,
+      "m_Key": "field_mission_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470967,
+      "m_Key": "field_mission_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470968,
+      "m_Key": "field_mission_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470969,
+      "m_Key": "field_mission_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470970,
+      "m_Key": "field_mission_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538561912845,
+      "m_Key": "field_mission_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538561912846,
+      "m_Key": "field_mission_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752758,
+      "m_Key": "field_tuto03_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975500058676,
+      "m_Key": "field_tuto03_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752760,
+      "m_Key": "field_tuto03_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975500058677,
+      "m_Key": "field_tuto03_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752762,
+      "m_Key": "field_tuto03_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975500058678,
+      "m_Key": "field_tuto03_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733693,
+      "m_Key": "field_tuto03_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733694,
+      "m_Key": "field_tuto03_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12769573449015361,
+      "m_Key": "field_tuto03_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12769573449015362,
+      "m_Key": "field_tuto03_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466163388463,
+      "m_Key": "field_tuto03_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466163388464,
+      "m_Key": "field_tuto03_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470981,
+      "m_Key": "field_tuto_effective_range_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470982,
+      "m_Key": "field_tuto_effective_range_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470983,
+      "m_Key": "field_tuto_effective_range_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470984,
+      "m_Key": "field_tuto_effective_range_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470985,
+      "m_Key": "field_tuto_effective_range_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470986,
+      "m_Key": "field_tuto_effective_range_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470987,
+      "m_Key": "field_tuto_effective_range_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470988,
+      "m_Key": "field_tuto_effective_range_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470989,
+      "m_Key": "field_tuto_effective_range_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470990,
+      "m_Key": "field_tuto_effective_range_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470991,
+      "m_Key": "field_tuto_effective_range_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470992,
+      "m_Key": "field_tuto_effective_range_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470993,
+      "m_Key": "field_tuto_effective_range_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470994,
+      "m_Key": "field_tuto_effective_range_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752764,
+      "m_Key": "field_tuto04_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975500058679,
+      "m_Key": "field_tuto04_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752766,
+      "m_Key": "field_tuto04_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252928,
+      "m_Key": "field_tuto04_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752768,
+      "m_Key": "field_tuto05_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252929,
+      "m_Key": "field_tuto05_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752770,
+      "m_Key": "field_tuto05_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252930,
+      "m_Key": "field_tuto05_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752772,
+      "m_Key": "field_tuto05_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252931,
+      "m_Key": "field_tuto05_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12769573449015373,
+      "m_Key": "field_tuto06_00_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12769573449015374,
+      "m_Key": "field_tuto06_00_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752774,
+      "m_Key": "field_tuto06_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252932,
+      "m_Key": "field_tuto06_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752776,
+      "m_Key": "field_tuto06_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252933,
+      "m_Key": "field_tuto06_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752778,
+      "m_Key": "field_tuto06_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252934,
+      "m_Key": "field_tuto06_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752780,
+      "m_Key": "field_tuto06_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252935,
+      "m_Key": "field_tuto06_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752782,
+      "m_Key": "field_tuto06_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252936,
+      "m_Key": "field_tuto06_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086875947009,
+      "m_Key": "field_tuto06_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252937,
+      "m_Key": "field_tuto06_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086875947011,
+      "m_Key": "field_tuto06_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252938,
+      "m_Key": "field_tuto06_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086875947013,
+      "m_Key": "field_tuto06_08_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252939,
+      "m_Key": "field_tuto06_08_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733721,
+      "m_Key": "field_tuto07_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733722,
+      "m_Key": "field_tuto07_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733723,
+      "m_Key": "field_tuto07_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733724,
+      "m_Key": "field_tuto07_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733725,
+      "m_Key": "field_tuto07_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733726,
+      "m_Key": "field_tuto07_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733727,
+      "m_Key": "field_tuto07_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733728,
+      "m_Key": "field_tuto07_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733729,
+      "m_Key": "field_tuto07_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733730,
+      "m_Key": "field_tuto07_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481705,
+      "m_Key": "field_tuto07_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481706,
+      "m_Key": "field_tuto07_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481707,
+      "m_Key": "field_tuto07_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481708,
+      "m_Key": "field_tuto07_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481709,
+      "m_Key": "field_tuto07_08_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481710,
+      "m_Key": "field_tuto07_08_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481711,
+      "m_Key": "field_tuto07_09_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481712,
+      "m_Key": "field_tuto07_09_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538566107179,
+      "m_Key": "field_tuto07_10_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538566107180,
+      "m_Key": "field_tuto07_10_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538566107181,
+      "m_Key": "tuto_team_setting_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301440,
+      "m_Key": "tuto_team_setting_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301441,
+      "m_Key": "tuto_team_setting_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301442,
+      "m_Key": "tuto_team_setting_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301443,
+      "m_Key": "tuto_team_setting_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301444,
+      "m_Key": "tuto_team_setting_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301445,
+      "m_Key": "tuto_team_setting_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301446,
+      "m_Key": "tuto_team_setting_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301447,
+      "m_Key": "tuto_team_setting_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301448,
+      "m_Key": "tuto_team_setting_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301449,
+      "m_Key": "tuto_team_setting_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301450,
+      "m_Key": "tuto_team_setting_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301451,
+      "m_Key": "tuto_team_setting_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301452,
+      "m_Key": "tuto_team_setting_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756526710852,
+      "m_Key": "tuto_cube_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756526710853,
+      "m_Key": "tuto_cube_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15813711505432593,
+      "m_Key": "tuto_attractive_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15813711505432594,
+      "m_Key": "tuto_attractive_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15813711505432595,
+      "m_Key": "tuto_attractive_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15813711505432596,
+      "m_Key": "tuto_attractive_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060621,
+      "m_Key": "tuto_dispatch_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060622,
+      "m_Key": "tuto_dispatch_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060623,
+      "m_Key": "tuto_dispatch_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060624,
+      "m_Key": "tuto_tower_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060625,
+      "m_Key": "tuto_tower_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060626,
+      "m_Key": "tuto_recycleroom_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060627,
+      "m_Key": "tuto_recycleroom_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254848,
+      "m_Key": "tuto_recycleroom_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 203482684512808963,
+      "m_Key": "tuto_campaign_hard_open_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254849,
+      "m_Key": "tuto_academy_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254850,
+      "m_Key": "tuto_academy_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254851,
+      "m_Key": "tuto_academy_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60078134944112646,
+      "m_Key": "tuto_academy_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60078134944112647,
+      "m_Key": "tuto_academy_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466167582758,
+      "m_Key": "field_tuto08_00_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466167582759,
+      "m_Key": "field_tuto08_00_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756526710869,
+      "m_Key": "field_tuto08_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254852,
+      "m_Key": "field_tuto08_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905089,
+      "m_Key": "field_tuto08_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254853,
+      "m_Key": "field_tuto08_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466167582764,
+      "m_Key": "field_tuto09_00_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466167582765,
+      "m_Key": "field_tuto09_00_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905091,
+      "m_Key": "field_tuto09_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254854,
+      "m_Key": "field_tuto09_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905093,
+      "m_Key": "field_tuto09_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254855,
+      "m_Key": "field_tuto09_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905095,
+      "m_Key": "field_tuto09_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254856,
+      "m_Key": "field_tuto09_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905097,
+      "m_Key": "field_tuto09_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254857,
+      "m_Key": "field_tuto09_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905099,
+      "m_Key": "field_tuto09_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254858,
+      "m_Key": "field_tuto09_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301490,
+      "m_Key": "tuto_level_up_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301491,
+      "m_Key": "tuto_level_up_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301492,
+      "m_Key": "tuto_level_up_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301493,
+      "m_Key": "tuto_level_up_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301494,
+      "m_Key": "tuto_level_up_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301495,
+      "m_Key": "tuto_level_up_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301496,
+      "m_Key": "tuto_level_up_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301497,
+      "m_Key": "tuto_level_up_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301498,
+      "m_Key": "tuto_level_up_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301499,
+      "m_Key": "tuto_level_up_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905101,
+      "m_Key": "field_tuto09_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254859,
+      "m_Key": "field_tuto09_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801334665269,
+      "m_Key": "field_tuto10_00_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801334665270,
+      "m_Key": "field_tuto10_00_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905103,
+      "m_Key": "field_tuto10_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254860,
+      "m_Key": "field_tuto10_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905105,
+      "m_Key": "field_tuto10_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254861,
+      "m_Key": "field_tuto10_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905107,
+      "m_Key": "field_tuto10_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254862,
+      "m_Key": "field_tuto10_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495753,
+      "m_Key": "tuto_easy_equip_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495754,
+      "m_Key": "tuto_easy_equip_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495755,
+      "m_Key": "tuto_easy_equip_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495756,
+      "m_Key": "tuto_easy_equip_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495757,
+      "m_Key": "tuto_easy_equip_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495758,
+      "m_Key": "tuto_easy_equip_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495759,
+      "m_Key": "tuto_easy_equip_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495760,
+      "m_Key": "tuto_easy_equip_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495761,
+      "m_Key": "tuto_easy_equip_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495762,
+      "m_Key": "tuto_easy_equip_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495763,
+      "m_Key": "tuto_easy_equip_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495764,
+      "m_Key": "tuto_easy_equip_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065664,
+      "m_Key": "tuto_outpost_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065665,
+      "m_Key": "tuto_outpost_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065666,
+      "m_Key": "tuto_outpost_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065667,
+      "m_Key": "tuto_outpost_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065668,
+      "m_Key": "tuto_outpost_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065669,
+      "m_Key": "tuto_outpost_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065670,
+      "m_Key": "tuto_outpost_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065671,
+      "m_Key": "tuto_outpost_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065672,
+      "m_Key": "tuto_outpost_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065673,
+      "m_Key": "tuto_outpost_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065674,
+      "m_Key": "tuto_outpost_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065675,
+      "m_Key": "tuto_outpost_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495777,
+      "m_Key": "tuto_outpost_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495778,
+      "m_Key": "tuto_outpost_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495779,
+      "m_Key": "tuto_outpost_08_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495780,
+      "m_Key": "tuto_outpost_08_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391194,
+      "m_Key": "tuto_outpost_hud_decription_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391195,
+      "m_Key": "tuto_outpost_hud_decription_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391196,
+      "m_Key": "tuto_outpost_hud_decription_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391197,
+      "m_Key": "tuto_outpost_hud_decription_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065680,
+      "m_Key": "tuto_outpost_hud_decription_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065681,
+      "m_Key": "tuto_outpost_hud_decription_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905109,
+      "m_Key": "tuto_oupostbattle_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254863,
+      "m_Key": "tuto_oupostbattle_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905111,
+      "m_Key": "tuto_oupostbattle_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254864,
+      "m_Key": "tuto_oupostbattle_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905113,
+      "m_Key": "tuto_oupostbattle_03_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905114,
+      "m_Key": "tuto_oupostbattle_03_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905115,
+      "m_Key": "tuto_oupostbattle_03_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905116,
+      "m_Key": "tuto_oupostbattle_03_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905117,
+      "m_Key": "tuto_oupostbattle_03_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905118,
+      "m_Key": "tuto_oupostbattle_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254866,
+      "m_Key": "tuto_oupostbattle_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905120,
+      "m_Key": "tuto_oupostbattle_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905121,
+      "m_Key": "tuto_oupostbattle_0_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905122,
+      "m_Key": "tuto_outpostbuilding_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254872,
+      "m_Key": "tuto_outpostbuilding_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905124,
+      "m_Key": "tuto_outpostbuilding_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254873,
+      "m_Key": "tuto_outpostbuilding_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905126,
+      "m_Key": "tuto_outpostbuilding_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254874,
+      "m_Key": "tuto_outpostbuilding_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905128,
+      "m_Key": "tuto_outpostbuilding_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254875,
+      "m_Key": "tuto_outpostbuilding_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905130,
+      "m_Key": "tuto_outpostbuilding_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254876,
+      "m_Key": "tuto_outpostbuilding_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905132,
+      "m_Key": "tuto_outpostbuilding_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254877,
+      "m_Key": "tuto_outpostbuilding_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905134,
+      "m_Key": "field_tuto11_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254878,
+      "m_Key": "field_tuto11_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905136,
+      "m_Key": "field_tuto11_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254879,
+      "m_Key": "field_tuto11_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905138,
+      "m_Key": "field_tuto12_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254880,
+      "m_Key": "field_tuto12_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905140,
+      "m_Key": "field_tuto12_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254881,
+      "m_Key": "field_tuto12_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905142,
+      "m_Key": "field_tuto12_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254882,
+      "m_Key": "field_tuto12_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905144,
+      "m_Key": "field_tuto12_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254883,
+      "m_Key": "field_tuto12_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905146,
+      "m_Key": "field_tuto12_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254884,
+      "m_Key": "field_tuto12_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64136282474586176,
+      "m_Key": "field_tuto12_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64136282474586177,
+      "m_Key": "field_tuto12_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254885,
+      "m_Key": "tuto_synchrodevice_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254886,
+      "m_Key": "tuto_synchrodevice_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254887,
+      "m_Key": "tuto_synchrodevice_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905152,
+      "m_Key": "tuto_wishlist_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905153,
+      "m_Key": "tuto_wishlist_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905154,
+      "m_Key": "tuto_wishlist_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905155,
+      "m_Key": "tuto_wishlist_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905156,
+      "m_Key": "tuto_wishlist_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905157,
+      "m_Key": "tuto_wishlist_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859552,
+      "m_Key": "tuto_lost_sector_field_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859553,
+      "m_Key": "tuto_lost_sector_field_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859554,
+      "m_Key": "tuto_lost_sector_field_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859555,
+      "m_Key": "tuto_lost_sector_field_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859556,
+      "m_Key": "tuto_lost_sector_field_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859557,
+      "m_Key": "tuto_lost_sector_field_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859558,
+      "m_Key": "tuto_lost_sector_field_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859559,
+      "m_Key": "tuto_lost_sector_field_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859560,
+      "m_Key": "tuto_lost_sector_field_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859561,
+      "m_Key": "tuto_lost_sector_field_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859562,
+      "m_Key": "tuto_lost_sector_field_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859563,
+      "m_Key": "tuto_lost_sector_field_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859564,
+      "m_Key": "tuto_lost_sector_field_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859565,
+      "m_Key": "tuto_lost_sector_field_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60078134948306960,
+      "m_Key": "tuto_lost_sector_re_start_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60078134948306961,
+      "m_Key": "tuto_lost_sector_re_start_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62251659779940358,
+      "m_Key": "tuto_simulation_room_00_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62251659779940359,
+      "m_Key": "tuto_simulation_room_00_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384647,
+      "m_Key": "tuto_simulation_room_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384648,
+      "m_Key": "tuto_simulation_room_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384649,
+      "m_Key": "tuto_simulation_room_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384650,
+      "m_Key": "tuto_simulation_room_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384651,
+      "m_Key": "tuto_simulation_room_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384652,
+      "m_Key": "tuto_simulation_room_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384653,
+      "m_Key": "tuto_simulation_room_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384654,
+      "m_Key": "tuto_simulation_room_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384655,
+      "m_Key": "tuto_simulation_room_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384656,
+      "m_Key": "tuto_simulation_room_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384657,
+      "m_Key": "tuto_simulation_room_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384658,
+      "m_Key": "tuto_simulation_room_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384659,
+      "m_Key": "tuto_simulation_room_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384660,
+      "m_Key": "tuto_simulation_room_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384661,
+      "m_Key": "tuto_simulation_room_08_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384662,
+      "m_Key": "tuto_simulation_room_08_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384663,
+      "m_Key": "tuto_simulation_room_09_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578880,
+      "m_Key": "tuto_simulation_room_09_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578881,
+      "m_Key": "tuto_simulation_room_11_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578882,
+      "m_Key": "tuto_simulation_room_11_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578883,
+      "m_Key": "tuto_simulation_room_12_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578884,
+      "m_Key": "tuto_simulation_room_12_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578885,
+      "m_Key": "tuto_simulation_room_13_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578886,
+      "m_Key": "tuto_simulation_room_13_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578887,
+      "m_Key": "tuto_simulation_room_14_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578888,
+      "m_Key": "tuto_simulation_room_14_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578889,
+      "m_Key": "tuto_simulation_room_15_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578890,
+      "m_Key": "tuto_simulation_room_15_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578891,
+      "m_Key": "tuto_simulation_room_16_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578892,
+      "m_Key": "tuto_simulation_room_16_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674141,
+      "m_Key": "tuto_simulation_room_17_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674142,
+      "m_Key": "tuto_simulation_room_17_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578893,
+      "m_Key": "tuto_simulation_room_18_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578894,
+      "m_Key": "tuto_simulation_room_18_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578895,
+      "m_Key": "tuto_simulation_room_19_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578896,
+      "m_Key": "tuto_simulation_room_19_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578897,
+      "m_Key": "tuto_simulation_room_21_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578898,
+      "m_Key": "tuto_simulation_room_21_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578899,
+      "m_Key": "tuto_simulation_room_22_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578900,
+      "m_Key": "tuto_simulation_room_22_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578901,
+      "m_Key": "tuto_simulation_room_24_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578902,
+      "m_Key": "tuto_simulation_room_24_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578903,
+      "m_Key": "tuto_simulation_room_27_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578904,
+      "m_Key": "tuto_simulation_room_27_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578905,
+      "m_Key": "tuto_simulation_room_28_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578906,
+      "m_Key": "tuto_simulation_room_28_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674157,
+      "m_Key": "tuto_simulation_room_29_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674158,
+      "m_Key": "tuto_simulation_room_29_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674159,
+      "m_Key": "tuto_simulation_room_30_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674160,
+      "m_Key": "tuto_simulation_room_30_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674161,
+      "m_Key": "tuto_simulation_room_31_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674162,
+      "m_Key": "tuto_simulation_room_31_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674163,
+      "m_Key": "tuto_simulation_room_32_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674164,
+      "m_Key": "tuto_simulation_room_32_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078689,
+      "m_Key": "tuto_simulation_room_33_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078690,
+      "m_Key": "tuto_simulation_room_33_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078691,
+      "m_Key": "tuto_simulation_room_34_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078692,
+      "m_Key": "tuto_simulation_room_34_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078693,
+      "m_Key": "tuto_simulation_room_35_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078694,
+      "m_Key": "tuto_simulation_room_35_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078695,
+      "m_Key": "tuto_simulation_room_36_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078696,
+      "m_Key": "tuto_simulation_room_36_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078697,
+      "m_Key": "tuto_simulation_room_37_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078698,
+      "m_Key": "tuto_simulation_room_37_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078699,
+      "m_Key": "tuto_simulation_room_38_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078700,
+      "m_Key": "tuto_simulation_room_38_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 194095168949624860,
+      "m_Key": "tuto_simulation_room_39_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 194095168949624861,
+      "m_Key": "tuto_simulation_room_39_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 194095168949624862,
+      "m_Key": "tuto_simulation_room_40_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 194095168949624863,
+      "m_Key": "tuto_simulation_room_40_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298655,
+      "m_Key": "tuto_equip_levelup_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298656,
+      "m_Key": "tuto_equip_levelup_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298657,
+      "m_Key": "tuto_equip_levelup_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298658,
+      "m_Key": "tuto_equip_levelup_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298659,
+      "m_Key": "tuto_equip_levelup_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298660,
+      "m_Key": "tuto_equip_levelup_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298661,
+      "m_Key": "tuto_equip_levelup_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298662,
+      "m_Key": "tuto_equip_levelup_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298663,
+      "m_Key": "tuto_equip_levelup_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298664,
+      "m_Key": "tuto_equip_levelup_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298665,
+      "m_Key": "tuto_equip_levelup_08_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298666,
+      "m_Key": "tuto_equip_levelup_08_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298667,
+      "m_Key": "tuto_equip_levelup_09_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777299492864,
+      "m_Key": "tuto_equip_levelup_09_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777299492865,
+      "m_Key": "tuto_equip_levelup_10_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777299492866,
+      "m_Key": "tuto_equip_levelup_10_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777299492867,
+      "m_Key": "tuto_equip_levelup_11_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777299492868,
+      "m_Key": "tuto_equip_levelup_11_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64012196368916585,
+      "m_Key": "tuto_equip_levelup_12_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64012196368916586,
+      "m_Key": "tuto_equip_levelup_12_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64012196368916587,
+      "m_Key": "tuto_equip_levelup_13_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64012196368916588,
+      "m_Key": "tuto_equip_levelup_13_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64012196368916589,
+      "m_Key": "tuto_equip_levelup_14_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64012196368916590,
+      "m_Key": "tuto_equip_levelup_14_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139521,
+      "m_Key": "tuto_skill_level_up_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139522,
+      "m_Key": "tuto_skill_level_up_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139523,
+      "m_Key": "tuto_skill_level_up_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139524,
+      "m_Key": "tuto_skill_level_up_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139525,
+      "m_Key": "tuto_skill_level_up_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139526,
+      "m_Key": "tuto_skill_level_up_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139527,
+      "m_Key": "tuto_outpost_build_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139528,
+      "m_Key": "tuto_outpost_build_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139529,
+      "m_Key": "tuto_outpost_build_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139530,
+      "m_Key": "tuto_outpost_build_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139531,
+      "m_Key": "tuto_outpost_build_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139532,
+      "m_Key": "tuto_outpost_build_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139533,
+      "m_Key": "tuto_outpost_build_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139534,
+      "m_Key": "tuto_outpost_build_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139535,
+      "m_Key": "tuto_outpost_build_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139536,
+      "m_Key": "tuto_outpost_build_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139537,
+      "m_Key": "tuto_outpost_build_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139538,
+      "m_Key": "tuto_outpost_build_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139539,
+      "m_Key": "tuto_next_mission_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139540,
+      "m_Key": "tuto_next_mission_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139541,
+      "m_Key": "tuto_next_mission_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139542,
+      "m_Key": "tuto_next_mission_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139543,
+      "m_Key": "tuto_next_mission_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139544,
+      "m_Key": "tuto_next_mission_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139545,
+      "m_Key": "tuto_next_mission_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139546,
+      "m_Key": "tuto_next_mission_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139547,
+      "m_Key": "tuto_next_mission_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139548,
+      "m_Key": "tuto_next_mission_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538595467265,
+      "m_Key": "tuto_next_mission_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538595467266,
+      "m_Key": "tuto_next_mission_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538595467267,
+      "m_Key": "tuto_next_mission_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538595467268,
+      "m_Key": "tuto_next_mission_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538595467269,
+      "m_Key": "tuto_next_mission_08_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538595467270,
+      "m_Key": "tuto_next_mission_08_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922594,
+      "m_Key": "tuto_base_defence_type1_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922595,
+      "m_Key": "tuto_base_defence_type1_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922596,
+      "m_Key": "tuto_base_defence_type1_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922597,
+      "m_Key": "tuto_base_defence_type1_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922598,
+      "m_Key": "tuto_base_defence_type2_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922599,
+      "m_Key": "tuto_base_defence_type2_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922600,
+      "m_Key": "tuto_base_defence_type2_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922601,
+      "m_Key": "tuto_base_defence_type2_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396652,
+      "m_Key": "tuto_rookie_arena_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396653,
+      "m_Key": "tuto_rookie_arena_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396654,
+      "m_Key": "tuto_rookie_arena_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396655,
+      "m_Key": "tuto_rookie_arena_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396656,
+      "m_Key": "tuto_rookie_arena_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396657,
+      "m_Key": "tuto_rookie_arena_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396658,
+      "m_Key": "tuto_rookie_arena_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396659,
+      "m_Key": "tuto_rookie_arena_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396660,
+      "m_Key": "tuto_rookie_arena_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396661,
+      "m_Key": "tuto_rookie_arena_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396662,
+      "m_Key": "tuto_rookie_arena_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396663,
+      "m_Key": "tuto_rookie_arena_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396664,
+      "m_Key": "tuto_rookie_arena_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396665,
+      "m_Key": "tuto_rookie_arena_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396666,
+      "m_Key": "tuto_rookie_arena_08_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396667,
+      "m_Key": "tuto_rookie_arena_08_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396668,
+      "m_Key": "tuto_rookie_arena_09_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396669,
+      "m_Key": "tuto_rookie_arena_09_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396670,
+      "m_Key": "tuto_rookie_arena_10_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396671,
+      "m_Key": "tuto_rookie_arena_10_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396672,
+      "m_Key": "tuto_rookie_arena_11_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396673,
+      "m_Key": "tuto_rookie_arena_11_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396674,
+      "m_Key": "tuto_rookie_arena_12_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396675,
+      "m_Key": "tuto_rookie_arena_12_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396676,
+      "m_Key": "tuto_rookie_arena_13_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396677,
+      "m_Key": "tuto_rookie_arena_13_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396678,
+      "m_Key": "tuto_special_arena_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396679,
+      "m_Key": "tuto_special_arena_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396680,
+      "m_Key": "tuto_special_arena_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396681,
+      "m_Key": "tuto_special_arena_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396682,
+      "m_Key": "tuto_special_arena_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396683,
+      "m_Key": "tuto_special_arena_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396684,
+      "m_Key": "tuto_special_arena_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396685,
+      "m_Key": "tuto_special_arena_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396686,
+      "m_Key": "tuto_special_arena_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396687,
+      "m_Key": "tuto_special_arena_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396688,
+      "m_Key": "tuto_special_arena_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396689,
+      "m_Key": "tuto_special_arena_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396690,
+      "m_Key": "tuto_special_arena_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230071590912,
+      "m_Key": "tuto_special_arena_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230071590913,
+      "m_Key": "tuto_special_arena_08_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230071590914,
+      "m_Key": "tuto_special_arena_08_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230071590915,
+      "m_Key": "tuto_special_arena_09_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230071590916,
+      "m_Key": "tuto_special_arena_09_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839962,
+      "m_Key": "tuto_cooperation_event_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839963,
+      "m_Key": "tuto_cooperation_event_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839964,
+      "m_Key": "tuto_cooperation_event_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839965,
+      "m_Key": "tuto_cooperation_event_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839966,
+      "m_Key": "tuto_cooperation_event_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839967,
+      "m_Key": "tuto_cooperation_event_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839968,
+      "m_Key": "tuto_cooperation_event_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839969,
+      "m_Key": "tuto_cooperation_event_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839970,
+      "m_Key": "tuto_cooperation_event_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537825034240,
+      "m_Key": "tuto_cooperation_event_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156147571819847683,
+      "m_Key": "contents_tutorial_character_grade_desc_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156147571819847684,
+      "m_Key": "contents_tutorial_character_grade_desc_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156147571819847685,
+      "m_Key": "contents_tutorial_use_character_piece",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576358,
+      "m_Key": "tuto_limit_level_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576359,
+      "m_Key": "tuto_limit_level_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576360,
+      "m_Key": "tuto_limit_level_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576361,
+      "m_Key": "tuto_limit_level_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576362,
+      "m_Key": "tuto_limit_level_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576363,
+      "m_Key": "tuto_limit_level_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576364,
+      "m_Key": "tuto_limit_level_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576365,
+      "m_Key": "tuto_limit_level_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576366,
+      "m_Key": "tuto_limit_level_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576367,
+      "m_Key": "tuto_limit_level_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576368,
+      "m_Key": "tuto_limit_level_06_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576369,
+      "m_Key": "tuto_limit_level_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576370,
+      "m_Key": "tuto_limit_level_07_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576371,
+      "m_Key": "tuto_limit_level_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576372,
+      "m_Key": "tuto_limit_level_08_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576373,
+      "m_Key": "tuto_limit_level_08_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576374,
+      "m_Key": "tuto_limit_level_09_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576375,
+      "m_Key": "tuto_limit_level_09_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 206440608449732611,
+      "m_Key": "tuto_limit_level_10_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 206440608449732612,
+      "m_Key": "tuto_limit_level_11_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 206440608449732613,
+      "m_Key": "tuto_limit_level_12_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576376,
+      "m_Key": "tuto_limit_level_synchro_01_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576377,
+      "m_Key": "tuto_limit_level_synchro_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576378,
+      "m_Key": "tuto_limit_level_synchro_02_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576379,
+      "m_Key": "tuto_limit_level_synchro_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576380,
+      "m_Key": "tuto_limit_level_synchro_03_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495487770624,
+      "m_Key": "tuto_limit_level_synchro_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495487770625,
+      "m_Key": "tuto_limit_level_synchro_04_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495487770626,
+      "m_Key": "tuto_limit_level_synchro_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495487770627,
+      "m_Key": "tuto_limit_level_synchro_05_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495487770628,
+      "m_Key": "tuto_limit_level_synchro_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_KeyGenerator": {
+    "rid": 0
+  },
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "DistributedUIDGenerator",
+          "ns": "UnityEngine.Localization.Tables",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}

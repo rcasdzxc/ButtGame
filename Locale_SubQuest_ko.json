@@ -1,0 +1,1071 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "Locale_SubQuest_ko",
+  "m_LocaleId": {
+    "m_Code": "ko"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -3926062255048989383
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 20019787290161157,
+      "m_Localized": "[2챕터] 칠리페퍼가 알려준 지역 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355456,
+      "m_Localized": "[2챕터] 콜렉터가 부탁한 랩쳐의 부품 수집",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355457,
+      "m_Localized": "[2챕터] 영상 촬영을 위해 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380674,
+      "m_Localized": "[3챕터] 세르반이 알려준 좌표 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355461,
+      "m_Localized": "[3챕터] 트레저 헌터가 알려준 장소 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380676,
+      "m_Localized": "[3챕터] 랩칠리언이 말한 장소 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355462,
+      "m_Localized": "[4챕터] 트레저 헌터가 알려준 장소 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355463,
+      "m_Localized": "[4챕터] 사진 촬영을 위해 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380679,
+      "m_Localized": "[4챕터] 랩칠리언이 말한 장소 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355458,
+      "m_Localized": "[5챕터] 중앙 정부 공식이 알려준 장소 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355460,
+      "m_Localized": "[5챕터] 고스트가 말한 스위치 작동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380682,
+      "m_Localized": "[5챕터] 랩칠리언이 말한 장소 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380683,
+      "m_Localized": "[6챕터] 세르반과 합류",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380684,
+      "m_Localized": "[6챕터] 코리의 의뢰를 수행",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380685,
+      "m_Localized": "[6챕터] 랩칠리언과 합류",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380686,
+      "m_Localized": "[7챕터] 세르반이 말한 꽃 확보",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20019787294355459,
+      "m_Localized": "[7챕터] 중앙 정부 공식이 알려준 장소 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6165435492380688,
+      "m_Localized": "[7챕터] 랩칠리언과 합류",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709201,
+      "m_Localized": "[8챕터] 칠리페퍼가 알려준 지역 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709202,
+      "m_Localized": "[8챕터] 콜렉터와 합류",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709203,
+      "m_Localized": "[8챕터] 할아범이 알려준 지역 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709204,
+      "m_Localized": "[9챕터] 트레저 헌터가 알려준 장소 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709205,
+      "m_Localized": "[9챕터] 볼트 주니어 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709206,
+      "m_Localized": "[9챕터] 일과 기록을 위해 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709207,
+      "m_Localized": "[10챕터] 네잎클로버 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709208,
+      "m_Localized": "[10챕터] 스페이드가 알려준 장소 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709209,
+      "m_Localized": "[10챕터] 롬이 알려준 좌표를 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709210,
+      "m_Localized": "[11챕터] 지상에서 음식물 확보",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709211,
+      "m_Localized": "[11챕터] 압력 센서 부착 부품 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709212,
+      "m_Localized": "[11챕터] 음악 애호가의 스승과 합류",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709213,
+      "m_Localized": "[12챕터] 전투 장면 촬영을 위해 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709214,
+      "m_Localized": "[12챕터] 수상한 메시지가 알려준 좌표로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56146178175709215,
+      "m_Localized": "[12챕터] 테디와 합류",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860993,
+      "m_Localized": "[13챕터] 지상의 철도를 촬영하기 위해 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860994,
+      "m_Localized": "[13챕터] 볼트 주니어 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860995,
+      "m_Localized": "[13챕터] 세르반 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860996,
+      "m_Localized": "[14챕터] 방주 난민과 합류",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860997,
+      "m_Localized": "[14챕터] 롬이 알려준 좌표로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860998,
+      "m_Localized": "[14챕터] 칠리페퍼가 알려준 지역 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115860999,
+      "m_Localized": "[15챕터] 방주 난민의 벙커로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115861000,
+      "m_Localized": "[15챕터] 지상으로 도망간 아이들 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115861001,
+      "m_Localized": "[15챕터] 방주 난민의 벙커로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115861002,
+      "m_Localized": "[16챕터] 트레저 헌터가 알려준 장소 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115861003,
+      "m_Localized": "[16챕터] 랩칠리언 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89464201115861004,
+      "m_Localized": "[16챕터] 방주 난민 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96291852985729068,
+      "m_Localized": "[17챕터] 랩쳐 코어 확보",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96291852985729069,
+      "m_Localized": "[17챕터] 랩칠리언이 남긴 좌표로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96291852985729070,
+      "m_Localized": "[17챕터] 지상의 술 확보",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96291852985729071,
+      "m_Localized": "[18챕터] 영상 촬영을 위해 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96291852985729072,
+      "m_Localized": "[18챕터] 중앙 정부 공식이 알려준 장소 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96291852985729073,
+      "m_Localized": "[18챕터] 지상의 꽃 다섯 송이 확보",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120547300337156114,
+      "m_Localized": "[19챕터] 볼트 주니어 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120547300337156115,
+      "m_Localized": "[19챕터] 키스신 촬영을 위해 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120547300337156116,
+      "m_Localized": "[19챕터] 롬이 알려준 좌표로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120547300337156117,
+      "m_Localized": "[20챕터] 파괴된 볼트 주니어의 사진 촬영",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120547300337156118,
+      "m_Localized": "[20챕터] 민간인 실종자 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120547300337156119,
+      "m_Localized": "[20챕터] 지상의 낚싯대 확보",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164769561490010115,
+      "m_Localized": "[21챕터] 이사벨과 함께 채집",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164769561490010116,
+      "m_Localized": "[21챕터] 이사벨과 함께 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164769561490010117,
+      "m_Localized": "[21챕터] 요한과 동행",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164769561490010118,
+      "m_Localized": "[22챕터] 납골당을 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164769561490010119,
+      "m_Localized": "[22챕터] 택배용 로봇을 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164769561490010120,
+      "m_Localized": "[22챕터] 실종자 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197740209979830283,
+      "m_Localized": "[23챕터] 콜렉터가 얘기한 지점 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197740209979830284,
+      "m_Localized": "[23챕터] 트라이앵글과 합류",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197740209984024576,
+      "m_Localized": "[23챕터] 달란트가 얘기한 지점 정리",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197740209984024577,
+      "m_Localized": "[24챕터] 카페 스위티가 얘기한 지점 정리",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197740209984024578,
+      "m_Localized": "[24챕터] 프로토콜이 얘기한 지점 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197740209984024579,
+      "m_Localized": "[24챕터] 코인 러시가 얘기한 지점 정리",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233958206440255488,
+      "m_Localized": "[25챕터] 산해진미를 위해 고구마 굽기",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233958206440255489,
+      "m_Localized": "[26챕터] 새로운 음악 수색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233958206440255490,
+      "m_Localized": "[26챕터] 로망티스트가 말한 지점에서 낚시",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233958206440255491,
+      "m_Localized": "[25챕터] 탈주 니케 추적",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233958206440255492,
+      "m_Localized": "[25챕터] 탈주 니케 추적",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233958206440255493,
+      "m_Localized": "[26챕터] 라피와 함께 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 35838138947985422,
+      "m_Localized": "[1챕터] 프리바티 구조",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 35838138947985423,
+      "m_Localized": "[1챕터] 잔당 소탕",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 35838138947985424,
+      "m_Localized": "[2챕터] 정제된 기름 수집",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 35838138947985425,
+      "m_Localized": "[2챕터] 몬스터 제거",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145563,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145564,
+      "m_Localized": "지상으로 [출격]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145565,
+      "m_Localized": "시프티와 함께 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145566,
+      "m_Localized": "[3챕터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145567,
+      "m_Localized": "시프티와 함께 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145568,
+      "m_Localized": "[로비]로 복귀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145569,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145570,
+      "m_Localized": "[장난감 상점]으로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145571,
+      "m_Localized": "[메이드 카페]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145572,
+      "m_Localized": "[경찰서]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154690447395565606,
+      "m_Localized": "[호텔]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158618706849239057,
+      "m_Localized": "[커맨드 센터]로 복귀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158296986766479400,
+      "m_Localized": "거짓말은 나쁩니다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145574,
+      "m_Localized": "가재는 가재 편",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145575,
+      "m_Localized": "바위는 보를 이긴다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145576,
+      "m_Localized": "시프티는 슈엔이다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145577,
+      "m_Localized": "랩쳐 너무 좋아!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145578,
+      "m_Localized": "1은 2보다 크다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145579,
+      "m_Localized": "개는 야옹야옹 하고 운다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145580,
+      "m_Localized": "치킨은 먹어도 살찌지 않는다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145581,
+      "m_Localized": "벨로타는 별로다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145582,
+      "m_Localized": "카페 스위티는 홍차 전문점이다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154645446126145583,
+      "m_Localized": "드레이크는 참된 히어로다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 154685701528006705,
+      "m_Localized": "달란트는 다 돈이 없다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158618706849239070,
+      "m_Localized": "거짓말 같던 하루",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 158296986766479413,
+      "m_Localized": "거짓말은 나쁩니다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338116,
+      "m_Localized": "[전초기지]의 [지휘관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338117,
+      "m_Localized": "[경찰서]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338118,
+      "m_Localized": "[전초기지]의 [커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338119,
+      "m_Localized": "[장난감 상점]으로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338120,
+      "m_Localized": "[전초기지]의 [커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338121,
+      "m_Localized": "지상으로 [출격]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338122,
+      "m_Localized": "이벤트 스테이지 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338123,
+      "m_Localized": "[4챕터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338124,
+      "m_Localized": "이벤트 스테이지 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338125,
+      "m_Localized": "이벤트 스테이지 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201742179553185864,
+      "m_Localized": "[전초기지]의 [커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201742179553185865,
+      "m_Localized": "FIRST AFFECTION : END",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338126,
+      "m_Localized": "추억은 갑작스럽게",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338127,
+      "m_Localized": "날 꺼내줘",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338128,
+      "m_Localized": "전쟁과도 같은",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338129,
+      "m_Localized": "이상한 장난감",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338130,
+      "m_Localized": "말이 씨가 된다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338131,
+      "m_Localized": "비상 출격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338132,
+      "m_Localized": "옷은 장식일 뿐 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338133,
+      "m_Localized": "옷은 장식일 뿐 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338134,
+      "m_Localized": "옷은 장식일 뿐 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201735306997338135,
+      "m_Localized": "언제든",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201742179553185876,
+      "m_Localized": "기다림",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 201742179553185877,
+      "m_Localized": "언젠가 반드시",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535104,
+      "m_Localized": "1주년 기념 아침",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535105,
+      "m_Localized": "1주년 기념 유치장 감금 이벤트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535106,
+      "m_Localized": "1주년 기념 기차 투어 상영회 이벤트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535107,
+      "m_Localized": "1주년 기념 엠마의 이벤트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535108,
+      "m_Localized": "1주년 기념 옷 선물 이벤트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535109,
+      "m_Localized": "1주년 기념 병원놀이 이벤트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535110,
+      "m_Localized": "1주년 기념 요리 대접 이벤트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535111,
+      "m_Localized": "1주년 기념 깜짝 이벤트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523992535112,
+      "m_Localized": "몰래 다녀간 밤손님들",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729344,
+      "m_Localized": "1주년 축하",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729345,
+      "m_Localized": "[전초기지]의 [커맨드 센터] 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729346,
+      "m_Localized": "[전초기지]의 [경찰서]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729347,
+      "m_Localized": "[전초기지]의 [기차역]으로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729348,
+      "m_Localized": "[전초기지]의 [무기고]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729349,
+      "m_Localized": "[전초기지]의 [호텔]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729350,
+      "m_Localized": "[전초기지]의 [장난감 가게]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729351,
+      "m_Localized": "[전초기지]의 [메이드 카페]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729352,
+      "m_Localized": "[전초기지]의 [커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729353,
+      "m_Localized": "[전초기지]의 [커맨드 센터] 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231416523996729354,
+      "m_Localized": "1 YEAR ALREADY : END",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": []
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "Locale_Dispatch2_ko",
+  "m_LocaleId": {
+    "m_Code": "ko"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -2498164913403269297
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 12573725133938719,
+      "m_Localized": "1등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938720,
+      "m_Localized": "1등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938721,
+      "m_Localized": "1등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938722,
+      "m_Localized": "2등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938723,
+      "m_Localized": "2등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938724,
+      "m_Localized": "2등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938725,
+      "m_Localized": "2등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938726,
+      "m_Localized": "3등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938727,
+      "m_Localized": "3등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938728,
+      "m_Localized": "3등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938729,
+      "m_Localized": "3등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938730,
+      "m_Localized": "3등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938731,
+      "m_Localized": "4등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938732,
+      "m_Localized": "4등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938733,
+      "m_Localized": "4등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938734,
+      "m_Localized": "4등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938735,
+      "m_Localized": "4등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938736,
+      "m_Localized": "5등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938737,
+      "m_Localized": "5등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938738,
+      "m_Localized": "5등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938739,
+      "m_Localized": "5등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938740,
+      "m_Localized": "5등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938741,
+      "m_Localized": "상위 1등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938742,
+      "m_Localized": "상위 1등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938743,
+      "m_Localized": "상위 1등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938744,
+      "m_Localized": "상위 2등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938745,
+      "m_Localized": "상위 2등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938746,
+      "m_Localized": "상위 2등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938747,
+      "m_Localized": "상위 2등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938748,
+      "m_Localized": "상위 3등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938749,
+      "m_Localized": "상위 3등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938750,
+      "m_Localized": "상위 3등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938751,
+      "m_Localized": "상위 3등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938752,
+      "m_Localized": "상위 3등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938753,
+      "m_Localized": "상위 4등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938754,
+      "m_Localized": "상위 4등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938755,
+      "m_Localized": "상위 4등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938756,
+      "m_Localized": "상위 4등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938757,
+      "m_Localized": "상위 4등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938758,
+      "m_Localized": "상위 5등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938759,
+      "m_Localized": "상위 5등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938760,
+      "m_Localized": "상위 5등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938761,
+      "m_Localized": "상위 5등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12573725133938762,
+      "m_Localized": "상위 5등급 파견 임무를 수행합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": []
+  }
+}

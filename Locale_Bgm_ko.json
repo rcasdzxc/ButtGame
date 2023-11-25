@@ -1,0 +1,826 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "Locale_Bgm_ko",
+  "m_LocaleId": {
+    "m_Code": "ko"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 3359478603250957854
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 10370357280927744,
+      "m_Localized": "After World",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899264,
+      "m_Localized": "First Affection",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899265,
+      "m_Localized": "Folk Tale",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899266,
+      "m_Localized": "Events",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40389057425485831,
+      "m_Localized": "Lost Sector",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744380010500,
+      "m_Localized": "Sleeping Forest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744380010501,
+      "m_Localized": "Living Land",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744380010502,
+      "m_Localized": "Wandering Soul",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744380010503,
+      "m_Localized": "Wonder Land",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744380010504,
+      "m_Localized": "White Snow",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744380010505,
+      "m_Localized": "Hand On Hand",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204800,
+      "m_Localized": "Two Top",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204801,
+      "m_Localized": "Red Eye, Smile",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204802,
+      "m_Localized": "Sand Storm",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204803,
+      "m_Localized": "Eternal Scar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59610307297325070,
+      "m_Localized": "Stand Alone",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117024643439177744,
+      "m_Localized": "Morning Star",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161153166961324045,
+      "m_Localized": "Invasion",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229678736019599361,
+      "m_Localized": "Trace",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 128127076387041285,
+      "m_Localized": "Special Sound Track",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161153166961324047,
+      "m_Localized": "Over Zone",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 178165657012580360,
+      "m_Localized": "Blue Water Island",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 216256291409539081,
+      "m_Localized": "Outer Automata",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 238301173770661891,
+      "m_Localized": "REDASH",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899267,
+      "m_Localized": "이후의 세계에는 무엇이 남아있는가.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899268,
+      "m_Localized": "첫 만남, 첫 애정, 그리고 첫 죽음.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899269,
+      "m_Localized": "그와 그녀들의 이야기. 당신의 이야기.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899270,
+      "m_Localized": "특별한 시간을 기리며.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40389057425485832,
+      "m_Localized": "잃어버렸기에 가치 있는 것.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204809,
+      "m_Localized": "오랜 시간 잠들어 있던 숲의 도시.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204810,
+      "m_Localized": "그곳은 지상이라 불렸다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204811,
+      "m_Localized": "잃고, 헤매게 될 두 회색 영혼.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204812,
+      "m_Localized": "청백색 환상의 나라.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204813,
+      "m_Localized": "그녀는 순백, 영원히 순백일지어다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204814,
+      "m_Localized": "결국 맞잡게 된 두 손.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204815,
+      "m_Localized": "정점에 선 둘.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204816,
+      "m_Localized": "흔들리는 총구가 향하는 곳.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204817,
+      "m_Localized": "서글프게 휘몰아치는.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204818,
+      "m_Localized": "오랫동안, 혹은 영원히 자리 잡을.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59610307297325086,
+      "m_Localized": "그저 그곳에서 기다릴 뿐.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117024643439177761,
+      "m_Localized": "찬란하게 빛나지만, 결국 떨어지는.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161153166961324065,
+      "m_Localized": "일찌감치 일어났어야 할 일.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229678736413863937,
+      "m_Localized": "동료를. 과거를.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 128127076395429896,
+      "m_Localized": "NIKKE Special Sound Track",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161153166961324067,
+      "m_Localized": "한 발자국 내딛거나, 물러서거나.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 178165657012580381,
+      "m_Localized": "푸르고 푸른 바다에서의 추억.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 216256291409539103,
+      "m_Localized": "NIKKE Original Music inspired by NieR:Automata",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 238301173779050497,
+      "m_Localized": "다시 한번, 그 붉은 궤적을.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847441,
+      "m_Localized": "Black Calories",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847442,
+      "m_Localized": "Black Sugars",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847443,
+      "m_Localized": "Black Saturated Fat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847444,
+      "m_Localized": "Black Fiber",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847445,
+      "m_Localized": "Black Sodium",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847446,
+      "m_Localized": "Black Protein",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847447,
+      "m_Localized": "Black Carbonhydrate",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847448,
+      "m_Localized": "Black Trans Fat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847449,
+      "m_Localized": "Black Cholesterol",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847450,
+      "m_Localized": "White Sugars",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847451,
+      "m_Localized": "White Carbonhydrate",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847452,
+      "m_Localized": "White Fiber",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847453,
+      "m_Localized": "White Trans Fat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847454,
+      "m_Localized": "White Saturated Fat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847455,
+      "m_Localized": "White Cholesterol",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847456,
+      "m_Localized": "White Calories",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847457,
+      "m_Localized": "White Protein",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847458,
+      "m_Localized": "White Sodium",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847459,
+      "m_Localized": "between life and death",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041728,
+      "m_Localized": "Distress - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041729,
+      "m_Localized": "Distress - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22466560810315794,
+      "m_Localized": "Rest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22466560810315789,
+      "m_Localized": "recognition",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041732,
+      "m_Localized": "recognition - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041733,
+      "m_Localized": "recognition - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041734,
+      "m_Localized": "recognition - underworld",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041735,
+      "m_Localized": "risk - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041736,
+      "m_Localized": "risk - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041737,
+      "m_Localized": "Second Hand",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041738,
+      "m_Localized": "Second Hand - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041739,
+      "m_Localized": "Second Hand - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041740,
+      "m_Localized": "Grey Haze",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041741,
+      "m_Localized": "Grey Haze - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041742,
+      "m_Localized": "Grey Haze - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041743,
+      "m_Localized": "Disaster",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18856229964914708,
+      "m_Localized": "Emergency",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041745,
+      "m_Localized": "Enemy Close",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041746,
+      "m_Localized": "Heart",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041747,
+      "m_Localized": "Hopeless",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041748,
+      "m_Localized": "Mystery",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18856229964914704,
+      "m_Localized": "ENCOUNTER",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18856229964914705,
+      "m_Localized": "Counter Attack",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041751,
+      "m_Localized": "crumblingcity - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041752,
+      "m_Localized": "crumblingcity - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041753,
+      "m_Localized": "incoming rapture - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041754,
+      "m_Localized": "incoming rapture - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041755,
+      "m_Localized": "Bullet Storm - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041756,
+      "m_Localized": "Bullet Storm - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041757,
+      "m_Localized": "Silver mane - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236032,
+      "m_Localized": "Silver mane - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236033,
+      "m_Localized": "Labyrinth - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236034,
+      "m_Localized": "Labyrinth - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236035,
+      "m_Localized": "Scardi - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236036,
+      "m_Localized": "Scardi - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236037,
+      "m_Localized": "GoundZero - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236038,
+      "m_Localized": "GoundZero - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236039,
+      "m_Localized": "Destroyed Serenity - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236040,
+      "m_Localized": "Destroyed Serenity - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236041,
+      "m_Localized": "Risingfromash - a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236042,
+      "m_Localized": "Risingfromash - b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236043,
+      "m_Localized": "Mordernia",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236044,
+      "m_Localized": "Mordernia",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236045,
+      "m_Localized": "The Moving Fortress",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236046,
+      "m_Localized": "The Moving Fortress",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236047,
+      "m_Localized": "Slaughterer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236048,
+      "m_Localized": "Slaughterer",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": []
+  }
+}

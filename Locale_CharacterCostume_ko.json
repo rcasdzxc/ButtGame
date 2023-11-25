@@ -1,0 +1,899 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "Locale_CharacterCostume_ko",
+  "m_LocaleId": {
+    "m_Code": "ko"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 4682584678612602229
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 2700647395197190146
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 48433746151149568,
+      "m_Localized": "서머 비즈니스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315392,
+      "m_Localized": "화이트 프로미스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315393,
+      "m_Localized": "임시 이름",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173955,
+      "m_Localized": "뷰티풀 데이즈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94438513473949699,
+      "m_Localized": "스노우 크리스탈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107164954829459460,
+      "m_Localized": "선라이즈 파티",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116560563017551877,
+      "m_Localized": "스위트 드림",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160459396482797573,
+      "m_Localized": "바니 키스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186183728408236039,
+      "m_Localized": "로망 엔진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943845912584,
+      "m_Localized": "요르하",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358919041060872,
+      "m_Localized": "할로윈 나이트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315394,
+      "m_Localized": "뜨거운 여름에도 그녀들의 일은 멈추지 않는다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315395,
+      "m_Localized": "백색으로 수놓아진 약속의 증명.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315396,
+      "m_Localized": "임시 설명",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173959,
+      "m_Localized": "전장에서 벗어난 그녀들의 평화로운 일상.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94438513478144004,
+      "m_Localized": "하늘에서 내려오는 기적과도 같은 눈의 결정.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107164954829459466,
+      "m_Localized": "새로운 날, 새로운 옷, 새로운 마음.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116560563017551884,
+      "m_Localized": "씁쓸함과 달콤함의 절묘한 조화",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160459396486991875,
+      "m_Localized": "바니들의 키스를 받을 행운의 주인공은 누구?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186183728412430343,
+      "m_Localized": "심장을 울리는 엔진과 함께.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943850106888,
+      "m_Localized": "인류에게 영광 있으라.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358919045255177,
+      "m_Localized": "장난스러운 그녀들과 함께하는 으스스한 밤.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198430484395134980,
+      "m_Localized": "피쉬 가드",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45930662449684486,
+      "m_Localized": "씨 오브 슬로스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45930662449684487,
+      "m_Localized": "선라이즈 마켓",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 181069211332448267,
+      "m_Localized": "오션 비타민",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186183728412430348,
+      "m_Localized": "클래식 바캉스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 190074003606147085,
+      "m_Localized": "선라이즈 마켓",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198430484395134986,
+      "m_Localized": "파이레츠 하트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 49191244369956872,
+      "m_Localized": "화이트 프로미스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48433746176315401,
+      "m_Localized": "임시 코스튬 이름",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173965,
+      "m_Localized": "러블리 핑크",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173966,
+      "m_Localized": "블링 불렛",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173967,
+      "m_Localized": "스위트 홀릭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173968,
+      "m_Localized": "클래식 워커",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230482173969,
+      "m_Localized": "스트로베리 플라워",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230486368256,
+      "m_Localized": "블랙 홀리데이",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230486368257,
+      "m_Localized": "메카닉 화이트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 73427230486368258,
+      "m_Localized": "시크릿 너스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107167831253782552,
+      "m_Localized": "거버먼트 노멀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116560563017551899,
+      "m_Localized": "익스트림 파이터",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135462510462177280,
+      "m_Localized": "마이티 홀리데이",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152432598037762065,
+      "m_Localized": "체리블로섬 스테이지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153111105896448023,
+      "m_Localized": "코트 오프",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160766878044327961,
+      "m_Localized": "스위트 홈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174896794046238750,
+      "m_Localized": "오피스 테라피",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174896794046238751,
+      "m_Localized": "흑야암행",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198430484395135005,
+      "m_Localized": "퍼스트 어펙션",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198839295501078562,
+      "m_Localized": "블랙 문",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94438513478144018,
+      "m_Localized": "달링 레드",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94438513478144020,
+      "m_Localized": "메리 너드 데이",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94438513478144021,
+      "m_Localized": "펭귄 홈즈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94438513478144019,
+      "m_Localized": "마일드 녹턴",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107167831253782557,
+      "m_Localized": "콜 미 하드보일드",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 107167831253782558,
+      "m_Localized": "샹들리에 라이트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135462510495731712,
+      "m_Localized": "다크 로즈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358919049449490,
+      "m_Localized": "연회의 공주",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227124939813752866,
+      "m_Localized": "연회의 마녀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227124939813752867,
+      "m_Localized": "노스텔지어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116560563017551906,
+      "m_Localized": "드라마틱 초코",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160766878044327970,
+      "m_Localized": "톡신 레빗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174896794046238761,
+      "m_Localized": "럭셔리 레빗",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186178923052863501,
+      "m_Localized": "빌런 레이서",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943850106927,
+      "m_Localized": "중파상태",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943850106928,
+      "m_Localized": "요르하 제복1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943850106929,
+      "m_Localized": "중파상태",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943850106930,
+      "m_Localized": "요르하 제복 프로토 타입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218361308288585781,
+      "m_Localized": "디텍티브 너스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45923486893121544,
+      "m_Localized": "{0}의 코스튬\r\n이벤트 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2700647395197190146
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 45923486893121545,
+      "m_Localized": "{0}의 코스튬\r\n코스튬 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2700647395197190146
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 48433746176315404,
+      "m_Localized": "{0}의 코스튬\r\nCBT 특전 획득",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2700647395197190146
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 101652445489991704,
+      "m_Localized": "{0}의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2700647395197190146
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 107448508213825565,
+      "m_Localized": "{0}의 코스튬\r\n이벤트 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2700647395197190146
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 102503573198934046,
+      "m_Localized": "{0}의 코스튬\r\n패키지 상품에서 획득",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2700647395197190146
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 48433746176315405,
+      "m_Localized": "임시 코스튬 획득 설명",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314319,
+      "m_Localized": "라피의 코스튬\r\nCBT 특전 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314320,
+      "m_Localized": "네온의 코스튬\r\n패키지 상품에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314321,
+      "m_Localized": "폴리의 코스튬\r\n코스튬 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314322,
+      "m_Localized": "브리드의 코스튬\r\n코스튬 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314323,
+      "m_Localized": "맥스웰의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314324,
+      "m_Localized": "디젤의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 109004834249314325,
+      "m_Localized": "메이든의 코스튬\r\n코스튬 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114726772993101852,
+      "m_Localized": "엠마의 코스튬\r\n이벤트 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114726772993101853,
+      "m_Localized": "엑시아의 코스튬\r\n코스튬 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114726772993101854,
+      "m_Localized": "율리아의 코스튬\r\n코스튬 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114726772993101855,
+      "m_Localized": "슈가의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114726772993101856,
+      "m_Localized": "헬름의 코스튬\r\n이벤트 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117617406141730863,
+      "m_Localized": "프리바티의 코스튬\r\n코스튬 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116560563021746195,
+      "m_Localized": "밀크의 코스튬\r\n코스튬 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116560563021746196,
+      "m_Localized": "시그널의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135462510495731713,
+      "m_Localized": "센티의 코스튬\r\n코스튬 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135462510495731714,
+      "m_Localized": "도라의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152432598041956369,
+      "m_Localized": "유니의 코스튬\r\nMemories of Spring\r\n출석 체크 이벤트에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152432598041956370,
+      "m_Localized": "노벨의 코스튬\r\n코스튬 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152432598041956371,
+      "m_Localized": "노이즈의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153111105896448059,
+      "m_Localized": "마키마의 코스튬\r\nBULLET X CHAINSAW 이벤트 미션에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 162525798605721623,
+      "m_Localized": "앨리스의 코스튬\r\n이벤트 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160766878052716545,
+      "m_Localized": "바이퍼의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174896794046238792,
+      "m_Localized": "엠마의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174896794046238793,
+      "m_Localized": "사쿠라의 코스튬\r\n코스튬 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174896794046238794,
+      "m_Localized": "루피의 코스튬\r\n코스튬 픽에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 181069211332448329,
+      "m_Localized": "페퍼의 코스튬\r\n이벤트 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186188345846206502,
+      "m_Localized": "프림의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186185889640812611,
+      "m_Localized": "라피의 코스튬\r\n출석 체크 이벤트에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186178923057057822,
+      "m_Localized": "드레이크의 코스튬\r\n코스튬 픽에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 190076101013999653,
+      "m_Localized": "얀의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198430484399329305,
+      "m_Localized": "리타의 코스튬\r\n이벤트 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198430484399329306,
+      "m_Localized": "마스트의 코스튬\r\n코스튬 상점에서 구입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198430484399329307,
+      "m_Localized": "모더니아의 코스튬\r\n이벤트에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198839295505272879,
+      "m_Localized": "브리드의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943854301226,
+      "m_Localized": "2B의 코스튬\r\nOUTER AUTOMATA 이벤트 미션에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943854301227,
+      "m_Localized": "2B의 코스튬\r\n코스튬 픽에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943854301228,
+      "m_Localized": "A2의 코스튬\r\nOUTER AUTOMATA 이벤트 미션에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208182943854301229,
+      "m_Localized": "A2의 코스튬\r\n이벤트 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358919057838098,
+      "m_Localized": "디젤의 코스튬\r\n출석 이벤트에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358919057838100,
+      "m_Localized": "노벨의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358919057838099,
+      "m_Localized": "프리바티의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227124939817947182,
+      "m_Localized": "하란의 코스튬\r\n이벤트 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227124939817947183,
+      "m_Localized": "도로시의 코스튬\r\n코스튬 픽에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 2700647395197190146,
+        "type": {
+          "class": "SmartFormatTag",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}

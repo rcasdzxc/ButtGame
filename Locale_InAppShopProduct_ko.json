@@ -1,0 +1,1346 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "Locale_InAppShopProduct_ko",
+  "m_LocaleId": {
+    "m_Code": "ko"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -7926034216603713874
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 2660725121127809024
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 260515472109568,
+      "m_Localized": "30 DAY 보급품",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 260515493081088,
+      "m_Localized": "30 DAY 프리미엄 보급품",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130899915729301505,
+      "m_Localized": "30 DAY 보급품 일일 보상",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130899915729301506,
+      "m_Localized": "30 DAY 프리미엄 보급품 일일 보상",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 260515493081089,
+      "m_Localized": "구매 후 30일간 효과가 지속되는 상품입니다.\r\n구매 즉시 구매 보상을 획득하게 되며, 매일 접속 시 일일 보상을 획득할 수 있습니다.\r\n접속하지 않은 일차에 대한 보상은 소멸합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5793001473351681,
+      "m_Localized": "팝업을 닫으면 해당 상품은 한정 패키지 상점에 등록되며 남은 시간이 지나면 더 이상 구매할 수 없습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6098926183141378,
+      "m_Localized": "지상탈환 지원품 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6098926183141379,
+      "m_Localized": "지상탈환 지원품 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6098926183141380,
+      "m_Localized": "캠페인 챕터 1~10 클리어에 따라 보상을 획득할 수 있는 상품입니다.\r\n구매 즉시 특정 보상이 지급됩니다.\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6098926183141381,
+      "m_Localized": "캠페인 챕터 11~14 클리어에 따라 보상을 획득할 수 있는 상품입니다.\r\n구매 즉시 특정 보상이 지급됩니다.\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 33594134593474675,
+      "m_Localized": "{product_value} 쥬얼",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2660725121127809024
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 33594134593474676,
+      "m_Localized": "보석은 그 빛을 잃지 않습니다.\r\n비록 세상이 어둡더라도, 보석의 빛 만은 남겠죠.\r\n\r\n쥬얼을 사용하여 모집 혹은 구매 시 무료 쥬얼을 먼저 사용합니다.\r\n무료 쥬얼 부족 시, 유료 쥬얼을 자동으로 사용합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36618472347705352,
+      "m_Localized": "중앙 정부에서 공식 판매하는 상품들입니다.\r\n품질과 안정성이 증명된 양품으로 구성되어 있습니다.\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36618472347705353,
+      "m_Localized": "리커맨드 패키지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36618472347705354,
+      "m_Localized": "픽업 패키지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36618472347705355,
+      "m_Localized": "리미티드 패키지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36618472347705356,
+      "m_Localized": "데일리 패키지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36618472347705357,
+      "m_Localized": "위클리 패키지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36618472347705358,
+      "m_Localized": "먼슬리 패키지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240592,
+      "m_Localized": "퍼스트 인카운터 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240593,
+      "m_Localized": "퍼스트 인카운터 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240594,
+      "m_Localized": "퍼스트 인카운터 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240595,
+      "m_Localized": "퍼스트 인카운터 IV",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46333850823446547,
+      "m_Localized": "블링 불렛 패키지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240596,
+      "m_Localized": "테크니컬 서포터 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240597,
+      "m_Localized": "테크니컬 서포터 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240598,
+      "m_Localized": "미케닉스 트레져 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240599,
+      "m_Localized": "미케닉스 트레져 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240600,
+      "m_Localized": "미케닉스 트레져 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47012375146549268,
+      "m_Localized": "하이 그로우 세트 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47012375146549269,
+      "m_Localized": "하이 그로우 세트 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 47012375146549270,
+      "m_Localized": "하이 그로우 세트 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61614692781019157,
+      "m_Localized": "위드 히어로 패키지 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61614692781019158,
+      "m_Localized": "위드 히어로 패키지 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61614692781019159,
+      "m_Localized": "위드 히어로 패키지 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64498339984441375,
+      "m_Localized": "모듈 디벨롭 세트 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64498339984441376,
+      "m_Localized": "모듈 디벨롭 세트 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64498339984441377,
+      "m_Localized": "모듈 디벨롭 세트 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66055466037825562,
+      "m_Localized": "쇼퍼홀릭 초이스 ☆",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66055466037825563,
+      "m_Localized": "쇼퍼홀릭 초이스 ☆☆",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66055466037825564,
+      "m_Localized": "쇼퍼홀릭 초이스 ☆☆☆",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67385690646138917,
+      "m_Localized": "선라이즈 기프트 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67385690646138918,
+      "m_Localized": "선라이즈 기프트 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67385690646138919,
+      "m_Localized": "선라이즈 기프트 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 76943723202105345,
+      "m_Localized": "테크니컬 서포터 S I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 76943723202105346,
+      "m_Localized": "테크니컬 서포터 S II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 76943723202105347,
+      "m_Localized": "테크니컬 마스터",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 76943723202105348,
+      "m_Localized": "그로우 셀렉트 세트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 76943723202105349,
+      "m_Localized": "백업 오브 컴퍼니",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 76943723202105350,
+      "m_Localized": "배틀 마스터 세트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 76943723202105351,
+      "m_Localized": "아웃로 트레져 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 76943723202105352,
+      "m_Localized": "아웃로 트레져 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 76943723202105353,
+      "m_Localized": "아웃로 트레져 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 80111575677554688,
+      "m_Localized": "데블 헌터 패키지 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 80111575694331904,
+      "m_Localized": "데블 헌터 패키지 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 80111575694331905,
+      "m_Localized": "데블 헌터 패키지 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84101532096155648,
+      "m_Localized": "핸드메이드 디저트 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84101532112932864,
+      "m_Localized": "핸드메이드 디저트 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84101532112932865,
+      "m_Localized": "핸드메이드 디저트 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100162731673931805,
+      "m_Localized": "바우와우 프렌즈 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100162731673931806,
+      "m_Localized": "바우와우 프렌즈 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100162731673931807,
+      "m_Localized": "바우와우 프렌즈 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 102661741164908603,
+      "m_Localized": "체리 블로섬 런치 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 102661741164908604,
+      "m_Localized": "체리 블로섬 런치 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 102661741164908605,
+      "m_Localized": "체리 블로섬 런치 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 102661741164908606,
+      "m_Localized": "비밀 임무 지령 팩 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 102661741164908607,
+      "m_Localized": "비밀 임무 지령 팩 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 102661741164908608,
+      "m_Localized": "비밀 임무 지령 팩 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 113005343934009345,
+      "m_Localized": "Half-Anniversary Pack I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 113005343934009346,
+      "m_Localized": "Half-Anniversary Pack II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 113005343934009347,
+      "m_Localized": "Half-Anniversary Pack III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 113005343934009348,
+      "m_Localized": "Half-Anniversary Pack IV",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 113005343934009349,
+      "m_Localized": "Half-Anniversary Pack V",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114875401283063845,
+      "m_Localized": "Half-Anniversary Pack VI",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114875401283063846,
+      "m_Localized": "Half-Anniversary Pack VII",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114875401283063847,
+      "m_Localized": "Half-Anniversary Pack VIII",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114875401283063848,
+      "m_Localized": "Half-Anniversary Pack IX",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122837229313216572,
+      "m_Localized": "특수 모집 패키지 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122837229313216573,
+      "m_Localized": "특수 모집 패키지 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122837229313216574,
+      "m_Localized": "특수 모집 패키지 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122837229313216575,
+      "m_Localized": "인핸스드 모듈 세트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 165702933144166437,
+      "m_Localized": "컴퍼니 리서치 세트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 165702933144166438,
+      "m_Localized": "클래스 리서치 세트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240601,
+      "m_Localized": "니케 마이스터 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240602,
+      "m_Localized": "니케 마이스터 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240603,
+      "m_Localized": "니케 마이스터 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240604,
+      "m_Localized": "니케 마이스터 IV",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67385690646138924,
+      "m_Localized": "배틀 마스터 세트 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67385690646138925,
+      "m_Localized": "배틀 마스터 세트 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67385690646138926,
+      "m_Localized": "배틀 마스터 세트 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67385690646138927,
+      "m_Localized": "배틀 마스터 세트 IV",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84101532112932866,
+      "m_Localized": "모집 지원 팩 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84101532112932867,
+      "m_Localized": "모집 지원 팩 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84101532112932868,
+      "m_Localized": "모집 지원 팩 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96742303236378641,
+      "m_Localized": "모집 지원 팩 IV",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100162731673931820,
+      "m_Localized": "강화 지원 팩 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100162731673931821,
+      "m_Localized": "강화 지원 팩 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100162731673931822,
+      "m_Localized": "강화 지원 팩 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100162731673931823,
+      "m_Localized": "T9 기업장비 선택 팩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161195535035289618,
+      "m_Localized": "기술 강화 팩 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161195535035289619,
+      "m_Localized": "기술 강화 팩 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161195535035289620,
+      "m_Localized": "기술 강화 팩 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161195535035289621,
+      "m_Localized": "기술 강화 팩 IV",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240605,
+      "m_Localized": "몰드 팩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240606,
+      "m_Localized": "코어 더스트 팩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240607,
+      "m_Localized": "크레디트 팩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240608,
+      "m_Localized": "배틀 데이터 팩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240609,
+      "m_Localized": "모듈 부스트 팩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240610,
+      "m_Localized": "스킬 부스트 팩 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240611,
+      "m_Localized": "스킬 부스트 팩 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165257240612,
+      "m_Localized": "기프트 팩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100162731673931832,
+      "m_Localized": "일일 무료 패키지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110192832490786833,
+      "m_Localized": "니케 부스트 팩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161195535035289632,
+      "m_Localized": "미케닉스 기프트 팩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434881,
+      "m_Localized": "몰드 세트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434882,
+      "m_Localized": "니케 그로우 업 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434883,
+      "m_Localized": "니케 그로우 업 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434884,
+      "m_Localized": "크레디트 세트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434885,
+      "m_Localized": "코어 더스트 세트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434886,
+      "m_Localized": "배틀 데이터 세트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434887,
+      "m_Localized": "니케 그로우 업 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434888,
+      "m_Localized": "모듈 부스트 세트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100162731673931841,
+      "m_Localized": "주간 무료 패키지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110192832490786843,
+      "m_Localized": "니케 그로우 업 IV",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161195535035289643,
+      "m_Localized": "크레디트+ 세트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161195535035289644,
+      "m_Localized": "모듈 부스트+ 세트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434889,
+      "m_Localized": "대원 모집 패키지 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434890,
+      "m_Localized": "니케 그로우 업 패키지 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434891,
+      "m_Localized": "대원 모집 패키지 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434892,
+      "m_Localized": "니케 그로우 업 패키지 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434893,
+      "m_Localized": "대원 모집 패키지 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434894,
+      "m_Localized": "니케 그로우 업 패키지 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 42815165261434895,
+      "m_Localized": "대원 모집 패키지 IV",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100162731673931849,
+      "m_Localized": "월간 무료 패키지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161195535035289653,
+      "m_Localized": "미케닉스 부스트 패키지 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161195535035289654,
+      "m_Localized": "미케닉스 부스트 패키지 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161195535035289655,
+      "m_Localized": "테크니컬 서포터 X",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99409964302880852,
+      "m_Localized": "초보 지휘관용 SSR 셀렉트 팩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99420160911757327,
+      "m_Localized": "볼륨, 유니, 애드미, 브리드 중 원하는 니케를\r\n선택하여 획득할 수 있는 선택 상자가 포함된 패키지입니다.\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99409964302880853,
+      "m_Localized": "신입 지휘관용 콜 업 팩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 123273367702229028,
+      "m_Localized": "신입 지휘관용 스킬 부스트 팩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43174652677738548,
+      "m_Localized": "지휘관 성장 기념 루피의 추천 상품",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43174652677738549,
+      "m_Localized": "작전 출격 기념 루피의 추천 상품",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43174652677738550,
+      "m_Localized": "타워 돌파 기념 루피의 추천 상품",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43174652677738551,
+      "m_Localized": "기업 타워 돌파 기념 루피의 추천 상품",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43174652677738552,
+      "m_Localized": "니케 성장 기념 루피의 추천 상품",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43174652677738553,
+      "m_Localized": "니케 돌파 기념 루피의 추천 상품",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 43174652677738554,
+      "m_Localized": "니케 코어 강화 기념 루피의 추천 상품",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 36618472347705360,
+      "m_Localized": "지휘관 레벨 {condition_value} 달성! 인류는 이제 희망을 꿈꿔도 됩니다!\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2660725121127809024
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 36618472347705361,
+      "m_Localized": "챕터 {condition_id} 클리어! 지상 탈환까지 얼마 남지 않았습니다!\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2660725121127809024
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 36618472347705362,
+      "m_Localized": "트라이브 타워 {condition_id}층 클리어! 닿지 않을 높이까지 올라갈 수 있습니다!\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2660725121127809024
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 36618472347705363,
+      "m_Localized": "엘리시온 타워 {condition_id}층 클리어! 택티컬! 택티컬!\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2660725121127809024
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 36618472347705364,
+      "m_Localized": "미실리스 타워 {condition_id}층 클리어! 건방진 꼬마에게 본때를 보여줍시다!\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2660725121127809024
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 36618472347705365,
+      "m_Localized": "테트라 타워 {condition_id}층 클리어! 엔----터테인먼트--!!\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2660725121127809024
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 36618472347705366,
+      "m_Localized": "필그림 타워 {condition_id}층 클리어! 지상을 떠돌며 인류를 수호하는 이들에게 경의를!\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2660725121127809024
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 36618472347705367,
+      "m_Localized": "니케 레벨 {condition_value} 달성! 지휘관만의 니케로 거듭나고 있습니다!\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2660725121127809024
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 36618472347705368,
+      "m_Localized": "니케 한계돌파 {condition_value} 달성! 인류는 이제 두려울 것이 없습니다!\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2660725121127809024
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 36618472347705369,
+      "m_Localized": "니케 코어강화 {condition_value}회 달성! 인류에게 영광 있으라!\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 2660725121127809024
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 92878503450005508,
+      "m_Localized": "함께 등장한 패키지 중 하나를 선택하여 구매할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 104705149693874236,
+      "m_Localized": "원하는 기업 특화 효과가 부여된 장비를\r\n선택하여 획득할 수 있는 선택 상자가 포함된 패키지입니다.\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110192832490786876,
+      "m_Localized": "STEP 5 구매 시, SSR 100% 확정 등장하는 3대 기업 퍼펙트 몰드 중\r\n하나를 선택하여 획득 가능한 선택 상자 제공!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110192832490786877,
+      "m_Localized": "[스텝업 패키지] 에 대해",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110192832490786878,
+      "m_Localized": "1. 스텝업 패키지란?\r\n- 스텝업 패키지는 각 STEP의 패키지를 순차적으로 구매할 수 있는 패키지입니다. 원하는 STEP의 패키지를 구매하기 위해선, 이전 단계의 패키지를 구매해야합니다. \r\n- 예를 들어, STEP 2 패키지를 구매하기 위해선 STEP 1을 먼저 구매해야 합니다.\r\n\r\n2. STEP 5에 포함된 '[SSR 확정] 기업 몰드 선택 상자'란?\r\n- '[SSR 확정] 기업 몰드 선택 상자'에는 엘리시온, 미실리스 인더스트리, 테트라 라인 총 3개 기업의 퍼펙트 몰드가 담겨있습니다.\r\n- 이를 사용하여 원하는 기업의 퍼펙트 몰드 하나를 선택하여 획득할 수 있습니다.\r\n\r\n3. '기업별 퍼펙트 몰드'란?\r\n- 일정 수량을 모은 후 사용하면 100% 확률로 해당 기업의 SSR 니케가 합류합니다.\r\n- 한정 니케, 해방 시스템에서 획득가능한 니케 등, 일부 니케는 등장하지 않습니다.\r\n- 동일한 몰드에서 등장하는 니케의 확률은 동일합니다.\r\n- 기업별 퍼펙트 몰드에서 등장하는 SSR니케의 종류는 다음과 같으며, 변경되지 않습니다.\r\n\r\n[엘리시온]\r\n엠마, 프리바티, 시그널, 폴리, 미란다, 브리드, 솔린, 디젤, 베스티, 은화, 길로틴, 메이든, 디, 헬름\r\n\r\n[미실리스]\r\n맥스웰, 유니, 리타, 율리아, 센티, 드레이크, 크로우, 페퍼, 애드미, 에피넬, 자칼, 라플라스\r\n\r\n[테트라]\r\n슈가, 엑시아, 앨리스, 프림, 메어리, 밀크, 율하, 루드밀라, 루피, 얀, 도라, 노벨, 폴크방, 사쿠라, 바이퍼, 코코아, 소다, 비스킷, 아리아, 노이즈, 볼륨",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110192832490786879,
+      "m_Localized": "스텝업 패키지 STEP 1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110192832490786880,
+      "m_Localized": "스텝업 패키지 STEP 2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110192832490786881,
+      "m_Localized": "스텝업 패키지 STEP 3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110192832490786882,
+      "m_Localized": "스텝업 패키지 STEP 4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110192832490786883,
+      "m_Localized": "스텝업 패키지 STEP 5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110192832490786884,
+      "m_Localized": "SSR 니케가 100% 확정 등장하는 엘리시온, 미실리스 인더스트리, 테트라 라인 3개 기업의 퍼펙트 몰드 중 하나를 선택하여 획득할 수 있는 선택 상자가 포함된 패키지입니다.\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130921963025092622,
+      "m_Localized": "30 DAY 성장 보급품",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 130933626273026056,
+      "m_Localized": "30 DAY 성장 보급품 일일 보상",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 131989457634611234,
+      "m_Localized": "STEP 5 구매 시, 고급 모집 티켓 40개 획득 가능!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 131989457634611235,
+      "m_Localized": "스텝업 패키지란?\r\n- 스텝업 패키지는 각 STEP의 패키지를 순차적으로 구매할 수 있는 패키지입니다. 원하는 STEP의 패키지를 구매하기 위해선, 이전 단계의 패키지를 구매해야합니다. \r\n- 예를 들어, STEP 2 패키지를 구매하기 위해선 STEP 1을 먼저 구매해야 합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 134842128674607129,
+      "m_Localized": "프로모션 패키지 1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 134842128674607130,
+      "m_Localized": "프로모션 패키지 2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 134842128674607131,
+      "m_Localized": "프로모션 패키지 3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 134842128678801408,
+      "m_Localized": "프로모션 패키지 4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 140994528944242724,
+      "m_Localized": "커스텀 패키지 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 140994528944242725,
+      "m_Localized": "커스텀 패키지 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 140994528944242726,
+      "m_Localized": "커스텀 패키지 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 2660725121127809024,
+        "type": {
+          "class": "SmartFormatTag",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}

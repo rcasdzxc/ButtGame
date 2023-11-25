@@ -1,0 +1,5167 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4826179110787420926
+  },
+  "m_Name": "Locale_Trigger Shared Data",
+  "m_TableCollectionName": "Locale_Trigger",
+  "m_TableCollectionNameGuidString": "240ef3e9861ddce4ab01ec66559860d7",
+  "m_Entries": [
+    {
+      "m_Id": 2309726209,
+      "m_Key": "daily_name_10001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726210,
+      "m_Key": "daily_name_10002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726211,
+      "m_Key": "daily_name_10003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726212,
+      "m_Key": "daily_name_10004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726213,
+      "m_Key": "daily_name_10005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726214,
+      "m_Key": "daily_name_10006",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726215,
+      "m_Key": "daily_name_10007",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726216,
+      "m_Key": "daily_name_10008",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726217,
+      "m_Key": "daily_name_10009",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726218,
+      "m_Key": "daily_description_10001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726219,
+      "m_Key": "daily_description_10002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726220,
+      "m_Key": "daily_description_10003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726221,
+      "m_Key": "daily_description_10004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726222,
+      "m_Key": "daily_description_10005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726223,
+      "m_Key": "daily_description_10006",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726224,
+      "m_Key": "daily_description_10007",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726225,
+      "m_Key": "daily_description_10008",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726226,
+      "m_Key": "daily_description_10009",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2309726228,
+      "m_Key": "weekly_name_20001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920512,
+      "m_Key": "weekly_name_20002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920513,
+      "m_Key": "weekly_name_20003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920514,
+      "m_Key": "weekly_name_20004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920515,
+      "m_Key": "weekly_name_20005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920516,
+      "m_Key": "weekly_name_20006",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920517,
+      "m_Key": "weekly_name_20007",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920518,
+      "m_Key": "weekly_description_20001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920519,
+      "m_Key": "weekly_description_20002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920520,
+      "m_Key": "weekly_description_20003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920521,
+      "m_Key": "weekly_description_20004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920522,
+      "m_Key": "weekly_description_20005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920523,
+      "m_Key": "weekly_description_20006",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920524,
+      "m_Key": "weekly_description_20007",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920526,
+      "m_Key": "achievement_name_30001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920527,
+      "m_Key": "achievement_name_30002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920528,
+      "m_Key": "achievement_name_30003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920529,
+      "m_Key": "achievement_name_30004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920530,
+      "m_Key": "achievement_name_30005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920531,
+      "m_Key": "achievement_name_30006",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2220798042152997,
+      "m_Key": "achievement_name_30007",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920532,
+      "m_Key": "achievement_description_30001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920533,
+      "m_Key": "achievement_description_30002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920534,
+      "m_Key": "achievement_description_30003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920535,
+      "m_Key": "achievement_description_30004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920536,
+      "m_Key": "achievement_description_30005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920537,
+      "m_Key": "achievement_description_30006",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920538,
+      "m_Key": "achievement_description_30007",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920540,
+      "m_Key": "challenge_name_40001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920541,
+      "m_Key": "challenge_name_40002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920542,
+      "m_Key": "challenge_name_40003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920543,
+      "m_Key": "challenge_name_40004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920544,
+      "m_Key": "challenge_name_40005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920545,
+      "m_Key": "challenge_name_40006",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920546,
+      "m_Key": "challenge_name_40007",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920547,
+      "m_Key": "challenge_name_40008",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920548,
+      "m_Key": "challenge_name_40009",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920549,
+      "m_Key": "challenge_name_40010",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920550,
+      "m_Key": "challenge_name_40011",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920551,
+      "m_Key": "challenge_name_40012",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920552,
+      "m_Key": "challenge_name_40013",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920553,
+      "m_Key": "challenge_name_40014",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920554,
+      "m_Key": "challenge_name_40015",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920555,
+      "m_Key": "challenge_name_40016",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920556,
+      "m_Key": "challenge_name_40017",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920557,
+      "m_Key": "challenge_name_40018",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920563,
+      "m_Key": "challenge_description_40001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920564,
+      "m_Key": "challenge_description_40002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920565,
+      "m_Key": "challenge_description_40003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920566,
+      "m_Key": "challenge_description_40004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920567,
+      "m_Key": "challenge_description_40005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920568,
+      "m_Key": "challenge_description_40006",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920569,
+      "m_Key": "challenge_description_40007",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920570,
+      "m_Key": "challenge_description_40008",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920571,
+      "m_Key": "challenge_description_40009",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920572,
+      "m_Key": "challenge_description_40010",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920573,
+      "m_Key": "challenge_description_40011",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920574,
+      "m_Key": "challenge_description_40012",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920575,
+      "m_Key": "challenge_description_40013",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920576,
+      "m_Key": "challenge_description_40014",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920577,
+      "m_Key": "challenge_description_40015",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920578,
+      "m_Key": "challenge_description_40016",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920579,
+      "m_Key": "challenge_description_40017",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920580,
+      "m_Key": "challenge_description_40018",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515916,
+      "m_Key": "bgmcollction01_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515917,
+      "m_Key": "bgmcollction01_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515918,
+      "m_Key": "bgmcollction01_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515919,
+      "m_Key": "bgmcollction01_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468711961,
+      "m_Key": "bgmcollction01_step_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169886294060060686,
+      "m_Key": "bgmcollction01_step_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515920,
+      "m_Key": "bgmcollction02_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515921,
+      "m_Key": "bgmcollction02_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515922,
+      "m_Key": "bgmcollction02_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515923,
+      "m_Key": "bgmcollction03_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515924,
+      "m_Key": "bgmcollction03_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515925,
+      "m_Key": "bgmcollction03_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515926,
+      "m_Key": "bgmcollction03_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515927,
+      "m_Key": "bgmcollction03_step_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515928,
+      "m_Key": "bgmcollction03_step_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515929,
+      "m_Key": "bgmcollction03_step_07",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515930,
+      "m_Key": "bgmcollction03_step_08",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515931,
+      "m_Key": "bgmcollction03_step_09",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515932,
+      "m_Key": "bgmcollction03_step_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69475051726729309,
+      "m_Key": "bgmcollction03_step_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69475051726729310,
+      "m_Key": "bgmcollction03_step_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468711977,
+      "m_Key": "bgmcollction03_step_13",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515933,
+      "m_Key": "bgmcollction05_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515934,
+      "m_Key": "bgmcollction05_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515935,
+      "m_Key": "bgmcollction05_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515936,
+      "m_Key": "bgmcollction05_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515937,
+      "m_Key": "bgmcollction05_step_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515938,
+      "m_Key": "bgmcollction06_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515939,
+      "m_Key": "bgmcollction06_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515940,
+      "m_Key": "bgmcollction06_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515941,
+      "m_Key": "bgmcollction06_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515942,
+      "m_Key": "bgmcollction06_step_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69475051726729321,
+      "m_Key": "bgmcollction06_step_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515943,
+      "m_Key": "bgmcollction07_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515944,
+      "m_Key": "bgmcollction07_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515945,
+      "m_Key": "bgmcollction07_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515946,
+      "m_Key": "bgmcollction07_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515947,
+      "m_Key": "bgmcollction07_step_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69475051726729327,
+      "m_Key": "bgmcollction07_step_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515948,
+      "m_Key": "bgmcollction08_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515949,
+      "m_Key": "bgmcollction08_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515950,
+      "m_Key": "bgmcollction08_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515951,
+      "m_Key": "bgmcollction08_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515952,
+      "m_Key": "bgmcollction09_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515953,
+      "m_Key": "bgmcollction09_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515954,
+      "m_Key": "bgmcollction09_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515955,
+      "m_Key": "bgmcollction09_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515956,
+      "m_Key": "bgmcollction09_step_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69475051726729337,
+      "m_Key": "bgmcollction09_step_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712005,
+      "m_Key": "bgmcollction09_step_07",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515957,
+      "m_Key": "bgmcollction10_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515958,
+      "m_Key": "bgmcollction10_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515959,
+      "m_Key": "bgmcollction10_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515960,
+      "m_Key": "bgmcollction10_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69475051726729342,
+      "m_Key": "bgmcollction10_step_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515961,
+      "m_Key": "bgmcollction11_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515962,
+      "m_Key": "bgmcollction11_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515963,
+      "m_Key": "bgmcollction11_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515964,
+      "m_Key": "bgmcollction11_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69475051726729347,
+      "m_Key": "bgmcollction11_step_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515965,
+      "m_Key": "bgmcollction12_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515966,
+      "m_Key": "bgmcollction12_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67321681188515967,
+      "m_Key": "bgmcollction12_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69475051726729351,
+      "m_Key": "bgmcollction12_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712020,
+      "m_Key": "bgmcollction13_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712021,
+      "m_Key": "bgmcollction13_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712022,
+      "m_Key": "bgmcollction13_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712023,
+      "m_Key": "bgmcollction13_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712024,
+      "m_Key": "bgmcollction14_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712025,
+      "m_Key": "bgmcollction14_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712026,
+      "m_Key": "bgmcollction14_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712027,
+      "m_Key": "bgmcollction14_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712028,
+      "m_Key": "bgmcollction14_step_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712029,
+      "m_Key": "bgmcollction14_step_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712030,
+      "m_Key": "bgmcollction15_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712031,
+      "m_Key": "bgmcollction15_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712032,
+      "m_Key": "bgmcollction15_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712033,
+      "m_Key": "bgmcollction15_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712034,
+      "m_Key": "bgmcollction15_step_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712035,
+      "m_Key": "bgmcollction15_step_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712036,
+      "m_Key": "bgmcollction15_step_07",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160870991468712037,
+      "m_Key": "bgmcollction15_step_08",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169886294060060763,
+      "m_Key": "bgmcollction15_step_09",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169886294060060764,
+      "m_Key": "bgmcollction15_step_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169886294060060765,
+      "m_Key": "bgmcollction15_step_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169886294060060766,
+      "m_Key": "bgmcollction15_step_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169886294060060767,
+      "m_Key": "bgmcollction16_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169886294060060768,
+      "m_Key": "bgmcollction16_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169886294060060769,
+      "m_Key": "bgmcollction16_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169886294060060770,
+      "m_Key": "bgmcollction16_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 196679634006229019,
+      "m_Key": "bgmcollction16_step_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 196679634006229020,
+      "m_Key": "bgmcollction16_step_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 196679634006229021,
+      "m_Key": "bgmcollction16_step_07",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 196679634006229022,
+      "m_Key": "bgmcollction16_step_08",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 196679634006229023,
+      "m_Key": "bgmcollction16_step_09",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229598894692941889,
+      "m_Key": "bgmcollction17_step_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229598894692941890,
+      "m_Key": "bgmcollction17_step_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229598894692941891,
+      "m_Key": "bgmcollction17_step_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229598894692941892,
+      "m_Key": "bgmcollction17_step_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229598894692941893,
+      "m_Key": "bgmcollction17_step_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229598894692941894,
+      "m_Key": "bgmcollction17_step_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229598894692941895,
+      "m_Key": "bgmcollction17_step_07",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920589,
+      "m_Key": "bgmcollction_description_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920590,
+      "m_Key": "bgmcollction_description_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2313920591,
+      "m_Key": "bgmcollction_description_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10478010216771670,
+      "m_Key": "bgmcollction_description_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67278234666692655,
+      "m_Key": "bgmcollction_description_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67278234666692656,
+      "m_Key": "bgmcollction_description_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67278234666692657,
+      "m_Key": "bgmcollction_description_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67278234666692658,
+      "m_Key": "bgmcollction_description_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67278234666692659,
+      "m_Key": "bgmcollction_description_9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67278234666692660,
+      "m_Key": "bgmcollction_description_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67278234666692661,
+      "m_Key": "bgmcollction_description_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67278234666692662,
+      "m_Key": "bgmcollction_description_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67278234666692663,
+      "m_Key": "bgmcollction_description_13",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67278234666692664,
+      "m_Key": "bgmcollction_description_14",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67278234666692665,
+      "m_Key": "bgmcollction_description_15",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169886294064254990,
+      "m_Key": "bgmcollction_description_16",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 169886294064254991,
+      "m_Key": "bgmcollction_description_17",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229598894697136137,
+      "m_Key": "bgmcollction_description_18",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694108,
+      "m_Key": "trigger_name_CampaignStart",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694109,
+      "m_Key": "trigger_name_CharacterLevelUp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694110,
+      "m_Key": "trigger_name_OutpostBattleReward",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694111,
+      "m_Key": "trigger_name_OutpostFastBattleReward",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694112,
+      "m_Key": "trigger_name_SendFriendShipPoint",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694113,
+      "m_Key": "trigger_name_EquipmentLevelExp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694114,
+      "m_Key": "trigger_name_GachaCharacter",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694115,
+      "m_Key": "trigger_name_TowerAllStart",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694116,
+      "m_Key": "trigger_name_SendDispatch",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694117,
+      "m_Key": "trigger_name_MainShopBuy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694118,
+      "m_Key": "trigger_name_ShopGuildBuy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694119,
+      "m_Key": "trigger_name_CharacterGradeUp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694120,
+      "m_Key": "trigger_name_UserLevel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694121,
+      "m_Key": "trigger_name_CharacterLevel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694122,
+      "m_Key": "trigger_name_CharacterGrade",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694123,
+      "m_Key": "trigger_name_CharacterCore",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694124,
+      "m_Key": "trigger_name_CharacterAttractiveLevel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694125,
+      "m_Key": "trigger_name_OutpostBattleRewardAccumulate",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694126,
+      "m_Key": "trigger_name_OutpostBuildingLevel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694127,
+      "m_Key": "trigger_name_ObtainCharacter",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694128,
+      "m_Key": "trigger_name_GachaCompany",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694129,
+      "m_Key": "trigger_name_ObtainCharacterSSR",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694130,
+      "m_Key": "trigger_name_CharacterDismiss",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694131,
+      "m_Key": "trigger_name_ObtainEquipItemT3T4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694132,
+      "m_Key": "trigger_name_ObtainEquipItemT5T6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694133,
+      "m_Key": "trigger_name_SubQuestClear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694134,
+      "m_Key": "trigger_name_PointRewardAchievement",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694135,
+      "m_Key": "trigger_name_CharacterCounsel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694136,
+      "m_Key": "trigger_name_CharacterAttractivePresent",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694137,
+      "m_Key": "trigger_name_ChapterClear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694138,
+      "m_Key": "trigger_name_ChapterClear_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694139,
+      "m_Key": "trigger_name_ChapterClear_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694140,
+      "m_Key": "trigger_name_ChapterClear_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694141,
+      "m_Key": "trigger_name_ChapterClear_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694142,
+      "m_Key": "trigger_name_ChapterClear_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694143,
+      "m_Key": "trigger_name_ChapterClear_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699524694144,
+      "m_Key": "trigger_name_ChapterClear_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888320,
+      "m_Key": "trigger_name_TowerBasicClear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888321,
+      "m_Key": "trigger_name_TowerBasicClear_10005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888322,
+      "m_Key": "trigger_name_TowerBasicClear_10010",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888323,
+      "m_Key": "trigger_name_TowerBasicClear_10020",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888324,
+      "m_Key": "trigger_name_TowerBasicClear_10030",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888325,
+      "m_Key": "trigger_name_TowerBasicClear_10040",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888326,
+      "m_Key": "trigger_name_TowerBasicClear_10050",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888327,
+      "m_Key": "trigger_name_TowerBasicClear_10060",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888328,
+      "m_Key": "trigger_name_TowerBasicClear_10070",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888329,
+      "m_Key": "trigger_name_CampaignClear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 91248052423913576,
+      "m_Key": "trigger_name_EventStageClear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112963010878263394,
+      "m_Key": "trigger_name_MinigameClear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112963010878263395,
+      "m_Key": "trigger_name_ObtainItem",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888330,
+      "m_Key": "trigger_desc_CampaignStart",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888331,
+      "m_Key": "trigger_desc_CharacterLevelUp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888332,
+      "m_Key": "trigger_desc_OutpostBattleReward",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888333,
+      "m_Key": "trigger_desc_OutpostFastBattleReward",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888334,
+      "m_Key": "trigger_desc_SendFriendShipPoint",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112363388388528172,
+      "m_Key": "trigger_desc_GetFriendShipPoint",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888335,
+      "m_Key": "trigger_desc_EquipmentLevelExp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888336,
+      "m_Key": "trigger_desc_GachaCharacter",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112376054179975183,
+      "m_Key": "trigger_desc_PickupGachaCharacter",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888337,
+      "m_Key": "trigger_desc_TowerAllStart",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888338,
+      "m_Key": "trigger_desc_SendDispatch",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888339,
+      "m_Key": "trigger_desc_MainShopBuy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888340,
+      "m_Key": "trigger_desc_ShopGuildBuy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888341,
+      "m_Key": "trigger_desc_CharacterGradeUp",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888342,
+      "m_Key": "trigger_desc_UserLevel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888343,
+      "m_Key": "trigger_desc_CharacterLevel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888344,
+      "m_Key": "trigger_desc_CharacterGrade",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888345,
+      "m_Key": "trigger_desc_CharacterCore",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888346,
+      "m_Key": "trigger_desc_CharacterAttractiveLevel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888347,
+      "m_Key": "trigger_desc_OutpostBattleRewardAccumulate",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888348,
+      "m_Key": "trigger_desc_OutpostBuildingLevel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888349,
+      "m_Key": "trigger_desc_ObtainCharacter",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888350,
+      "m_Key": "trigger_desc_GachaCompany",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888351,
+      "m_Key": "trigger_desc_ObtainCharacterSSR",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 69791641145221280,
+      "m_Key": "trigger_desc_ObtainCharacterSSR_First",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888352,
+      "m_Key": "trigger_desc_CharacterDismiss",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888353,
+      "m_Key": "trigger_desc_ObtainEquipItemT3T4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888354,
+      "m_Key": "trigger_desc_ObtainEquipItemT5T6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888355,
+      "m_Key": "trigger_desc_SubQuestClear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888356,
+      "m_Key": "trigger_desc_PointRewardAchievement",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888357,
+      "m_Key": "trigger_desc_CharacterCounsel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888358,
+      "m_Key": "trigger_desc_CharacterAttractivePresent",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112363388388528198,
+      "m_Key": "trigger_desc_ObtainEventCurrencyMaterialMiraclesnow",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137884394993504256,
+      "m_Key": "trigger_desc_ObtainEventCurrencyMaterialCE01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 162946401146159115,
+      "m_Key": "trigger_desc_ObtainEventCurrencyMaterialOZ",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 182488352786661404,
+      "m_Key": "trigger_desc_ObtainEventCurrencyMaterialBI",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 196337488342466614,
+      "m_Key": "trigger_desc_ObtainEventCurrencyMaterialSYA",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 211445793662353426,
+      "m_Key": "trigger_desc_ObtainEventCurrencyMaterialCE002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233914693981224981,
+      "m_Key": "trigger_desc_ObtainEventCurrencyMaterialRA",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112363388388528199,
+      "m_Key": "trigger_desc_EventDungeonStageClear_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112363388388528200,
+      "m_Key": "trigger_desc_EventDungeonStageClear_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112363388388528201,
+      "m_Key": "trigger_desc_EventDungeonStageClear_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112363388388528202,
+      "m_Key": "trigger_desc_EventSortOutClear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112363388388528203,
+      "m_Key": "trigger_desc_EventSortOutPoint",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112363388388528204,
+      "m_Key": "trigger_desc_CharacterSkillLevelUpCount",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112363388388528205,
+      "m_Key": "trigger_desc_ShopDisassembleBuy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164791376023171083,
+      "m_Key": "trigger_desc_TextAdventureFinishedWM",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 203235011178971176,
+      "m_Key": "trigger_desc_EventBBQTycoonDailyRewardCheck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 203235011178971177,
+      "m_Key": "trigger_desc_EventBBQTycoonHighScore",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 211931120843800599,
+      "m_Key": "trigger_desc_EventMiniGameCe002PlayCheck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233905822394925121,
+      "m_Key": "trigger_desc_EventMiniGameNKSPlayCheck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888359,
+      "m_Key": "trigger_desc_ChapterClear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888360,
+      "m_Key": "trigger_desc_ChapterClear_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888361,
+      "m_Key": "trigger_desc_ChapterClear_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888362,
+      "m_Key": "trigger_desc_ChapterClear_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888363,
+      "m_Key": "trigger_desc_ChapterClear_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888364,
+      "m_Key": "trigger_desc_ChapterClear_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888365,
+      "m_Key": "trigger_desc_ChapterClear_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888366,
+      "m_Key": "trigger_desc_ChapterClear_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773469,
+      "m_Key": "trigger_desc_ChapterClear_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773470,
+      "m_Key": "trigger_desc_ChapterClear_9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773471,
+      "m_Key": "trigger_desc_ChapterClear_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773472,
+      "m_Key": "trigger_desc_ChapterClear_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773473,
+      "m_Key": "trigger_desc_ChapterClear_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549728,
+      "m_Key": "trigger_desc_ChapterClear_13",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549729,
+      "m_Key": "trigger_desc_ChapterClear_14",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549730,
+      "m_Key": "trigger_desc_ChapterClear_15",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549731,
+      "m_Key": "trigger_desc_ChapterClear_16",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114053503766777872,
+      "m_Key": "trigger_desc_ChapterClear_17",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 114053503766777873,
+      "m_Key": "trigger_desc_ChapterClear_18",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 123104675190296648,
+      "m_Key": "trigger_desc_ChapterClear_19",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 123104675190296649,
+      "m_Key": "trigger_desc_ChapterClear_20",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 162891989266645006,
+      "m_Key": "trigger_desc_ChapterClear_21",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 162891989266645007,
+      "m_Key": "trigger_desc_ChapterClear_22",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198875081449848887,
+      "m_Key": "trigger_desc_ChapterClear_23",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198875081449848888,
+      "m_Key": "trigger_desc_ChapterClear_24",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229594026666278934,
+      "m_Key": "trigger_desc_ChapterClear_25",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229594026666278935,
+      "m_Key": "trigger_desc_ChapterClear_26",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549732,
+      "m_Key": "trigger_desc_HardChapterClear_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549733,
+      "m_Key": "trigger_desc_HardChapterClear_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549734,
+      "m_Key": "trigger_desc_HardChapterClear_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549735,
+      "m_Key": "trigger_desc_HardChapterClear_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549736,
+      "m_Key": "trigger_desc_HardChapterClear_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969424,
+      "m_Key": "trigger_desc_HardChapterClear_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969425,
+      "m_Key": "trigger_desc_HardChapterClear_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969426,
+      "m_Key": "trigger_desc_HardChapterClear_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969427,
+      "m_Key": "trigger_desc_HardChapterClear_9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969428,
+      "m_Key": "trigger_desc_HardChapterClear_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969429,
+      "m_Key": "trigger_desc_HardChapterClear_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969430,
+      "m_Key": "trigger_desc_HardChapterClear_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969431,
+      "m_Key": "trigger_desc_HardChapterClear_13",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969432,
+      "m_Key": "trigger_desc_HardChapterClear_14",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969433,
+      "m_Key": "trigger_desc_HardChapterClear_15",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969434,
+      "m_Key": "trigger_desc_HardChapterClear_16",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969435,
+      "m_Key": "trigger_desc_HardChapterClear_17",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969436,
+      "m_Key": "trigger_desc_HardChapterClear_18",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116570656998969437,
+      "m_Key": "trigger_desc_HardChapterClear_19",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 123104675194490881,
+      "m_Key": "trigger_desc_HardChapterClear_20",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 123104675194490882,
+      "m_Key": "trigger_desc_HardChapterClear_21",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 162891989266645029,
+      "m_Key": "trigger_desc_HardChapterClear_22",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 162891989266645030,
+      "m_Key": "trigger_desc_HardChapterClear_23",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198875081449848912,
+      "m_Key": "trigger_desc_HardChapterClear_24",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198875081449848913,
+      "m_Key": "trigger_desc_HardChapterClear_25",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229594026666278961,
+      "m_Key": "trigger_desc_HardChapterClear_26",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229594026666278962,
+      "m_Key": "trigger_desc_HardChapterClear_27",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888367,
+      "m_Key": "trigger_desc_TowerBasicClear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773475,
+      "m_Key": "trigger_desc_TowerBasicClear_10001",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773476,
+      "m_Key": "trigger_desc_TowerBasicClear_10002",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773477,
+      "m_Key": "trigger_desc_TowerBasicClear_10003",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773478,
+      "m_Key": "trigger_desc_TowerBasicClear_10004",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888368,
+      "m_Key": "trigger_desc_TowerBasicClear_10005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773480,
+      "m_Key": "trigger_desc_TowerBasicClear_10006",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773481,
+      "m_Key": "trigger_desc_TowerBasicClear_10007",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773482,
+      "m_Key": "trigger_desc_TowerBasicClear_10008",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773483,
+      "m_Key": "trigger_desc_TowerBasicClear_10009",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888369,
+      "m_Key": "trigger_desc_TowerBasicClear_10010",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773485,
+      "m_Key": "trigger_desc_TowerBasicClear_10011",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773486,
+      "m_Key": "trigger_desc_TowerBasicClear_10012",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773487,
+      "m_Key": "trigger_desc_TowerBasicClear_10013",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773488,
+      "m_Key": "trigger_desc_TowerBasicClear_10014",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773489,
+      "m_Key": "trigger_desc_TowerBasicClear_10015",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773490,
+      "m_Key": "trigger_desc_TowerBasicClear_10016",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773491,
+      "m_Key": "trigger_desc_TowerBasicClear_10017",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773492,
+      "m_Key": "trigger_desc_TowerBasicClear_10018",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64377693100773493,
+      "m_Key": "trigger_desc_TowerBasicClear_10019",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888370,
+      "m_Key": "trigger_desc_TowerBasicClear_10020",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888371,
+      "m_Key": "trigger_desc_TowerBasicClear_10030",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888372,
+      "m_Key": "trigger_desc_TowerBasicClear_10040",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888373,
+      "m_Key": "trigger_desc_TowerBasicClear_10050",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99823914756624477,
+      "m_Key": "trigger_desc_TowerBasicClear_10055",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888374,
+      "m_Key": "trigger_desc_TowerBasicClear_10060",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888375,
+      "m_Key": "trigger_desc_TowerBasicClear_10070",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549763,
+      "m_Key": "trigger_desc_TowerBasicClear_10080",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549764,
+      "m_Key": "trigger_desc_TowerBasicClear_10090",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549765,
+      "m_Key": "trigger_desc_TowerBasicClear_10100",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549766,
+      "m_Key": "trigger_desc_TowerBasicClear_10110",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549767,
+      "m_Key": "trigger_desc_TowerBasicClear_10120",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549768,
+      "m_Key": "trigger_desc_TowerBasicClear_10130",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549769,
+      "m_Key": "trigger_desc_TowerBasicClear_10140",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303963549770,
+      "m_Key": "trigger_desc_TowerBasicClear_10150",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655711,
+      "m_Key": "trigger_desc_TowerBasicClear_10160",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655712,
+      "m_Key": "trigger_desc_TowerBasicClear_10170",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655713,
+      "m_Key": "trigger_desc_TowerBasicClear_10180",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655714,
+      "m_Key": "trigger_desc_TowerBasicClear_10190",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655715,
+      "m_Key": "trigger_desc_TowerBasicClear_10200",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655716,
+      "m_Key": "trigger_desc_TowerBasicClear_10210",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655717,
+      "m_Key": "trigger_desc_TowerBasicClear_10220",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655718,
+      "m_Key": "trigger_desc_TowerBasicClear_10230",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655719,
+      "m_Key": "trigger_desc_TowerBasicClear_10240",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655720,
+      "m_Key": "trigger_desc_TowerBasicClear_10250",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428445,
+      "m_Key": "trigger_desc_TowerBasicClear_10260",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428446,
+      "m_Key": "trigger_desc_TowerBasicClear_10270",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428447,
+      "m_Key": "trigger_desc_TowerBasicClear_10280",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428448,
+      "m_Key": "trigger_desc_TowerBasicClear_10290",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428449,
+      "m_Key": "trigger_desc_TowerBasicClear_10300",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428450,
+      "m_Key": "trigger_desc_TowerBasicClear_10310",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428451,
+      "m_Key": "trigger_desc_TowerBasicClear_10320",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428452,
+      "m_Key": "trigger_desc_TowerBasicClear_10330",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428453,
+      "m_Key": "trigger_desc_TowerBasicClear_10340",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428454,
+      "m_Key": "trigger_desc_TowerBasicClear_10350",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652499,
+      "m_Key": "trigger_desc_TowerBasicClear_10360",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652500,
+      "m_Key": "trigger_desc_TowerBasicClear_10370",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652501,
+      "m_Key": "trigger_desc_TowerBasicClear_10380",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652502,
+      "m_Key": "trigger_desc_TowerBasicClear_10390",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652503,
+      "m_Key": "trigger_desc_TowerBasicClear_10400",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652504,
+      "m_Key": "trigger_desc_TowerBasicClear_10410",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652505,
+      "m_Key": "trigger_desc_TowerBasicClear_10420",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652506,
+      "m_Key": "trigger_desc_TowerBasicClear_10430",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652507,
+      "m_Key": "trigger_desc_TowerBasicClear_10440",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652508,
+      "m_Key": "trigger_desc_TowerBasicClear_10450",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981035,
+      "m_Key": "trigger_desc_TowerElysionClear_20005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981036,
+      "m_Key": "trigger_desc_TowerElysionClear_20010",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981037,
+      "m_Key": "trigger_desc_TowerElysionClear_20015",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981038,
+      "m_Key": "trigger_desc_TowerElysionClear_20020",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981039,
+      "m_Key": "trigger_desc_TowerElysionClear_20030",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981040,
+      "m_Key": "trigger_desc_TowerElysionClear_20040",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981041,
+      "m_Key": "trigger_desc_TowerElysionClear_20050",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981042,
+      "m_Key": "trigger_desc_TowerElysionClear_20060",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981043,
+      "m_Key": "trigger_desc_TowerElysionClear_20070",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981044,
+      "m_Key": "trigger_desc_TowerElysionClear_20080",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981045,
+      "m_Key": "trigger_desc_TowerElysionClear_20090",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981046,
+      "m_Key": "trigger_desc_TowerElysionClear_20100",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981047,
+      "m_Key": "trigger_desc_TowerElysionClear_20110",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981048,
+      "m_Key": "trigger_desc_TowerElysionClear_20120",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981049,
+      "m_Key": "trigger_desc_TowerElysionClear_20130",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981050,
+      "m_Key": "trigger_desc_TowerElysionClear_20140",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981051,
+      "m_Key": "trigger_desc_TowerElysionClear_20150",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655738,
+      "m_Key": "trigger_desc_TowerElysionClear_20160",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655739,
+      "m_Key": "trigger_desc_TowerElysionClear_20170",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655740,
+      "m_Key": "trigger_desc_TowerElysionClear_20180",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655741,
+      "m_Key": "trigger_desc_TowerElysionClear_20190",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655742,
+      "m_Key": "trigger_desc_TowerElysionClear_20200",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655743,
+      "m_Key": "trigger_desc_TowerElysionClear_20210",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655744,
+      "m_Key": "trigger_desc_TowerElysionClear_20220",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655745,
+      "m_Key": "trigger_desc_TowerElysionClear_20230",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655746,
+      "m_Key": "trigger_desc_TowerElysionClear_20240",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655747,
+      "m_Key": "trigger_desc_TowerElysionClear_20250",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428482,
+      "m_Key": "trigger_desc_TowerElysionClear_20260",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428483,
+      "m_Key": "trigger_desc_TowerElysionClear_20270",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428484,
+      "m_Key": "trigger_desc_TowerElysionClear_20280",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428485,
+      "m_Key": "trigger_desc_TowerElysionClear_20290",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602378428486,
+      "m_Key": "trigger_desc_TowerElysionClear_20300",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652541,
+      "m_Key": "trigger_desc_TowerElysionClear_20310",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652542,
+      "m_Key": "trigger_desc_TowerElysionClear_20320",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652543,
+      "m_Key": "trigger_desc_TowerElysionClear_20330",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652544,
+      "m_Key": "trigger_desc_TowerElysionClear_20340",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652545,
+      "m_Key": "trigger_desc_TowerElysionClear_20350",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652546,
+      "m_Key": "trigger_desc_TowerElysionClear_20360",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652547,
+      "m_Key": "trigger_desc_TowerElysionClear_20370",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652548,
+      "m_Key": "trigger_desc_TowerElysionClear_20380",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652549,
+      "m_Key": "trigger_desc_TowerElysionClear_20390",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518597652550,
+      "m_Key": "trigger_desc_TowerElysionClear_20400",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981052,
+      "m_Key": "trigger_desc_TowerMissilisClear_30005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981053,
+      "m_Key": "trigger_desc_TowerMissilisClear_30010",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981054,
+      "m_Key": "trigger_desc_TowerMissilisClear_30015",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981055,
+      "m_Key": "trigger_desc_TowerMissilisClear_30020",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981056,
+      "m_Key": "trigger_desc_TowerMissilisClear_30030",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981057,
+      "m_Key": "trigger_desc_TowerMissilisClear_30040",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981058,
+      "m_Key": "trigger_desc_TowerMissilisClear_30050",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981059,
+      "m_Key": "trigger_desc_TowerMissilisClear_30060",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981060,
+      "m_Key": "trigger_desc_TowerMissilisClear_30070",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981061,
+      "m_Key": "trigger_desc_TowerMissilisClear_30080",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981062,
+      "m_Key": "trigger_desc_TowerMissilisClear_30090",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981063,
+      "m_Key": "trigger_desc_TowerMissilisClear_30100",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981064,
+      "m_Key": "trigger_desc_TowerMissilisClear_30110",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981065,
+      "m_Key": "trigger_desc_TowerMissilisClear_30120",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981066,
+      "m_Key": "trigger_desc_TowerMissilisClear_30130",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981067,
+      "m_Key": "trigger_desc_TowerMissilisClear_30140",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981068,
+      "m_Key": "trigger_desc_TowerMissilisClear_30150",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655765,
+      "m_Key": "trigger_desc_TowerMissilisClear_30160",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655766,
+      "m_Key": "trigger_desc_TowerMissilisClear_30170",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655767,
+      "m_Key": "trigger_desc_TowerMissilisClear_30180",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655768,
+      "m_Key": "trigger_desc_TowerMissilisClear_30190",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655769,
+      "m_Key": "trigger_desc_TowerMissilisClear_30200",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655770,
+      "m_Key": "trigger_desc_TowerMissilisClear_30210",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655771,
+      "m_Key": "trigger_desc_TowerMissilisClear_30220",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655772,
+      "m_Key": "trigger_desc_TowerMissilisClear_30230",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655773,
+      "m_Key": "trigger_desc_TowerMissilisClear_30240",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750179655774,
+      "m_Key": "trigger_desc_TowerMissilisClear_30250",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622729,
+      "m_Key": "trigger_desc_TowerMissilisClear_30260",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622730,
+      "m_Key": "trigger_desc_TowerMissilisClear_30270",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622731,
+      "m_Key": "trigger_desc_TowerMissilisClear_30280",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622732,
+      "m_Key": "trigger_desc_TowerMissilisClear_30290",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622733,
+      "m_Key": "trigger_desc_TowerMissilisClear_30300",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518601846812,
+      "m_Key": "trigger_desc_TowerMissilisClear_30310",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518601846813,
+      "m_Key": "trigger_desc_TowerMissilisClear_30320",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518601846814,
+      "m_Key": "trigger_desc_TowerMissilisClear_30330",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518601846815,
+      "m_Key": "trigger_desc_TowerMissilisClear_30340",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518601846816,
+      "m_Key": "trigger_desc_TowerMissilisClear_30350",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518601846817,
+      "m_Key": "trigger_desc_TowerMissilisClear_30360",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518601846818,
+      "m_Key": "trigger_desc_TowerMissilisClear_30370",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518601846819,
+      "m_Key": "trigger_desc_TowerMissilisClear_30380",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518601846820,
+      "m_Key": "trigger_desc_TowerMissilisClear_30390",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518601846821,
+      "m_Key": "trigger_desc_TowerMissilisClear_30400",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981069,
+      "m_Key": "trigger_desc_TowerTetraClear_40005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981070,
+      "m_Key": "trigger_desc_TowerTetraClear_40010",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981071,
+      "m_Key": "trigger_desc_TowerTetraClear_40015",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981072,
+      "m_Key": "trigger_desc_TowerTetraClear_40020",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981073,
+      "m_Key": "trigger_desc_TowerTetraClear_40030",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981074,
+      "m_Key": "trigger_desc_TowerTetraClear_40040",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981075,
+      "m_Key": "trigger_desc_TowerTetraClear_40050",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981076,
+      "m_Key": "trigger_desc_TowerTetraClear_40060",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981077,
+      "m_Key": "trigger_desc_TowerTetraClear_40070",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981078,
+      "m_Key": "trigger_desc_TowerTetraClear_40080",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981079,
+      "m_Key": "trigger_desc_TowerTetraClear_40090",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981080,
+      "m_Key": "trigger_desc_TowerTetraClear_40100",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981081,
+      "m_Key": "trigger_desc_TowerTetraClear_40110",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981082,
+      "m_Key": "trigger_desc_TowerTetraClear_40120",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981083,
+      "m_Key": "trigger_desc_TowerTetraClear_40130",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981084,
+      "m_Key": "trigger_desc_TowerTetraClear_40140",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981085,
+      "m_Key": "trigger_desc_TowerTetraClear_40150",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183849994,
+      "m_Key": "trigger_desc_TowerTetraClear_40160",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183849995,
+      "m_Key": "trigger_desc_TowerTetraClear_40170",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183849996,
+      "m_Key": "trigger_desc_TowerTetraClear_40180",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183849997,
+      "m_Key": "trigger_desc_TowerTetraClear_40190",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183849998,
+      "m_Key": "trigger_desc_TowerTetraClear_40200",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183849999,
+      "m_Key": "trigger_desc_TowerTetraClear_40210",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850000,
+      "m_Key": "trigger_desc_TowerTetraClear_40220",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850001,
+      "m_Key": "trigger_desc_TowerTetraClear_40230",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850002,
+      "m_Key": "trigger_desc_TowerTetraClear_40240",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850003,
+      "m_Key": "trigger_desc_TowerTetraClear_40250",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622761,
+      "m_Key": "trigger_desc_TowerTetraClear_40260",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622762,
+      "m_Key": "trigger_desc_TowerTetraClear_40270",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622763,
+      "m_Key": "trigger_desc_TowerTetraClear_40280",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622764,
+      "m_Key": "trigger_desc_TowerTetraClear_40290",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622765,
+      "m_Key": "trigger_desc_TowerTetraClear_40300",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518601846854,
+      "m_Key": "trigger_desc_TowerTetraClear_40310",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041088,
+      "m_Key": "trigger_desc_TowerTetraClear_40320",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041089,
+      "m_Key": "trigger_desc_TowerTetraClear_40330",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041090,
+      "m_Key": "trigger_desc_TowerTetraClear_40340",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041091,
+      "m_Key": "trigger_desc_TowerTetraClear_40350",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041092,
+      "m_Key": "trigger_desc_TowerTetraClear_40360",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041093,
+      "m_Key": "trigger_desc_TowerTetraClear_40370",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041094,
+      "m_Key": "trigger_desc_TowerTetraClear_40380",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041095,
+      "m_Key": "trigger_desc_TowerTetraClear_40390",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041096,
+      "m_Key": "trigger_desc_TowerTetraClear_40400",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981086,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981087,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50010",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981088,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50015",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981089,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50020",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981090,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50030",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981091,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50040",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981092,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50050",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981093,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50060",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981094,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50070",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981095,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50080",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981096,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50090",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981097,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50100",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981098,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50110",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981099,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50120",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981100,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50130",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981101,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50140",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99686412896981102,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50150",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850021,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50160",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850022,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50170",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850023,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50180",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850024,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50190",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850025,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50200",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850026,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50210",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850027,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50220",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850028,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50230",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850029,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50240",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 139433750183850030,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50250",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622793,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50260",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622794,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50270",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622795,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50280",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622796,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50290",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 204342602382622797,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50300",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041129,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50310",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041130,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50320",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041131,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50330",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041132,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50340",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041133,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50350",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041134,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50360",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041135,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50370",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041136,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50380",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041137,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50390",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229593518606041138,
+      "m_Key": "trigger_desc_TowerPilgrimClear_50400",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14062699528888376,
+      "m_Key": "trigger_desc_CampaignClear_6007039",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66615046359945352,
+      "m_Key": "trigger_desc_LostSectorClear_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66615046359945353,
+      "m_Key": "trigger_desc_LostSectorClear_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66615046359945354,
+      "m_Key": "trigger_desc_LostSectorClear_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99823118967132212,
+      "m_Key": "trigger_desc_LostSectorClear_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66550868999868544,
+      "m_Key": "trigger_desc_SimulationRoomStart",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66550868999868545,
+      "m_Key": "trigger_desc_InterceptStart",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66550868999868546,
+      "m_Key": "trigger_desc_EquipItemLevelCount",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 116921234962796584,
+      "m_Key": "trigger_desc_EquipItemLevelupCount",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66550868999868547,
+      "m_Key": "trigger_desc_SimulationRoomClear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 66550868999868548,
+      "m_Key": "trigger_desc_InterceptClear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97667146421129260,
+      "m_Key": "trigger_desc_WinArena",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97667146421129261,
+      "m_Key": "trigger_desc_ObtainEquipItemALL",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97667146421129262,
+      "m_Key": "trigger_desc_PointRewardDaily",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112363388396916769,
+      "m_Key": "trigger_desc_PointRewardWeekly",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112963010886651979,
+      "m_Key": "trigger_desc_PointRewardEventDaily",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99114303971938318,
+      "m_Key": "trigger_desc_RecycleRoomPersonalLevel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 142949096522010656,
+      "m_Key": "trigger_desc_SimulationRoomClearWithoutCondition",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67001297651044422,
+      "m_Key": "trigger_desc_DailyEventClear_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67001297651044423,
+      "m_Key": "trigger_desc_DailyEventClear_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67001297651044424,
+      "m_Key": "trigger_desc_DailyEventClear_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67001297651044425,
+      "m_Key": "trigger_desc_DailyEventClear_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67001297651044426,
+      "m_Key": "trigger_desc_DailyEventClear_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67001297651044427,
+      "m_Key": "trigger_desc_DailyEventClear_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 67001297651044428,
+      "m_Key": "trigger_desc_DailyEventClear_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99817701549559809,
+      "m_Key": "trigger_desc_DailyEventClear_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99817701549559810,
+      "m_Key": "trigger_desc_DailyEventClear_9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99817701549559811,
+      "m_Key": "trigger_desc_DailyEventClear_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99817701549559812,
+      "m_Key": "trigger_desc_DailyEventClear_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99817701549559813,
+      "m_Key": "trigger_desc_DailyEventClear_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99817701549559814,
+      "m_Key": "trigger_desc_DailyEventClear_13",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99817701549559815,
+      "m_Key": "trigger_desc_DailyEventClear_14",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6463732455092276,
+      "m_Key": "daily_event_description_20801",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112363388396916786,
+      "m_Key": "daily_event_description_20802",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 162891989279227947,
+      "m_Key": "daily_event_description_20803",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687874,
+      "m_Key": "trigger_desc_PointRewardAchievement_1_E",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687875,
+      "m_Key": "trigger_desc_EventStageClear_1_E_1_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687876,
+      "m_Key": "trigger_desc_EventStageClear_1_E_1_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687877,
+      "m_Key": "trigger_desc_EventStageClear_1_E_1_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687878,
+      "m_Key": "trigger_desc_EventStageClear_1_E_1_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687879,
+      "m_Key": "trigger_desc_EventStageClear_1_E_1_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687880,
+      "m_Key": "trigger_desc_EventStageClear_1_E_1_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687881,
+      "m_Key": "trigger_desc_EventStageClear_1_E_1_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687882,
+      "m_Key": "trigger_desc_EventStageClear_1_E_1_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687883,
+      "m_Key": "trigger_desc_EventStageClear_1_E_1_9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687884,
+      "m_Key": "trigger_desc_EventStageClear_1_E_1_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687885,
+      "m_Key": "trigger_desc_EventStageClear_1_H_1_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687886,
+      "m_Key": "trigger_desc_EventStageClear_1_H_1_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687887,
+      "m_Key": "trigger_desc_EventStageClear_1_H_1_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687888,
+      "m_Key": "trigger_desc_EventStageClear_1_H_1_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687889,
+      "m_Key": "trigger_desc_EventStageClear_1_H_1_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687890,
+      "m_Key": "trigger_desc_EventStageClear_1_H_1_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687891,
+      "m_Key": "trigger_desc_EventStageClear_1_H_1_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687892,
+      "m_Key": "trigger_desc_EventStageClear_1_H_1_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687893,
+      "m_Key": "trigger_desc_EventStageClear_1_H_1_9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687894,
+      "m_Key": "trigger_desc_EventStageClear_1_H_1_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687895,
+      "m_Key": "trigger_desc_PointRewardAchievement_2_E",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687896,
+      "m_Key": "trigger_desc_EventStageClear_2_E_1_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687897,
+      "m_Key": "trigger_desc_EventStageClear_2_E_1_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687898,
+      "m_Key": "trigger_desc_EventStageClear_2_E_1_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687899,
+      "m_Key": "trigger_desc_EventStageClear_2_E_1_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687900,
+      "m_Key": "trigger_desc_EventStageClear_2_E_1_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687901,
+      "m_Key": "trigger_desc_EventStageClear_2_E_1_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687902,
+      "m_Key": "trigger_desc_EventStageClear_2_E_1_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687903,
+      "m_Key": "trigger_desc_EventStageClear_2_E_1_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687904,
+      "m_Key": "trigger_desc_EventStageClear_2_E_1_9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687905,
+      "m_Key": "trigger_desc_EventStageClear_2_E_1_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687906,
+      "m_Key": "trigger_desc_EventStageClear_2_E_1_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687907,
+      "m_Key": "trigger_desc_EventStageClear_2_E_1_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687908,
+      "m_Key": "trigger_desc_EventStageClear_2_H_1_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687909,
+      "m_Key": "trigger_desc_EventStageClear_2_H_1_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687910,
+      "m_Key": "trigger_desc_EventStageClear_2_H_1_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687911,
+      "m_Key": "trigger_desc_EventStageClear_2_H_1_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687912,
+      "m_Key": "trigger_desc_EventStageClear_2_H_1_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687913,
+      "m_Key": "trigger_desc_EventStageClear_2_H_1_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687914,
+      "m_Key": "trigger_desc_EventStageClear_2_H_1_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687915,
+      "m_Key": "trigger_desc_EventStageClear_2_H_1_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687916,
+      "m_Key": "trigger_desc_EventStageClear_2_H_1_9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687917,
+      "m_Key": "trigger_desc_EventStageClear_2_H_1_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687918,
+      "m_Key": "trigger_desc_EventStageClear_2_H_1_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 97337179812687919,
+      "m_Key": "trigger_desc_EventStageClear_2_H_1_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235984,
+      "m_Key": "trigger_desc_EventStageClear_3_E_1_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235985,
+      "m_Key": "trigger_desc_EventStageClear_3_E_1_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235986,
+      "m_Key": "trigger_desc_EventStageClear_3_E_1_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235987,
+      "m_Key": "trigger_desc_EventStageClear_3_E_1_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235988,
+      "m_Key": "trigger_desc_EventStageClear_3_E_1_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235989,
+      "m_Key": "trigger_desc_EventStageClear_3_E_1_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235990,
+      "m_Key": "trigger_desc_EventStageClear_3_E_1_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235991,
+      "m_Key": "trigger_desc_EventStageClear_3_E_1_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235992,
+      "m_Key": "trigger_desc_EventStageClear_3_E_1_9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235993,
+      "m_Key": "trigger_desc_EventStageClear_3_E_1_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235994,
+      "m_Key": "trigger_desc_EventStageClear_3_E_1_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235995,
+      "m_Key": "trigger_desc_EventStageClear_3_E_1_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 205293365149745174,
+      "m_Key": "trigger_desc_EventStageClear_3_E_A_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 205293365149745175,
+      "m_Key": "trigger_desc_EventStageClear_3_E_A_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 205293365149745176,
+      "m_Key": "trigger_desc_EventStageClear_3_E_A_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235996,
+      "m_Key": "trigger_desc_EventStageClear_4_E_1_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235997,
+      "m_Key": "trigger_desc_EventStageClear_4_E_1_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235998,
+      "m_Key": "trigger_desc_EventStageClear_4_E_1_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019018235999,
+      "m_Key": "trigger_desc_EventStageClear_4_E_1_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430208,
+      "m_Key": "trigger_desc_EventStageClear_4_E_1_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430209,
+      "m_Key": "trigger_desc_EventStageClear_4_E_1_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430210,
+      "m_Key": "trigger_desc_EventStageClear_4_E_1_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430211,
+      "m_Key": "trigger_desc_EventStageClear_4_E_1_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430212,
+      "m_Key": "trigger_desc_EventStageClear_4_E_1_9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430213,
+      "m_Key": "trigger_desc_EventStageClear_4_E_1_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430214,
+      "m_Key": "trigger_desc_EventStageClear_4_E_1_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430215,
+      "m_Key": "trigger_desc_EventStageClear_4_E_1_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 205293365149745189,
+      "m_Key": "trigger_desc_EventStageClear_4_E_A_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 205293365149745190,
+      "m_Key": "trigger_desc_EventStageClear_4_E_A_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 205293365149745191,
+      "m_Key": "trigger_desc_EventStageClear_4_E_A_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 205293365149745192,
+      "m_Key": "trigger_desc_EventStageClear_4_E_A_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430216,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430217,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430218,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430219,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430220,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430221,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430222,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430223,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430224,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_9",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430225,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430226,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 112385019022430227,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208902540035538957,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_13",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208902540035538958,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_14",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208902540035538959,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_15",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208902540035538960,
+      "m_Key": "trigger_desc_EventStageClear_4_H_1_16",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48117988992946327,
+      "m_Key": "TEST_PASS_NAME",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48117988992946328,
+      "m_Key": "TEST_PASS_DESCRIPTION",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45875547007029281,
+      "m_Key": "pass_mission_1_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45875547007029282,
+      "m_Key": "pass_mission_2_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45875547007029283,
+      "m_Key": "pass_mission_3_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 45875547007029284,
+      "m_Key": "pass_mission_4_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48092008618332280,
+      "m_Key": "pass_mission_5_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 48092008618332281,
+      "m_Key": "pass_mission_6_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53816333208064063,
+      "m_Key": "pass_mission_7_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 122070881956024338,
+      "m_Key": "trigger_desc_FirstPaidGacha_Legacy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153130365071413293,
+      "m_Key": "trigger_desc_ObtainCharacter_ce_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208938517231747082,
+      "m_Key": "trigger_desc_ObtainCharacter_ce_02_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 208938517231747083,
+      "m_Key": "trigger_desc_ObtainCharacter_ce_02_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 184018739093065731,
+      "m_Key": "trigger_desc_RookieArenaPlayCount",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 184018739093065732,
+      "m_Key": "trigger_desc_EventDicePlayCountVR",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_KeyGenerator": {
+    "rid": 0
+  },
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "DistributedUIDGenerator",
+          "ns": "UnityEngine.Localization.Tables",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}

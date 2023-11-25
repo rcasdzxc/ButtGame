@@ -1,0 +1,834 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4826179110787420926
+  },
+  "m_Name": "Locale_Bgm Shared Data",
+  "m_TableCollectionName": "Locale_Bgm",
+  "m_TableCollectionNameGuidString": "a5f33fb4d44872f4db2c681727685b13",
+  "m_Entries": [
+    {
+      "m_Id": 10370357280927744,
+      "m_Key": "bgm_theme_menu_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899264,
+      "m_Key": "bgm_theme_saga_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899265,
+      "m_Key": "bgm_theme_story_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899266,
+      "m_Key": "bgm_theme_event_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40389057425485831,
+      "m_Key": "bgm_theme_lostsector_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744380010500,
+      "m_Key": "bgm_theme_field_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744380010501,
+      "m_Key": "bgm_theme_field_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744380010502,
+      "m_Key": "bgm_theme_field_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744380010503,
+      "m_Key": "bgm_theme_field_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744380010504,
+      "m_Key": "bgm_theme_field_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744380010505,
+      "m_Key": "bgm_theme_field_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204800,
+      "m_Key": "bgm_theme_field_07",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204801,
+      "m_Key": "bgm_theme_field_08",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204802,
+      "m_Key": "bgm_theme_field_09",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204803,
+      "m_Key": "bgm_theme_field_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59610307297325070,
+      "m_Key": "bgm_theme_field_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117024643439177744,
+      "m_Key": "bgm_theme_field_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161153166961324045,
+      "m_Key": "bgm_theme_field_13",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229678736019599361,
+      "m_Key": "bgm_theme_field_14",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 128127076387041285,
+      "m_Key": "bgm_theme_special_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161153166961324047,
+      "m_Key": "bgm_theme_overzone_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 178165657012580360,
+      "m_Key": "bgm_theme_bluewater_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 216256291409539081,
+      "m_Key": "bgm_theme_outerautomata_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 238301173770661891,
+      "m_Key": "bgm_theme_redash_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899267,
+      "m_Key": "bgm_theme_menu_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899268,
+      "m_Key": "bgm_theme_saga_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899269,
+      "m_Key": "bgm_theme_story_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10370357301899270,
+      "m_Key": "bgm_theme_event_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 40389057425485832,
+      "m_Key": "bgm_theme_lostsector_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204809,
+      "m_Key": "bgm_theme_field_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204810,
+      "m_Key": "bgm_theme_field_02_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204811,
+      "m_Key": "bgm_theme_field_03_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204812,
+      "m_Key": "bgm_theme_field_04_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204813,
+      "m_Key": "bgm_theme_field_05_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204814,
+      "m_Key": "bgm_theme_field_06_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204815,
+      "m_Key": "bgm_theme_field_07_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204816,
+      "m_Key": "bgm_theme_field_08_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204817,
+      "m_Key": "bgm_theme_field_09_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59602744384204818,
+      "m_Key": "bgm_theme_field_10_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 59610307297325086,
+      "m_Key": "bgm_theme_field_11_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 117024643439177761,
+      "m_Key": "bgm_theme_field_12_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161153166961324065,
+      "m_Key": "bgm_theme_field_13_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229678736413863937,
+      "m_Key": "bgm_theme_field_14_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 128127076395429896,
+      "m_Key": "bgm_theme_special_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 161153166961324067,
+      "m_Key": "bgm_theme_overzone_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 178165657012580381,
+      "m_Key": "bgm_theme_bluewater_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 216256291409539103,
+      "m_Key": "bgm_theme_outerautomata_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 238301173779050497,
+      "m_Key": "bgm_theme_redash_01_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847441,
+      "m_Key": "bgm_Black Calories",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847442,
+      "m_Key": "bgm_Black Sugars",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847443,
+      "m_Key": "bgm_Black Saturated Fat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847444,
+      "m_Key": "bgm_Black Fiber",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847445,
+      "m_Key": "bgm_Black Sodium",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847446,
+      "m_Key": "bgm_Black Protein",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847447,
+      "m_Key": "bgm_Black Carbonhydrate",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847448,
+      "m_Key": "bgm_Black Trans Fat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847449,
+      "m_Key": "bgm_Black Cholesterol",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847450,
+      "m_Key": "bgm_White Sugars",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847451,
+      "m_Key": "bgm_White Carbonhydrate",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847452,
+      "m_Key": "bgm_White Fiber",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847453,
+      "m_Key": "bgm_White Trans Fat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847454,
+      "m_Key": "bgm_White Saturated Fat",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847455,
+      "m_Key": "bgm_White Cholesterol",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847456,
+      "m_Key": "bgm_White Calories",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847457,
+      "m_Key": "bgm_White Protein",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847458,
+      "m_Key": "bgm_White Sodium",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271951847459,
+      "m_Key": "bgm_prologue",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041728,
+      "m_Key": "bgm_distress_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041729,
+      "m_Key": "bgm_distress_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22466560810315794,
+      "m_Key": "bgm_rest",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 22466560810315789,
+      "m_Key": "bgm_recognition",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041732,
+      "m_Key": "bgm_recognition_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041733,
+      "m_Key": "bgm_recognition_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041734,
+      "m_Key": "bgm_recognition_underworld",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041735,
+      "m_Key": "bgm_risk_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041736,
+      "m_Key": "bgm_risk_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041737,
+      "m_Key": "bgm_secondhand",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041738,
+      "m_Key": "bgm_secondhand_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041739,
+      "m_Key": "bgm_secondhand_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041740,
+      "m_Key": "bgm_GreyHaze",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041741,
+      "m_Key": "bgm_GreyHaze_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041742,
+      "m_Key": "bgm_GreyHaze_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041743,
+      "m_Key": "bgm_disaster",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18856229964914708,
+      "m_Key": "bgm_emergency",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041745,
+      "m_Key": "bgm_enemyclose",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041746,
+      "m_Key": "bgm_heart",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041747,
+      "m_Key": "bgm_Hopeless",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041748,
+      "m_Key": "bgm_mystery",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18856229964914704,
+      "m_Key": "bgm_spot_encounter",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18856229964914705,
+      "m_Key": "bgm_spot_counterattack",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041751,
+      "m_Key": "bgm_spot_crumblingcity_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041752,
+      "m_Key": "bgm_spot_crumblingcity_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041753,
+      "m_Key": "bgm_spot_incomingrapture_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041754,
+      "m_Key": "bgm_spot_incomingrapture_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041755,
+      "m_Key": "bgm_spot_bulletstorm_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041756,
+      "m_Key": "bgm_spot_bulletstorm_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271956041757,
+      "m_Key": "bgm_spot_Silvermane_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236032,
+      "m_Key": "bgm_spot_Silvermane_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236033,
+      "m_Key": "bgm_spot_Labyrinth_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236034,
+      "m_Key": "bgm_spot_Labyrinth_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236035,
+      "m_Key": "bgm_spot_Scardi_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236036,
+      "m_Key": "bgm_spot_Scardi_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236037,
+      "m_Key": "bgm_spot_GoundZero_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236038,
+      "m_Key": "bgm_spot_GoundZero_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236039,
+      "m_Key": "bgm_spot_DestroyedSerenity_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236040,
+      "m_Key": "bgm_spot_DestroyedSerenity_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236041,
+      "m_Key": "bgm_spot_Risingfromash_a",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236042,
+      "m_Key": "bgm_spot_Risingfromash_b",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236043,
+      "m_Key": "bgm_boss_Mordernia._intro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236044,
+      "m_Key": "bgm_boss_Mordernia._loop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236045,
+      "m_Key": "bgm_boss_themovingfortress_intro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236046,
+      "m_Key": "bgm_boss_themovingfortress_loop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236047,
+      "m_Key": "bgm_boss_slaughterer_intro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 1021271960236048,
+      "m_Key": "bgm_boss_slaughterer_loop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_KeyGenerator": {
+    "rid": 0
+  },
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "DistributedUIDGenerator",
+          "ns": "UnityEngine.Localization.Tables",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}

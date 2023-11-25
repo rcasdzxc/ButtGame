@@ -1,0 +1,4410 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "Locale_Tutorial_ko",
+  "m_LocaleId": {
+    "m_Code": "ko"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -7712487184157951725
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 17692854318579728,
+      "m_Localized": "적 처치",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579746,
+      "m_Localized": "화면에 표시된 영역을 <color=#00AEFF>터치 후 드래그</color>하면 \n조준점을 움직일 수 있어요.\r\n조준점을 직접 움직여 사격해 보시겠어요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579729,
+      "m_Localized": "공격 신호",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579747,
+      "m_Localized": "보셨나요? 랩쳐는 공격하기 전 <color=#00AEFF>공격 신호</color>를 보내요.\r\n공격 신호가 랩쳐의 코어 중심으로 모이면 공격을 개시하죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579730,
+      "m_Localized": "공격 신호",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579748,
+      "m_Localized": "공격 신호가 확정되기 전에 격추하면 공격을 당하지 않겠죠?\r\n선수를 쳐 랩쳐를 바로 격추해 보죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61463706371661826,
+      "m_Localized": "공격 신호",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61463706371661827,
+      "m_Localized": "랩쳐, 추가 지원 확인.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64068912305446919,
+      "m_Localized": "공격 신호",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64068912305446920,
+      "m_Localized": "랩쳐가 공격을 준비하고 있어요.\r\n주시해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579733,
+      "m_Localized": "재장전",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579751,
+      "m_Localized": "사격을 멈추거나 탄환이 부족할 경우 <color=#00AEFF>재장전</color>을 해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579734,
+      "m_Localized": "타겟 등장",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579752,
+      "m_Localized": "랩쳐를 처치하며 전투를 진행하다 보면 무리를 이끄는 고위급 개체가 등장해요. 이런 개체를 <color=#00AEFF>타겟</color>이라고 부르죠.\r\n타겟을 <color=#00AEFF>처치</color>하면 전투에서 <color=#00AEFF>승리</color>할 수 있어요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579731,
+      "m_Localized": "엄폐 상태 설명",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579749,
+      "m_Localized": "사격을 멈추면 <color=#00AEFF>엄폐</color> 상태가 돼요.\r\n엄폐 중일 때는 피해를 받지 않아요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579732,
+      "m_Localized": "엄폐물 설명",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579750,
+      "m_Localized": "<color=#00AEFF>엄폐물</color>이 크게 손상될 경우 <color=#00AEFF>파괴</color>되니 주의해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61463706371661836,
+      "m_Localized": "버스트 스킬",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61463706371661837,
+      "m_Localized": "전투를 지속하다 보면 <color=#00AEFF>[버스트]</color> 모드에 돌입해요.\r\n[버스트] 모드에 돌입하면 <color=#00AEFF>버스트 스킬</color>을\n사용할 수 있어요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579735,
+      "m_Localized": "버스트 스킬",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579753,
+      "m_Localized": "[버스트] 모드가 종료되기 전에 <color=#00AEFF>스킬</color>을 <color=#00AEFF>사용</color>해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579736,
+      "m_Localized": "버스트 스킬",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579754,
+      "m_Localized": "[버스트] 스킬을 사용하면 적에게 피해와 함께\r\n특수 효과를 발생시키기도 해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276625,
+      "m_Localized": "칩셋",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18518490977189890,
+      "m_Localized": "우리가 상대하는 랩쳐들은 칩셋이란 걸 가지고 있어요.\r\n칩셋은 기계인 랩쳐를 움직이게 하는 원동력이에요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276627,
+      "m_Localized": "칩셋",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276628,
+      "m_Localized": "타겟의 코어가 보이시나요?\r\n코어의 색상을 보고 칩셋의 종류를 알 수 있어요.\r\n타겟은 작열 타입의 칩셋을 가지고 있군요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276629,
+      "m_Localized": "버스트 스킬",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276630,
+      "m_Localized": "마침 제 [버스트] 스킬에는 저 칩셋에 반응을 일으키는 기능이 있습니다.\r\n[버스트] 모드가 종료되기 전에 <color=#00AEFF>스킬</color>을 <color=#00AEFF>사용</color>해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276631,
+      "m_Localized": "특수 반응",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276632,
+      "m_Localized": "[버스트] 스킬이 적중해서 특수 반응이 발생했어요!\r\n특수 반응은 약점인 칩셋을 보유한 대상에게 공격당하면 발생해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276633,
+      "m_Localized": "특수 반응",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801326276634,
+      "m_Localized": "특수 반응이 발생한 상태면 좀 더 수월하게 랩쳐를 처치할 수 있어요.\r\n다시 눈앞의 타겟을 처치해 보세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579737,
+      "m_Localized": "조작 니케 변경",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579755,
+      "m_Localized": "우와, 저기 랩쳐 몰려있는 것 좀 봐! \r\n이럴 때는 내 <color=#00AEFF>로켓 런처</color>가 나설 차례지!\r\n조작 <color=#00AEFF>니케</color>를 나로 <color=#00AEFF>변경</color>해 볼래?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579738,
+      "m_Localized": "무기 타입 : 로켓 런처",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579756,
+      "m_Localized": "런처는 명중하면 폭발하여 주변 적들한테도 피해를 줘.\r\n아래 표시된 영역에서 조준점을 움직여 사격해 봐!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579739,
+      "m_Localized": "차지 샷",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579757,
+      "m_Localized": "훌륭해, 지휘관님!\r\n내가 사용하는 로켓 런처나 스나이퍼 라이플은 \n<color=#00AEFF>차지 샷</color>을 할 수 있어. \r\n차지 샷은 <color=#00AEFF>조준 후 손을 떼는 순간 탄환을 발사</color>해.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579740,
+      "m_Localized": "차지 샷",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579758,
+      "m_Localized": "조준점 오른쪽에 <color=#00AEFF>차지 게이지</color>가 있는 거 보이지?\r\n차지 시간이 길어질수록 게이지가 채워지고, 채워진 만큼 대미지가 증가해.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168727,
+      "m_Localized": "사격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168728,
+      "m_Localized": "자, 그럼 이제 적들을 처치해 볼까?\r\n화면을 길게 터치하면서 차지~ 해제하면서 발사! \n하는 거야!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579741,
+      "m_Localized": "버스트 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18171153859788852,
+      "m_Localized": "<color=#00AEFF>[버스트]</color> 모드에 돌입했어요, 지휘관!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12065439943229449,
+      "m_Localized": "모든 니케들은 <color=#00AEFF>고유한 버스트 스킬</color>을 가지고 있어요.\r\n버스트 스킬마다 <color=#00AEFF>다른 효과</color>를 보유하고 있어 전략적으로 활용할 수 있죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12313362605842458,
+      "m_Localized": "지금은 두 명의 니케가 [버스트] 스킬을 사용할 수 있네요!\r\n먼저 저를 선택해서 버스트 스킬을 사용해 보실래요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29299391384195072,
+      "m_Localized": "버스트 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29299391388389376,
+      "m_Localized": "[버스트 I] 스킬을 사용해 <color=#00AEFF>[버스트 II]</color> 단계에 <color=#00AEFF>돌입</color>했어요.\r\n버스트는 <color=#00AEFF>총 3단계</color>로 구성되어 있고, 단계에 맞는 버스트 스킬만을 사용할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29299391396777984,
+      "m_Localized": "그러니 지금은 [버스트 II] 스킬을 보유한 니케만 \n버스트 스킬을 사용할 수 있어요.\r\n이번에는 아니스의 버스트 스킬을 사용해 볼까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579743,
+      "m_Localized": "범위 선택",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579761,
+      "m_Localized": "아니스처럼 범위를 지정해야 하는 버스트 스킬은\r\n<color=#00AEFF>드래그</color>해서 <color=#00AEFF>사격할 범위</color>를 <color=#00AEFF>지정</color>해야 사용할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579744,
+      "m_Localized": "버스트 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6652979597582339,
+      "m_Localized": "<color=#00AEFF>[버스트 III]</color> 모드 돌입 완료.\r\n[버스트 III] 스킬을 사용하면 <color=#00AEFF>풀 버스트</color> 모드에 \n<color=#00AEFF>돌입</color>할 수 있어요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579762,
+      "m_Localized": "[버스트 III] 스킬을 가진 라피를 선택해서 버스트 스킬을 사용해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579745,
+      "m_Localized": "풀 버스트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17692854318579763,
+      "m_Localized": "<color=#00AEFF>[풀 버스트]</color> 모드 돌입!\r\n리미터 한시적 해제로 인한 <color=#00AEFF>공격력</color> 대폭 <color=#00AEFF>상승</color>!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466159194159,
+      "m_Localized": "풀 버스트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466159194160,
+      "m_Localized": "풀 버스트 동안 니케들은 지휘관이 지시하는 곳을 집중 공격해요!\r\n<color=#00AEFF>화력 집중</color>! 단숨에 몰아치죠!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168742,
+      "m_Localized": "저격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168743,
+      "m_Localized": "적이 너무 멀리 있네요.\r\n이럴 때는 스나이퍼 라이플을 사용하는 니케를 \n지휘해 보세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168744,
+      "m_Localized": "무기 타입 : 스나이퍼 라이플",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168745,
+      "m_Localized": "스나이퍼 라이플은 <color=#00AEFF>먼 거리</color>에 있는 \n<color=#00AEFF>적의 코어</color>를 노리는데 유리해요.\r\n코어를 공격하면 다른 곳보다 더 큰 대미지를 줄 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168746,
+      "m_Localized": "조준점 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168747,
+      "m_Localized": "아래 표시된 터치 영역에서 조준점을 움직여 적을 \n저격해 보세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470921,
+      "m_Localized": "특수 신호",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470922,
+      "m_Localized": "지휘관, 중앙을 봐주세요.\r\n다른 분위기의 랩쳐가 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470923,
+      "m_Localized": "특수 신호",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470924,
+      "m_Localized": "랩쳐는 <color=#00AEFF>특수한 스킬</color>을 사용하기 전 신호를 보내요.\r\n코어 중심으로 신호가 모이면 스킬을 사용해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60092947548119046,
+      "m_Localized": "특수 신호",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60092947548119047,
+      "m_Localized": "랩쳐가 사용한 특수한 스킬은 니케를 약화시키거나\r\n전투 진행에 어려움을 줘요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60103938302320665,
+      "m_Localized": "특수 신호",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60103938302320666,
+      "m_Localized": "특수 스킬을 사용하기 전 랩쳐를 격추하면 특수 스킬 사용을\r\n저지할 수 있어요. 앞의 적을 격추해 보죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64372209696415805,
+      "m_Localized": "특수 신호",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64372209696415806,
+      "m_Localized": "가운데 랩쳐를 주시해 주세요.\r\n뭔가 시도하고 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303342702628,
+      "m_Localized": "락 온",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303342702629,
+      "m_Localized": "저 랩처는….",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303342702630,
+      "m_Localized": "락 온",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303342702631,
+      "m_Localized": "고 에너지 반응 감지! 강한 공격을 준비하고 있어요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303342702632,
+      "m_Localized": "락 온",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303342702633,
+      "m_Localized": "랩쳐가 강력한 공격을 준비하고 있을 때는 랩쳐의 <color=#00AEFF>공격 대상</color>이 표시돼요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583106973719,
+      "m_Localized": "락 온",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583106973720,
+      "m_Localized": "공격 대상이 된 니케를 선택해 <color=#00AEFF>엄폐</color>하거나 \r\n적을 빠르게 <color=#00AEFF>처치</color>하세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168748,
+      "m_Localized": "샷건",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168749,
+      "m_Localized": "지휘관, 적이 가까운 곳까지 다가왔습니다!\r\n이럴 땐 샷건을 사용하는 니케를 지휘하세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7575844039729199,
+      "m_Localized": "무기 타입 : 샷건",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7575844039729200,
+      "m_Localized": "샷건은 사격 시 많은 수의 탄을 발사하고, \n가까이에서 사격할수록 큰 대미지를 줍니다. \r\n샷건을 사용해 적을 처치해 보세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20569673449644064,
+      "m_Localized": "배리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20569673449644065,
+      "m_Localized": "특정 랩쳐는 <color=#00AEFF>배리어</color>를 생성해요. 생성된 배리어는\r\n니케의 공격을 막아 배리어 뒤에 있는 랩쳐를 보호해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20569673449644066,
+      "m_Localized": "배리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 20569673449644067,
+      "m_Localized": "<color=#00AEFF>배리어</color>는 체력바에 <color=#00AEFF>파란색</color>으로 표시되고 일정 피해를 입히면 파괴돼요!\r\n집중 공격해서 파괴해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936916168750,
+      "m_Localized": "부위 파괴",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936920363008,
+      "m_Localized": "타일런트급 이상의 랩쳐는 <color=#00AEFF>특정 부위</color>를 공격해 \n<color=#00AEFF>파괴</color>할 수 있습니다.\r\n무기가 파괴될 경우 해당 랩쳐는 더 이상 위협적인 공격을 하지 못하며 큰 피해를 입습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936920363009,
+      "m_Localized": "발사체 요격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 5559936920363010,
+      "m_Localized": "블랙 스미스로부터 <color=#00AEFF>미사일</color>이 옵니다!\r\n사격으로 요격해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7575844039729205,
+      "m_Localized": "공격 저지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7575844039729206,
+      "m_Localized": "블랙스미스, 특수 공격 준비 중!\r\n마킹된 부위에 <color=#00AEFF>화력을 집중</color>해 <color=#00AEFF>특수 공격</color>을 <color=#00AEFF>저지</color>해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361905,
+      "m_Localized": "특수 공격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361906,
+      "m_Localized": "블랙스미스, 특수 공격을 준비 중!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361907,
+      "m_Localized": "전체 엄폐",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361908,
+      "m_Localized": "모든 니케에게 <color=#00AEFF>엄폐 명령</color>을 내려 공격을 최대한 피해보죠!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494243984056320,
+      "m_Localized": "전체 엄폐",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244038582272,
+      "m_Localized": "엄폐 명령으로 특수 공격을 회피했어요!\r\n전체 엄폐 중일 때는 사격을 멈추고 <color=#00AEFF>엄폐</color>를 <color=#00AEFF>유지</color>해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361909,
+      "m_Localized": "전체 엄폐",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361910,
+      "m_Localized": "현재 선택된 니케를 다시 선택하면 전체 엄폐는 해제됩니다.\r\n전체 엄폐를 해제하고 블랙스미스와 교전을 계속해주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361911,
+      "m_Localized": "공격 저지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361912,
+      "m_Localized": "블랙스미스가 다시 특수 공격을 준비 중!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361913,
+      "m_Localized": "공격 저지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361914,
+      "m_Localized": "특수 공격을 저지하기 위해 표시된 마킹 부위에 <color=#00AEFF>화력을 집중</color>해\r\n<color=#00AEFF>특수 공격</color>을 <color=#00AEFF>저지</color>하세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152424627830562827,
+      "m_Localized": "반격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152424627830562828,
+      "m_Localized": "흰색으로 <color=#00AEFF>마킹된 부위</color>는 <color=#00AEFF>파괴</color>하면 블랙스미스가\r\n즉시 <color=#00AEFF>특수 공격</color>을 <color=#00AEFF>시전</color>하니 주의가 필요해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112410361917,
+      "m_Localized": "자율 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556160,
+      "m_Localized": "이번엔 효율적으로 전투할 수 있는 팁을 알려드릴게요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556161,
+      "m_Localized": "자율 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556162,
+      "m_Localized": "왼쪽 상단의 <color=#00AEFF>자율 전투 기능</color>을 활성화하면\r\n니케들이 각자의 판단 하에 전투를 진행해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556163,
+      "m_Localized": "자율 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556164,
+      "m_Localized": "왼쪽 버튼을 활성화하면 <color=#00AEFF>자율 사격</color>을,\r\n오른쪽 버튼을 활성화하면 <color=#00AEFF>버스트 스킬</color>을 자동으로 사용해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556165,
+      "m_Localized": "자율 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89034112414556166,
+      "m_Localized": "자율 사격 모드여도 수동 조작으로 원하는 곳을 \r\n사격할 수 있으니 참고해주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752754,
+      "m_Localized": "필드 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975500058674,
+      "m_Localized": "지휘관, 이제 랑데부 포인트로 이동해 볼까요?\r\n필드를 <color=#00AEFF>터치</color>하여 이동시켜 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752756,
+      "m_Localized": "전투 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975500058675,
+      "m_Localized": "랑데부 포인트 인근에 도달했어요.\r\n<color=#00AEFF>진입</color>하여 자세히 살펴볼까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298773196857,
+      "m_Localized": "승리 목표",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298773196858,
+      "m_Localized": "지휘관, 전투에는 각각의 [승리 목표]가 있어요.\r\n전투마다 [승리 목표]가 다르니 진입하기 전에 꼭 확인해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298773196859,
+      "m_Localized": "승리 목표",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391104,
+      "m_Localized": "[승리 목표]는 전장 정보에서도 확인할 수도 있으니\r\n참고해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391105,
+      "m_Localized": "전투 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391106,
+      "m_Localized": "지휘관, 여기가 랑데부 포인트에요. 어서 진입해 볼까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470949,
+      "m_Localized": "약점",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470950,
+      "m_Localized": "지휘관! 방금 전 전투에서 칩셋과 특수 반응에 대해\r\n배웠던 것 기억하시나요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470951,
+      "m_Localized": "약점",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470952,
+      "m_Localized": "스테이지 정보에는 선택한 스테이지의\r\n약점인 칩셋이 표시돼요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470953,
+      "m_Localized": "칩셋 상성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470954,
+      "m_Localized": "칩셋은 상성을 가지고 있어요.\r\n상성인 대상에게 일반 공격ㆍ스킬이 적중하면\r\n특수 반응이 일어나요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470955,
+      "m_Localized": "칩셋 상성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470956,
+      "m_Localized": "이 경우, 조건에 맞는 니케의 스킬 효과가 대상에게 적용된답니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470957,
+      "m_Localized": "칩셋 상성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470958,
+      "m_Localized": "특수 반응을 일으키는 방법은 니케가 보유한 스킬마다\r\n다르니 참고해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470959,
+      "m_Localized": "미션",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470960,
+      "m_Localized": "지휘관, 전투를 진행하다 보니 미션을 완료했어요.\r\n완료한 미션 보상을 받아볼까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470961,
+      "m_Localized": "미션",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470962,
+      "m_Localized": "미션 탭이에요. 여기에는 지휘관이 진행해야 할 미션들이 준비되어 있죠.\r\n미션을 완료하면 <color=#00AEFF>보상</color>을 얻을 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470963,
+      "m_Localized": "미션 종류",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470964,
+      "m_Localized": "미션은 일일ㆍ주간ㆍ메인ㆍ업적으로 나뉘어요.\r\n각각 진행할 수 있는 미션과 획득할 수 있는 보상이 다르답니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470965,
+      "m_Localized": "메인 미션",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470966,
+      "m_Localized": "메인 미션 완료 보상을 획득하기 위해\r\n메인 미션 탭을 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470967,
+      "m_Localized": "보상 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470968,
+      "m_Localized": "완료한 메인 미션 보상을 모두 획득하기 위해\r\n<color=#00AEFF>모두 받기</color>를 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470969,
+      "m_Localized": "미션",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470970,
+      "m_Localized": "미션을 완료하면 보상을 획득할 수 있으니 주기적으로 확인해야겠죠?\r\n미션 탭을 둘러보며 보상을 획득해 보세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538561912845,
+      "m_Localized": "미션",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538561912846,
+      "m_Localized": "자 그러면 다시 이동해 볼까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752758,
+      "m_Localized": "유실물",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975500058676,
+      "m_Localized": "어? 지휘관, 여기 무언가 떨어져 있어요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752760,
+      "m_Localized": "유실물",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975500058677,
+      "m_Localized": "이건… 이곳에 살던 사람의 물건일까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752762,
+      "m_Localized": "유실물",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975500058678,
+      "m_Localized": "어떤 물건인지 확인해 보죠. <color=#00AEFF>돋보기</color>를 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733693,
+      "m_Localized": "유실물",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733694,
+      "m_Localized": "지상에 살던 사람의 물건이라니… \n이건 수집할 만한 것이네요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12769573449015361,
+      "m_Localized": "유실물",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12769573449015362,
+      "m_Localized": "이처럼 작전 지역에는 각종 재료나 수집 가능한<color=#00AEFF>[유실물]</color>, BGM을 발견할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466163388463,
+      "m_Localized": "유실물",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466163388464,
+      "m_Localized": "특히 유실물과 BGM은 수집하면 중앙 정부에서 보상을 지급한다고 해요.\r\n그러니 여유가 된다면 주변을 잘 살피며 이동해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470981,
+      "m_Localized": "스나이퍼 라이플",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470982,
+      "m_Localized": "방금 전 전투에선 스나이퍼 라이플을 사용하는 니케로\r\n원거리에서 등장하는 적을 상대했어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470983,
+      "m_Localized": "사거리",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470984,
+      "m_Localized": "니케들이 사용하는 무기는 사거리에 따라 효율이 달라져요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470985,
+      "m_Localized": "무기별 적정 사거리",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470986,
+      "m_Localized": "무기별 적정 사거리는 해당 스테이지에 등장하는 랩쳐의\r\n비율을 사거리별로 표시합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470987,
+      "m_Localized": "무기별 적정 사거리",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470988,
+      "m_Localized": "무기별로 적정 사거리에 위치한 적을 타격하면\r\n추가적인 피해를 입힐 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470989,
+      "m_Localized": "무기별 적정 사거리",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470990,
+      "m_Localized": "사거리별 랩쳐의 비율에 따라\r\n적절한 무기 타입의 니케를 활용하는 게 중요하겠죠?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470991,
+      "m_Localized": "전투 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470992,
+      "m_Localized": "이번에는 근거리 위주로 분포되어 있네요.\r\n근거리와 중거리 대응에 적합한 무기를 활용해야겠어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470993,
+      "m_Localized": "전투 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801330470994,
+      "m_Localized": "전투에 진입하여 근거리에 적합한 \r\n샷건 타입의 니케를 운용해보죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752764,
+      "m_Localized": "로비 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975500058679,
+      "m_Localized": "랩쳐의 공격이 거세지고 있네요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752766,
+      "m_Localized": "로비 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252928,
+      "m_Localized": "이어서, 니케의 관리에 대해 간단히 설명하겠습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752768,
+      "m_Localized": "로비 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252929,
+      "m_Localized": "<color=#00AEFF>[로비]</color>로 복귀했습니다.\r\n그… 지휘관. 힘드시겠지만….\r\n좀 전의 작전으로 니케 1기를 소실했기 때문에 새로운 니케를 모집해야 해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752770,
+      "m_Localized": "대원 모집",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252930,
+      "m_Localized": "지휘관은 원칙적으로 1개 이상의 스쿼드를 상시 준비해놔야 해서….\r\n어… 일단 이동할까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752772,
+      "m_Localized": "대원 모집",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252931,
+      "m_Localized": "10명 모집을 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12769573449015373,
+      "m_Localized": "대원 모집",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 12769573449015374,
+      "m_Localized": "모집 완료.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752774,
+      "m_Localized": "대원 모집",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252932,
+      "m_Localized": "대원 모집을 완료했으니 스쿼드 편성으로 넘어갈게요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752776,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252933,
+      "m_Localized": "<color=#00AEFF>[스쿼드 편성]</color>을 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752778,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252934,
+      "m_Localized": "<color=#00AEFF>[스쿼드 편성]</color>입니다.\r\n이곳에서는 모집한 니케들로 스쿼드를 구성할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752780,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252935,
+      "m_Localized": "스쿼드 편성은 버스트 단계를 고려해서 편성하는 것이 중요해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086871752782,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252936,
+      "m_Localized": "<color=#00AEFF>버스트 스킬</color>은 단계가 있고, \n<color=#00AEFF>I > II > III 순으로 연계</color>할 수 있습니다.\r\n버스트 III 단계 스킬까지 모두 사용하면 풀 버스트 상태에 돌입해 모든 화력을 집중할 수 있죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086875947009,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252937,
+      "m_Localized": "그러니 전투에서 풀 버스트까지 도달할 수 있게 \r\n<color=#00AEFF>버스트 스킬</color>이 다음 단계로 <color=#00AEFF>연계</color>되도록 \n니케를 <color=#00AEFF>편성</color>하는 게 중요해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086875947011,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252938,
+      "m_Localized": "그럼 직접 스쿼드를 편성해 보죠.\r\n프리셋 2번을 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7012086875947013,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 6512975504252939,
+      "m_Localized": "니케 슬롯을 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733721,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733722,
+      "m_Localized": "지휘관이 보유한 니케들의 목록입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733723,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733724,
+      "m_Localized": "이중 작전에 참여할 니케를 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733725,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733726,
+      "m_Localized": "선택한 니케가 첫 번째 슬롯에 배치되었습니다.\r\n이처럼 <color=#00AEFF>선택한 순서</color>대로 니케들이 <color=#00AEFF>슬롯에 추가</color>됩니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733727,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733728,
+      "m_Localized": "배치한 니케와 함께하고 싶지 않다면 \r\n슬롯에서 니케를 다시 선택해 해제할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733729,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7287840561733730,
+      "m_Localized": "이번에는 직접 스쿼드를 편성해볼게요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481705,
+      "m_Localized": "자동 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481706,
+      "m_Localized": "자동 편성을 선택하면 모집된 니케들로 최적의 스쿼드를 세팅해줘요.\r\n자동 편성을 선택해주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481707,
+      "m_Localized": "편성 저장",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481708,
+      "m_Localized": "모든 슬롯에 니케가 편성됐어요!\r\n저장 버튼을 선택해 편성된 스쿼드를 저장해주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481709,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481710,
+      "m_Localized": "편성 완료!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481711,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89494244554481712,
+      "m_Localized": "스쿼드 편성에 대해 배웠으니\r\n이번엔 니케의 성장 방법에 대해 안내드릴게요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538566107179,
+      "m_Localized": "로비 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538566107180,
+      "m_Localized": "어느 정도 정비를 마쳤으니 이제 로비로 이동해보죠!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538566107181,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301440,
+      "m_Localized": "이곳에서는 지휘관이 원하는 대로 스쿼드를 편성할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301441,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301442,
+      "m_Localized": "위의 슬롯에서 스쿼드 편성 상태를 확인할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301443,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301444,
+      "m_Localized": "아래는 지휘관이 보유한 니케들을 볼 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301445,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301446,
+      "m_Localized": "스쿼드를 편성하려면 스쿼드에 포함하고 싶은 니케를 선택하면 돼요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301447,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301448,
+      "m_Localized": "지금은 편성된 스쿼드가 있으니 편성되어 있는 니케를 선택해 보시겠어요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301449,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301450,
+      "m_Localized": "이미 편성되어 있는 니케를 선택하면 스쿼드에서 해제할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301451,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301452,
+      "m_Localized": "이렇게 슬롯이 비어있다면 니케를 선택해서 스쿼드에 추가할 수 있겠죠?\r\n아래 니케를 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756526710852,
+      "m_Localized": "선택한 큐브의 능력과 스킬을 확인할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756526710853,
+      "m_Localized": "선택한 큐브를 장착 중인 니케를 볼 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15813711505432593,
+      "m_Localized": "니케와 상담을 하면 호감도가 상승합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15813711505432594,
+      "m_Localized": "니케에게 선물을 주면 호감도가 상승합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15813711505432595,
+      "m_Localized": "호감도 상승으로 얻은 능력치를 볼 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 15813711505432596,
+      "m_Localized": "자주 보고 싶은 니케를 [관심 니케]로 등록할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060621,
+      "m_Localized": "수령 가능한 파견 임무 개수와 최대 수령 가능한 파견 임무 개수가 표시됩니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060622,
+      "m_Localized": "파견 목록입니다. 수령 가능한 파견 임무들을 확인할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060623,
+      "m_Localized": "파견 목록이 초기화되기까지 남은 시간입니다.\r\n강제로 초기화할 수도 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060624,
+      "m_Localized": "위아래로 스크롤 하여 스테이지를 선택할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060625,
+      "m_Localized": "스테이지 아이콘을 선택하면 세부 정보를 확인할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060626,
+      "m_Localized": "공통 연구입니다. \r\n연구 시 보유한 모든 니케의 전투력이 상승합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372510060627,
+      "m_Localized": "클래스 연구입니다. \r\n연구 시 선택한 클래스에 소속된 니케의 전투력이 상승합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254848,
+      "m_Localized": "기업 연구입니다. \r\n연구 시 선택한 기업에 소속된 전투력이 상승합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 203482684512808963,
+      "m_Localized": "캠페인 하드 모드가 해금 되었습니다. \r\n캠페인 하드에서는 보다 더 강력한 적들이 등장합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254849,
+      "m_Localized": "아카데미에서는 다음의 레슨들을 수강할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254850,
+      "m_Localized": "수강생과 수강 조건을 만족하면 레슨을 수강할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254851,
+      "m_Localized": "레슨을 수강하면 효과가 활성화됩니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60078134944112646,
+      "m_Localized": "클래스 목록과 레슨 진행 상황을 확인할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60078134944112647,
+      "m_Localized": "레슨별 현황을 확인할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466167582758,
+      "m_Localized": "니케",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466167582759,
+      "m_Localized": "스쿼드 편성에 대해 배웠으니\r\n니케의 성장에 대해 안내드릴게요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756526710869,
+      "m_Localized": "로비 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254852,
+      "m_Localized": "지휘관! 앞으로의 강한 적들을 상대하기 위해서는 조금 더 강해져야 할 것 같아요.\r\n로비로 이동해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905089,
+      "m_Localized": "니케",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254853,
+      "m_Localized": "<color=#00AEFF>[니케]</color> 버튼을 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466167582764,
+      "m_Localized": "니케",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 61869466167582765,
+      "m_Localized": "레벨 업에 대해서는 다 익히셨죠?\r\n그럼 장비 착용에 대해 안내할게요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905091,
+      "m_Localized": "니케 목록",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254854,
+      "m_Localized": "이곳에서는 지휘관이 보유한 니케 목록을 확인할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905093,
+      "m_Localized": "니케 목록",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254855,
+      "m_Localized": "니케를 성장시켜 볼까요?\r\n목록에서 니케를 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905095,
+      "m_Localized": "니케 상세정보",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254856,
+      "m_Localized": "니케 상세정보입니다.\r\n선택한 니케의 상세정보를 확인할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905097,
+      "m_Localized": "니케 레벨 업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254857,
+      "m_Localized": "<color=#00AEFF>[레벨 업]</color> 버튼을 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905099,
+      "m_Localized": "니케 레벨 업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254858,
+      "m_Localized": "[레벨 업] 버튼을 눌러 니케의 레벨을 올려 보세요.\r\n길게 누르면 연속으로 레벨 업할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301490,
+      "m_Localized": "니케 레벨 업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301491,
+      "m_Localized": "목록에서 니케를 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301492,
+      "m_Localized": "니케 레벨 업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301493,
+      "m_Localized": "여기에서 레벨 업을 통해 니케를 성장시킬 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301494,
+      "m_Localized": "니케 레벨 업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301495,
+      "m_Localized": "레벨 업에 필요한 재료를 가지고 있다면 재료를 소모해 레벨 업이 가능해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301496,
+      "m_Localized": "니케 레벨 업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301497,
+      "m_Localized": "레벨 업하면 능력치가 일정 수치 증가해요.\r\n좀 더 수월한 전투를 위해선 레벨 업을 틈틈히 해줘야겠죠?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301498,
+      "m_Localized": "니케 레벨 업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538570301499,
+      "m_Localized": "전투에 어려움을 느낄 때는 레벨 업하여 성장!\r\n잊지마세요 지휘관!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905101,
+      "m_Localized": "장비 착용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254859,
+      "m_Localized": "잘하셨어요!\r\n이제 자유롭게 레벨업을 진행해 보세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801334665269,
+      "m_Localized": "장비 착용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801334665270,
+      "m_Localized": "잘하셨어요! 이번에는 니케에게 장비를 착용시켜보겠습니다.\r\n니케는 클래스에 대응되는 장비만 장착할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905103,
+      "m_Localized": "간편 착용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254860,
+      "m_Localized": "<color=#00AEFF>[간편 착용]</color>은 보유한 장비 중 착용 가능한 장비를 바로 착용시킵니다.\r\n[간편 착용] 버튼을 선택해 보세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905105,
+      "m_Localized": "장비 착용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254861,
+      "m_Localized": "장착 완료.\r\n장비의 스펙이 니케의 성능에 바로 적용됩니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905107,
+      "m_Localized": "장비 착용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254862,
+      "m_Localized": "이제 니케 레벨 업과 장비 착용을 이용해,\r\n다른 니케들도 함께 성장시켜 보세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495753,
+      "m_Localized": "정비",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495754,
+      "m_Localized": "지휘관, 혹시 니케들에게 장비를 착용해 주셨나요?\r\n장비 착용 여부는 정말 중요한 사항이니 정비가 필요할 것 같아요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495755,
+      "m_Localized": "장비 착용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495756,
+      "m_Localized": "장비는 니케 상세정보에서 착용할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495757,
+      "m_Localized": "간편 착용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495758,
+      "m_Localized": "<color=#00AEFF>[간편 착용]</color>을 선택하면 보유한 장비 중 착용 가능한 장비를 바로 착용시킵니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495759,
+      "m_Localized": "장비 착용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495760,
+      "m_Localized": "클래스 별로 착용할 수 있는 장비가 다르기 때문에 이것도 꼭 기억해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495761,
+      "m_Localized": "장비 착용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495762,
+      "m_Localized": "이제 원하는 니케에게 자유롭게 장비를 착용시켜 보세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495763,
+      "m_Localized": "장비 착용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495764,
+      "m_Localized": "지휘관, 아직 장비 착용 안내가 끝나지 않았어요!\r\n니케 목록을 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065664,
+      "m_Localized": "전초기지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065665,
+      "m_Localized": "이곳은 <color=#00AEFF>[전초기지]</color>.\r\n앞으로 지휘관과 니케가 함께 생활하게 될 곳이에요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065666,
+      "m_Localized": "전초기지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065667,
+      "m_Localized": "그럼 전초기지에 대해 설명해 드릴게요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065668,
+      "m_Localized": "주요 건물",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065669,
+      "m_Localized": "전초기지의 중심부는 <color=#00AEFF>주요 건물</color>들로 이루어져 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065670,
+      "m_Localized": "주요 건물",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065671,
+      "m_Localized": "주요 건물들을 통해 니케를 <color=#00AEFF>성장</color>시키거나, 작전 진행에 도움이 되는 <color=#00AEFF>혜택</color>을 받을 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065672,
+      "m_Localized": "일반 건물",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065673,
+      "m_Localized": "주요 건물 이외에 빈 공터에는 건물도 건설할 수 있어요.\r\n건물은 연구 시설의 연구를 위한 조건이 되기도 하고, 이벤트가 발생하는 장소가 되기도 하죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065674,
+      "m_Localized": "전초기지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065675,
+      "m_Localized": "이번엔 전초기지의 메뉴들을 소개해 드릴게요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495777,
+      "m_Localized": "전초기지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495778,
+      "m_Localized": "이제 지휘관실로 이동해 볼까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495779,
+      "m_Localized": "전초기지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538574495780,
+      "m_Localized": "지휘관, 지휘관실로 이동해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391194,
+      "m_Localized": "[전초기지]는\r\n지휘관과 니케가 생활하는 공간입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391195,
+      "m_Localized": "전초기지에 발생한 이벤트 개수를 표시해요.\r\n터치하면 발생한 이벤트 목록을 보여줘요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391196,
+      "m_Localized": "하단의 메뉴는 주요 건물의 상태를 한눈에 파악할 수 있어요.\r\n메뉴를 선택하면 주요 건물로 쉽게 진입할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18759298777391197,
+      "m_Localized": "전초기지 방어 보관함의 전리품 누적 현황을 확인할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065680,
+      "m_Localized": "가끔씩 전초 기지에선 니케와의 특별한 이벤트가 발생하기도 해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 63945791502065681,
+      "m_Localized": "현재 지휘관의 스태미나를 수치화 한 거예요.\r\n이벤트 진행에는 스태미나를 소모하니, 참고해주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905109,
+      "m_Localized": "전초기지 방어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254863,
+      "m_Localized": "지상과 가까운 전초기지는 랩쳐들에게 공격을 받곤 해요.\r\n니케들은 침략하는 랩쳐들을 처지 해 전초기지를 방어하고 전리품을 보관함에 모아놓습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905111,
+      "m_Localized": "전초기지 방어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254864,
+      "m_Localized": "아래의 보관함 버튼을 선택해 누적된 전리품을 확인해 볼까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905113,
+      "m_Localized": "전초기지 방어가 진행되는 동안 전리품이 누적됩니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905114,
+      "m_Localized": "<color=#00AEFF>[보상 획득]</color> 버튼을 선택하면 누적된 전리품을 획득할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905115,
+      "m_Localized": "캠페인 스테이지를 5번 클리어할 때마다 전초기지 방어 레벨이 상승하고 보상을 획득합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905116,
+      "m_Localized": "전초기지 방어 레벨이 상승하면 누적되는 전리품의 양이나 종류가 변화합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905117,
+      "m_Localized": "<color=#00AEFF>[단기 섬멸]</color> 버튼을 선택 시, 전초기지 방어 120분의 전리품을 즉시 획득할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905118,
+      "m_Localized": "전리품 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254866,
+      "m_Localized": "많은 전리품이 누적되어 있네요!\r\n<color=#00AEFF>[보상 획득]</color> 버튼을 선택해 누적된 전리품을 획득해 보세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905120,
+      "m_Localized": "전초기지 방어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905121,
+      "m_Localized": "접속하지 않아도 전초기지 방어는 계속 진행되고 있답니다.\r\n하지만 보관함이 100%가 되면 더 이상 전리품이 누적되지 않으니\r\n접속할 때마다 누적된 전리품을 꼭 획득해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905122,
+      "m_Localized": "건물 건축",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254872,
+      "m_Localized": "전초기지에서는 기지 방어에서 획득한 건축 재료로\r\n직접 건물을 건축할 수 있습니다.\r\n한번 직접 건물을 건축해 볼까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905124,
+      "m_Localized": "건축 위치 선택",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254873,
+      "m_Localized": "직접 건물을 건설하기 위해 건설이 가능한 구역을 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905126,
+      "m_Localized": "건물 선택",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254874,
+      "m_Localized": "[건축하기] 버튼을 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905128,
+      "m_Localized": "건물 선택",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254875,
+      "m_Localized": "[확인] 버튼을 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905130,
+      "m_Localized": "건축 완료",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254876,
+      "m_Localized": "건축에 필요한 시간을 모두 보내고 나면 [완료 대기 상태]가 됩니다.\r\n[완료 대기 상태]가 된 건물을 선택해 건축을 완료해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905132,
+      "m_Localized": "건물 건축",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254877,
+      "m_Localized": "이렇게 전초기지의 빈 구역에 건물들을 직접 건축할 수 있어요.\r\n앞으로 자유롭게 전초기지를 꾸며보세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905134,
+      "m_Localized": "로비 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254878,
+      "m_Localized": "지휘관, 전초기지에 싱크로 디바이스가 오픈되었다고 합니다.\r\n전초기지로 이동하겠습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905136,
+      "m_Localized": "전초기지 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254879,
+      "m_Localized": "[전초기지]를 선택해 진입해 주십시오.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905138,
+      "m_Localized": "건물 선택",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254880,
+      "m_Localized": "[싱크로 디바이스]를 선택해 주십시오.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905140,
+      "m_Localized": "건설하기",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254881,
+      "m_Localized": "[건축하기] 버튼을 선택해 주십시오.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905142,
+      "m_Localized": "건설하기",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254882,
+      "m_Localized": "[확인] 버튼을 선택해 주십시오.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905144,
+      "m_Localized": "건설 완료",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254883,
+      "m_Localized": "다시 [싱크로 디바이스]를 선택해 건설을 완료해 주십시오.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905146,
+      "m_Localized": "입장하기",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254884,
+      "m_Localized": "싱크로 디바이스에 입장해 보겠습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64136282474586176,
+      "m_Localized": "싱크로 디바이스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64136282474586177,
+      "m_Localized": "<color=#00AEFF>[싱크로 디바이스]</color>는 주력 니케의 성장 정도를 다른 니케와 공유할 수 있는 시설입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254885,
+      "m_Localized": "보유한 니케 중 레벨이 가장 높은 5기가 자동으로 선택,\r\n해당 니케의 레벨 중 가장 낮은 레벨이 [싱크로 레벨]로 설정됩니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254886,
+      "m_Localized": "<color=#00AEFF>[싱크로 레벨]</color>은 다른 니케에게 <color=#00AEFF>공유</color>되는 레벨입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 17555372514254887,
+      "m_Localized": "슬롯에 등록된 니케는 [싱크로 레벨]과 <color=#00AEFF>동일한 레벨</color>로 조정됩니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905152,
+      "m_Localized": "위시리스트 해금",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905153,
+      "m_Localized": "지휘관, 위시리스트가 해금되었어요!\r\n위시리스트를 설정하러 가볼까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905154,
+      "m_Localized": "위시리스트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905155,
+      "m_Localized": "위시리스트를 설정하면 대원 모집에서 SSR 니케를 획득했을 때\r\n높은 확률로 위시리스트에 등록한 니케를 모집할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905156,
+      "m_Localized": "주의사항",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18450756530905157,
+      "m_Localized": "기업별로 5명의 니케를 위시리스트로 설정할 수 있습니다.\r\n15명의 니케를 모두 선택하지 않을 경우 대원 모집 시 위시리스트가 적용되지 않으니 주의해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859552,
+      "m_Localized": "로스트 섹터",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859553,
+      "m_Localized": "이곳은 섹터 내부입니다. 섹터 내부를 탐사하기 위해선\r\n구역별로 스쿼드를 편성하여 탐사를 진행해야 해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859554,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859555,
+      "m_Localized": "편성해야 할 스쿼드의 수는 상단에 표시됩니다.\r\n스쿼드를 선택하면 편성해야 할 스쿼드의 위치로 이동해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859556,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859557,
+      "m_Localized": "스쿼드를 편성하기 위해 스쿼드 편성 버튼을 선택해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859558,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859559,
+      "m_Localized": "섹터에 편성해야 되는 스쿼드와 출전 가능한 니케를\r\n확인할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859560,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859561,
+      "m_Localized": "각 스쿼드에는 원하는 니케를 편성할 수 있어요.\r\n지금은 자동 편성으로 스쿼드를 편성해 볼게요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859562,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859563,
+      "m_Localized": "스쿼드에 니케를 모두 편성했으면 편성을 저장해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859564,
+      "m_Localized": "탐사 개시",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 54656801338859565,
+      "m_Localized": "섹터에 스쿼드가 모두 편성되면 섹터 탐사 준비 완료입니다.\r\n탐사 개시를 선택해 섹터를 탐사해 보죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60078134948306960,
+      "m_Localized": "로스트 섹터 탐색",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 60078134948306961,
+      "m_Localized": "로스트 섹터 탐색 안내가 완료되지 않았네요.\r\n다시 로스트 섹터에 진입하여 탐색을 진행해 볼게요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62251659779940358,
+      "m_Localized": "시뮬레이션 룸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62251659779940359,
+      "m_Localized": "시뮬레이션 룸의 안내를 이어서 진행하도록 하겠다.\r\n이동하지.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384647,
+      "m_Localized": "시뮬레이션 룸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384648,
+      "m_Localized": "이곳이 시뮬레이션 룸이다.\r\n가상의 공간에서 전투를 할 수 있는 방주 기술의 정수지.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384649,
+      "m_Localized": "시뮬레이션 룸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384650,
+      "m_Localized": "가상의 공간이지만 전투 체험만큼은 실제와 동일한 감각으로\r\n진행할 수 있다. 진입해 보지.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384651,
+      "m_Localized": "난이도",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384652,
+      "m_Localized": "시뮬레이션 룸에서는 <color=#00AEFF>난이도</color>를 선택할 수 있다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384653,
+      "m_Localized": "섹터",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384654,
+      "m_Localized": "또한 난이도 별 <color=#00AEFF>섹터</color>가 마련되어 있다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384655,
+      "m_Localized": "스테이지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384656,
+      "m_Localized": "선택한 난이도가 높을수록 전투는 어려워지지만,\r\n더 많은 보상을 획득할 수 있다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384657,
+      "m_Localized": "시뮬레이션 시작",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384658,
+      "m_Localized": "그럼 시뮬레이션을 시작해 보지.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384659,
+      "m_Localized": "선택지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384660,
+      "m_Localized": "섹터의 각 스테이지에서는 1~3가지 선택지가 주어진다.\r\n일종의 돌발 상황을 재현한 것으로, 그 영향은 전투에 직접적으로 드러난다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384661,
+      "m_Localized": "시뮬레이션 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384662,
+      "m_Localized": "전투 선택지를 클리어하면 <color=#00AEFF>버프</color>를 획득한다.\r\n버프의 조합에 따라 스쿼드가 강화되지.\r\n물론, 버프 효과는 시뮬레이션 룸에서만 적용된다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587407384663,
+      "m_Localized": "시뮬레이션 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578880,
+      "m_Localized": "긴 말 필요없이 전투를 선택해 진행해볼까.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578881,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578882,
+      "m_Localized": "먼저 스쿼드 편성이다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578883,
+      "m_Localized": "자동 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578884,
+      "m_Localized": "<color=#00AEFF>자동 편성</color>을 선택하면 보유한 니케들로 최적의 스쿼드를 편성할 수 있다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578885,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578886,
+      "m_Localized": "편성한 스쿼드를 저장해 봐라.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578887,
+      "m_Localized": "빠른 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578888,
+      "m_Localized": "시뮬레이션 룸에선 빠른 테스트를 위해서 빠른 전투 기능을 지원한다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578889,
+      "m_Localized": "빠른 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578890,
+      "m_Localized": "네 스쿼드의 전투력이 기준 전투력보다 높을 경우에만 가능하다.\r\n즉, 승패가 명확할 경우에 괜히 힘 뺄 필요가 없는 것이지.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578891,
+      "m_Localized": "빠른 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578892,
+      "m_Localized": "중요도가 높은 전투, 보스전에서는 빠른 전투는 불가능하다.\r\n그럼 직접 해봐라.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674141,
+      "m_Localized": "버프 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674142,
+      "m_Localized": "전투 선택지를 클리어하면 버프를 획득한다.\r\n물론, 버프 효과는 시뮬레이션 룸에서만 적용되지.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578893,
+      "m_Localized": "버프 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578894,
+      "m_Localized": "버프는 네가 원하는 것을 고를 수 있다.\r\n효과와 스쿼드 구성을 살펴보고 적합한 버프를 선택하면 된다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578895,
+      "m_Localized": "버프 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578896,
+      "m_Localized": "이번엔 첫 번째 버프를 선택해 볼까.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578897,
+      "m_Localized": "선택지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578898,
+      "m_Localized": "시뮬레이션 룸에선 전투를 통한 버프가 아닌,\r\n무작위성의 상황으로 도움을 받을 수도 있다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578899,
+      "m_Localized": "선택지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578900,
+      "m_Localized": "전투로 대미지를 많이 입었군.\r\n집중 치료실을 선택해 치료를 해봐라.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578901,
+      "m_Localized": "선택",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578902,
+      "m_Localized": "집중 치료실에선 니케의 체력 회복이나 전투 불능 상태를 고칠 수 있다.\r\n이번엔 니케의 체력을 회복시켜볼까.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578903,
+      "m_Localized": "보스전",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578904,
+      "m_Localized": "이제 시뮬레이션 룸의 마지막, 보스전이다.\r\n이 녀석을 잡으면 섹터 클리어다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578905,
+      "m_Localized": "보스전",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 58932587411578906,
+      "m_Localized": "그럼 어디 한 번 택티컬 하게 클리어해봐라.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674157,
+      "m_Localized": "버프 체인",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674158,
+      "m_Localized": "버프에는 체인 타입이란 것이 존재한다.\r\n획득한 버프의 체인 타입은 여기서 확인할 수 있지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674159,
+      "m_Localized": "버프 체인",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674160,
+      "m_Localized": "방금 네가 획득한 버프의 체인 타입도 추가됐군.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674161,
+      "m_Localized": "버프 체인",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674162,
+      "m_Localized": "체인 타입은 △, □, ◇, ○ 총 4 종류가 있다.\r\n동일한 체인 타입의 버프를 보유할수록,\r\n체인 레벨이 상승하고 모든 버프 효과가 증가한다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674163,
+      "m_Localized": "버프 체인",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877303363674164,
+      "m_Localized": "상황에 따라 적절한 버프를 선택하는 것이\r\n찰나의 승패를 판가름하니 명심하도록.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078689,
+      "m_Localized": "시뮬레이션 룸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078690,
+      "m_Localized": "시뮬레이션 룸을 클리어했군.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078691,
+      "m_Localized": "시뮬레이션 룸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078692,
+      "m_Localized": "선택한 섹터의 모든 난이도를 클리어하면 보유하고 있는 버프 중 하나를 레거시로 등록할 수 있다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078693,
+      "m_Localized": "버프 레거시",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078694,
+      "m_Localized": "버프 레거시로 선택한 버프는 차후 시뮬레이션 룸 진행 시\r\n미리 보유한 상태로 진행할 수 있다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078695,
+      "m_Localized": "버프 레거시",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078696,
+      "m_Localized": "버프 레거시는 SSR 등급 버프까지만 선택 가능하다.\r\n이번에는 첫 번째 것을 선택하겠다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078697,
+      "m_Localized": "시뮬레이션 룸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078698,
+      "m_Localized": "이것으로 시뮬레이션 룸 전투를 종료하겠다.\r\n수고 많았다. 로비로 돌아가 대기하도록",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078699,
+      "m_Localized": "출격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538587078700,
+      "m_Localized": "지휘관.\r\n지상으로 출격하시죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 194095168949624860,
+      "m_Localized": "출격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 194095168949624861,
+      "m_Localized": "지상으로 출격하기 위해선 엘리베이터를 타야합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 194095168949624862,
+      "m_Localized": "출격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 194095168949624863,
+      "m_Localized": "드디어 지상이군요.\r\n지휘관. 출발하겠습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298655,
+      "m_Localized": "장비 레벨업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298656,
+      "m_Localized": "방금 전 전투의 전리품으로 장비를 획득했어요.\r\n장비를 성장시켜볼까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298657,
+      "m_Localized": "장비 착용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298658,
+      "m_Localized": "먼저 획득한 장비를 착용해 볼까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298659,
+      "m_Localized": "장비 선택",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298660,
+      "m_Localized": "착용한 장비를 선택해 보세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298661,
+      "m_Localized": "장비 레벨업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298662,
+      "m_Localized": "장비의 레벨업은 니케 레벨업과 크게 다르지 않아요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298663,
+      "m_Localized": "장비 레벨업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298664,
+      "m_Localized": "장비 전용 경험치 재료나 장비 아이템을 사용해\r\n경험치를 누적시킬 수 있죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298665,
+      "m_Localized": "장비 레벨업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298666,
+      "m_Localized": "자동 선택은 다음 레벨업까지 필요한 경험치만큼의 아이템을\r\n알아서 선택해 주는 기능이에요. 자동 선택을 터치해보세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777295298667,
+      "m_Localized": "장비 레벨업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777299492864,
+      "m_Localized": "장비 경험치 누적에는 크레디트를 소모합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777299492865,
+      "m_Localized": "장비 레벨업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777299492866,
+      "m_Localized": "레벨업 버튼을 선택해 장비를 레벨업 해보세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777299492867,
+      "m_Localized": "장비 레벨업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 62234777299492868,
+      "m_Localized": "잘하셨어요.\r\n레벨업은 티어3 이상의 장비만 가능하니 참고해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64012196368916585,
+      "m_Localized": "장비 성장",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64012196368916586,
+      "m_Localized": "방금 전 전투의 전리품으로 새로운 장비를 획득했어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64012196368916587,
+      "m_Localized": "장비 성장",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64012196368916588,
+      "m_Localized": "티어3 이상의 장비는 <color=#00AEFF>레벨업</color>을 할 수 있어요.\r\n장비를 레벨업하면 성능이 향상되죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64012196368916589,
+      "m_Localized": "장비 성장",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64012196368916590,
+      "m_Localized": "작전에 실패했을 때 장비 성장으로 극복하는 것도 방법이 될 수 있으니 참고해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139521,
+      "m_Localized": "스킬 레벨업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139522,
+      "m_Localized": "지휘관, 니케들이 보유한 고유한 스킬들을\r\n강화할 수 있다는걸 알고 계신가요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139523,
+      "m_Localized": "스킬 레벨업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139524,
+      "m_Localized": "스킬을 강화하면 지금보다 강력한 스킬을 사용할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139525,
+      "m_Localized": "스킬 레벨업",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139526,
+      "m_Localized": "스킬 레벨업에 사용되는 재료는 주로 시뮬레이션 룸에서 획득할 수 있으니 참고해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139527,
+      "m_Localized": "건물 건축",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139528,
+      "m_Localized": "전초기지에 새로운 건물을 건축하실 생각이군요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139529,
+      "m_Localized": "건물 건축",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139530,
+      "m_Localized": "해금된 건축 구역에는 새로운 건물을 건축할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139531,
+      "m_Localized": "건물 건축",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139532,
+      "m_Localized": "건물을 건축하면 택틱 아카데미의 레슨 수강 조건이 충족되고,\r\n간혹 니케들과의 돌발 이벤트가 발생하기도 해요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139533,
+      "m_Localized": "건물 건축",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139534,
+      "m_Localized": "건물을 건축하기 위해선 건축 조건을 모두 달성 해야 해요.\r\n여기서 건축 재료는 건물을 건축할 때 필수로 사용해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139535,
+      "m_Localized": "건물 건축",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139536,
+      "m_Localized": "건축 재료는 유실물에서 발견할 수 있어요.\r\n아이콘을 선택하면 획득 가능한 챕터를 확인할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139537,
+      "m_Localized": "건물 건축",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139538,
+      "m_Localized": "이미 클리어 한 챕터라도 유실물은 남아있을 수 있으니\r\n열심히 찾아보도록 해요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139539,
+      "m_Localized": "목표",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139540,
+      "m_Localized": "정비를 하며 여러 가지에 대해 배웠나요?\r\n이제 다음 임무를 진행해 보죠!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139541,
+      "m_Localized": "목표",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139542,
+      "m_Localized": "진행해야 할 다음 임무는 미션 탭에서 확인할 수 있어요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139543,
+      "m_Localized": "목표",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139544,
+      "m_Localized": "미션 탭의 버튼을 선택하면 다음 임무를 진행하는 곳으로\r\n바로 이동할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139545,
+      "m_Localized": "목표",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139546,
+      "m_Localized": "다음 목표를 잃어버렸다면, 우선 미션 탭을 확인해 보고\r\n바로 가기 기능을 사용해 보는 건 어떨까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139547,
+      "m_Localized": "목표",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 89877583132139548,
+      "m_Localized": "설명이 길었네요! 이제 다음 임무를 하러 가볼까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538595467265,
+      "m_Localized": "목표",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538595467266,
+      "m_Localized": "지휘관, 부사령관실은 이쪽이에요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538595467267,
+      "m_Localized": "목표",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538595467268,
+      "m_Localized": "지휘관, 부사령관실로 이동해야해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538595467269,
+      "m_Localized": "목표",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191264538595467270,
+      "m_Localized": "시뮬레이션 룸은 이쪽이에요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922594,
+      "m_Localized": "테레스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922595,
+      "m_Localized": "전방에 특수 개체, [테레스] 발견!\r\n[테레스]를 처치하면 주변 적들이 <color=#00AEFF>일시적</color>으로 <color=#00AEFF>무력화</color> 상태가 돼요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922596,
+      "m_Localized": "테레스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922597,
+      "m_Localized": "[테레스]는 자율 사격에 포함되지 않는 개체입니다. \r\n지휘관이 직접 사격을 지시해 주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922598,
+      "m_Localized": "티아라",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922599,
+      "m_Localized": "전방에 특수 개체, [티아라]가 등장했습니다!\r\n[티아라]를 처치하면 자력이 발생해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922600,
+      "m_Localized": "티아라",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 94911628777922601,
+      "m_Localized": "일정 범위 내 랩쳐들이 자력이 발생한 위치로 끌려가게 됩니다.\r\n[티아라]를 <color=#00AEFF>적절한 타이밍</color>에 처치해 효율적으로 거점을 방어하도록 지시해 보세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396652,
+      "m_Localized": "루키 아레나",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396653,
+      "m_Localized": "Great한 Battle이 펼쳐지는 곳이\r\n바로 여기! Arena Stadium!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396654,
+      "m_Localized": "루키 아레나",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396655,
+      "m_Localized": "You는 아직 Rookie이기 때문에\r\n여기! Rookie Arena에서 Battle을 진행해야 합니다Da!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396656,
+      "m_Localized": "루키 아레나",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396657,
+      "m_Localized": "이곳이 바로 You와 같은 Newbie 지휘관들의 싸움터인\r\nRookie~ Arena~~!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396658,
+      "m_Localized": "루키 아레나",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396659,
+      "m_Localized": "우선 Battle에 참여하려면 Girl들로 공격 스쿼드와\r\n방어 스쿼드 Setting이 필요합니Da!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396660,
+      "m_Localized": "루키 아레나",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396661,
+      "m_Localized": "You가 상대에게 Battle을 신청할 수도 있지만\r\n상대도 You에게 Battle을 신청할 수 있기 때문이Jyo!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396662,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396663,
+      "m_Localized": "Girl들로 공격ㆍ방어 스쿼드를 편성해보자구Yo!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396664,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396665,
+      "m_Localized": "공격 스쿼드 먼저 Setting!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396666,
+      "m_Localized": "스쿼드 편성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396667,
+      "m_Localized": "Great~~~!!! 이번엔 방어 스쿼드를 Setting!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396668,
+      "m_Localized": "루키 아레나",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396669,
+      "m_Localized": "가슴 뛰는 Battle을 즐길 스쿼드가 편성됐군Yo!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396670,
+      "m_Localized": "아레나 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396671,
+      "m_Localized": "스쿼드 편성이 끝났다면 You와 비슷한 수준의\r\nCommander를 선택해 Battle을 진행할 수 있습니Da!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396672,
+      "m_Localized": "아레나 전투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396673,
+      "m_Localized": "여기 Rookie Arena는 매일 무료로\r\nBattle을 펼칠 수 있는 기회를 제공하니 아주 Nice!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396674,
+      "m_Localized": "아레나 보상",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396675,
+      "m_Localized": "Battle에서 승리하게되면 아레나 경품 교환권을 Get!\r\n이걸로 아레나 상점에서 Great한 상품으로\r\nChange할 수 있으니 Fighting 해주세Yo!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396676,
+      "m_Localized": "루키 아레나",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396677,
+      "m_Localized": "이제 Free하게 마음~~~껏! Battle을 즐겨보세Yo!\r\nLet’s Entertainment---!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396678,
+      "m_Localized": "스페셜 아레나",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396679,
+      "m_Localized": "Great~~~한 Battle이 펼쳐지는 곳이\r\n바로 여기! Arena Stadium!!!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396680,
+      "m_Localized": "스페셜 아레나",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396681,
+      "m_Localized": "You와 같은 Star를 위한 더 큰 Stage가 마련되었습니Da!\r\n바로 Special~~~ Arena! 같이 한 번 Join--!!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396682,
+      "m_Localized": "스페셜 아레나",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396683,
+      "m_Localized": "이곳이 바로 Special Arena Stadidum!\r\nRookie Arena보다 Hard하지만 멋진 Stage!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396684,
+      "m_Localized": "진행 방식",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396685,
+      "m_Localized": "Battle은 총 3번의 Battle을 진행하고,\r\n2라운드를 먼저 Victory한 쪽이 최종 Winner!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396686,
+      "m_Localized": "진행 방식",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396687,
+      "m_Localized": "그렇기 때문에 공격스쿼드와 방어 스쿼드를\r\n각각 3개씩 Setting을 해야합니Da!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396688,
+      "m_Localized": "매칭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396689,
+      "m_Localized": "Special Arena는 전투 결과에 따라 Ranking이 바뀝니Da!\r\n매칭되는 상대는 You보다 티어가 높은 3명으로 Matching!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230067396690,
+      "m_Localized": "매칭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230071590912,
+      "m_Localized": "라이벌 List 갱신은 방어 스쿼드를 편성해야 갱신되니\r\nDon't Forget! 방어 스쿼드를 편성해주세Yo!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230071590913,
+      "m_Localized": "보상",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230071590914,
+      "m_Localized": "Special Arena의 보상은 Time마다 보상이 누적됩니Da!\r\n이 누적량은 Special Arena의 티어에 의해 결정됩니Da!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230071590915,
+      "m_Localized": "스페셜 아레나 포인트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 100012230071590916,
+      "m_Localized": "Reward에서 Get하는 스페셜 아레나 포인트 랭킹이 상위권일 경우\r\n챔피언 아레나 참가 자격도 주어지니 열심히 해보세Yo!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839962,
+      "m_Localized": "특수 공격 저지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839963,
+      "m_Localized": "지휘관. 공격 저지에 대한 정보가 갱신되어 공유드려요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839964,
+      "m_Localized": "특수 공격 저지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839965,
+      "m_Localized": "해당 지역에 등장하는 랩쳐의 공격 저지는 조금 특별해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839966,
+      "m_Localized": "캔슬 링",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839967,
+      "m_Localized": "먼저 캔슬 링입니다. 기존의 공격 저지와 크게 다르지 않아요.\r\n제한 시간 내에 붉은색 표식을 전부 파괴하면 공격 저지에 성공합니다.\r\n표시된 붉은색 표식을 화력을 집중해 저지하는 것이 중요합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839968,
+      "m_Localized": "카운터 링",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839969,
+      "m_Localized": "카운터 링입니다.\r\n흰색 표식이 파괴되는 즉시 공격 저지에 실패해 버려요.\r\n흰색 표식은 공격하지 않도록 꼭 주의해 주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537820839970,
+      "m_Localized": "특수 공격 저지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144510537825034240,
+      "m_Localized": "조금 어려울 순 있겠지만, 지휘관이라면 해낼 수 있어요!\r\n힘내요 지휘관!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156147571819847683,
+      "m_Localized": "한계돌파 <color=#00AEFF>가능</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156147571819847684,
+      "m_Localized": "한계돌파 <color=#FF2D4C>불가</color>",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156147571819847685,
+      "m_Localized": "스페어 바디 사용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576358,
+      "m_Localized": "최대 레벨 제한",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576359,
+      "m_Localized": "앗! 지휘관! 어느덧 니케들이 이만큼 강해졌네요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576360,
+      "m_Localized": "최대 레벨 제한",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576361,
+      "m_Localized": "니케는 한계 돌파를 하면 성장 가능한 최대 레벨이 증가해요!\r\n한계 돌파하지 않은 니케는 최대 80레벨까지 성장 가능하죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576362,
+      "m_Localized": "최대 레벨 제한",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576363,
+      "m_Localized": "한계 돌파는 SR, SSR 등급의 니케들의 스페어 바디를\r\n보유한 경우 진행할 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576364,
+      "m_Localized": "최대 레벨 제한",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576365,
+      "m_Localized": "이미 성장된 니케들로 인해 다른 니케를 성장시킬 수 없다고요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576366,
+      "m_Localized": "레벨 초기화",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576367,
+      "m_Localized": "걱정 마세요! 레벨 초기화를 통해 성장시킨 니케의 레벨을 1로 초기화하고 성장에 소모한 재화를 모두 돌려받을 수 있어요!\r\n단, 레벨 초기화에는 쥬얼이 10개 소모된답니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576368,
+      "m_Localized": "싱크로 레벨",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576369,
+      "m_Localized": "니케의 성장은 전초기지의 연구 시설인 싱크로 디바이스에서도 가능해요.\r\n싱크로 레벨이 니케의 성장(최대 레벨)에 영향을 받죠",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576370,
+      "m_Localized": "싱크로 레벨",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576371,
+      "m_Localized": "메인 슬롯에 배치된 니케들이 성장(레벨업)한 만큼\r\n싱크로 레벨(공유 레벨)이 증가해요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576372,
+      "m_Localized": "싱크로 레벨",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576373,
+      "m_Localized": "한계 돌파를 하지 못해 성장이 제한된 니케는\r\n싱크로 슬롯에 추가해 싱크로 레벨을 공유 받을 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576374,
+      "m_Localized": "싱크로 레벨",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576375,
+      "m_Localized": "그렇기 때문에 메인 슬롯은 한계 돌파를 진행한 니케들로\r\n구성하면 더욱 수월하게 진행할 수 있는 점 알아주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 206440608449732611,
+      "m_Localized": "니케는 등급에 따라 최대로 성장 가능한 레벨이 정해져 있다는걸 알고계신가요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 206440608449732612,
+      "m_Localized": "R등급은 80레벨까지, SR등급과 SSR등급은 160레벨까지 성장 가능해요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 206440608449732613,
+      "m_Localized": "단, SSR 등급 니케는 3회 한계돌파하게 되면 최대 200레벨까지 성장가능해요",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576376,
+      "m_Localized": "레벨 제한",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576377,
+      "m_Localized": "지휘관! 니케들을 열심히 성장시키고 있군요!\r\n혹시 니케들이 최대 레벨에 도달해서 성장이 멈추진 않았나요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576378,
+      "m_Localized": "한계 돌파",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576379,
+      "m_Localized": "이전에 설명드렸지만 최대 레벨 도달로 인한 성장이 멈췄다면\r\n한계 돌파로 레벨 최대치를 증가시킬 수 있어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495483576380,
+      "m_Localized": "싱크로 레벨",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495487770624,
+      "m_Localized": "싱크로 디바이스에선 메인 슬롯에 배치된 니케들이 성장(레벨업)한 만큼\r\n싱크로 레벨(공유 레벨)이 증가하기 때문에",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495487770625,
+      "m_Localized": "싱크로 레벨",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495487770626,
+      "m_Localized": "메인 슬롯은 한계 돌파한 니케들로\r\n구성하면 더욱 수월하게 성장을 진행할 수 있어요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495487770627,
+      "m_Localized": "싱크로 레벨",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 156052495487770628,
+      "m_Localized": "한계 돌파를 하지 못해 레벨 제한이 있는 니케들은\r\n싱크로 슬롯에 추가해 싱크로 레벨을 공유 받을 수 있으니 꼭 활용해 보세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": []
+  }
+}

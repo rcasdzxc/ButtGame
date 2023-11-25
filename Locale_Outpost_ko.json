@@ -1,0 +1,2477 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "Locale_Outpost_ko",
+  "m_LocaleId": {
+    "m_Code": "ko"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -5602732806339225577
+  },
+  "m_Metadata": {
+    "m_Items": [
+      {
+        "rid": 0
+      }
+    ]
+  },
+  "m_TableData": [
+    {
+      "m_Id": 2456526848,
+      "m_Localized": "기본 테마",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2456526849,
+      "m_Localized": "특별 테마",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109250,
+      "m_Localized": "무기고 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109251,
+      "m_Localized": "무기고 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109252,
+      "m_Localized": "무기고 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109253,
+      "m_Localized": "무기고 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109254,
+      "m_Localized": "무기고 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109255,
+      "m_Localized": "커맨드 센터 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109256,
+      "m_Localized": "커맨드 센터 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109257,
+      "m_Localized": "커맨드 센터 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109258,
+      "m_Localized": "커맨드 센터 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109259,
+      "m_Localized": "커맨드 센터 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213802659909,
+      "m_Localized": "전파탑 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213802659910,
+      "m_Localized": "전파탑 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213802659911,
+      "m_Localized": "전파탑 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213802659912,
+      "m_Localized": "전파탑 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213802659913,
+      "m_Localized": "전파탑 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109265,
+      "m_Localized": "카페 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109266,
+      "m_Localized": "카페 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109267,
+      "m_Localized": "카페 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109268,
+      "m_Localized": "카페 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109269,
+      "m_Localized": "카페 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109270,
+      "m_Localized": "파견 게시판 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109271,
+      "m_Localized": "파견 게시판 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109272,
+      "m_Localized": "파견 게시판 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109273,
+      "m_Localized": "파견 게시판 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109274,
+      "m_Localized": "파견 게시판 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109275,
+      "m_Localized": "파견 게시판 Lv.06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109276,
+      "m_Localized": "파견 게시판 Lv.07",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109277,
+      "m_Localized": "병원 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109278,
+      "m_Localized": "병원 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109279,
+      "m_Localized": "병원 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109280,
+      "m_Localized": "병원 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109281,
+      "m_Localized": "병원 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109282,
+      "m_Localized": "쇼핑몰 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109283,
+      "m_Localized": "쇼핑몰 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109284,
+      "m_Localized": "쇼핑몰 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109285,
+      "m_Localized": "쇼핑몰 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109286,
+      "m_Localized": "쇼핑몰 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109287,
+      "m_Localized": "종합체육관 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109288,
+      "m_Localized": "종합체육관 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109289,
+      "m_Localized": "종합체육관 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109290,
+      "m_Localized": "종합체육관 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109291,
+      "m_Localized": "종합체육관 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109292,
+      "m_Localized": "경찰서 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109293,
+      "m_Localized": "경찰서 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109294,
+      "m_Localized": "경찰서 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109295,
+      "m_Localized": "경찰서 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109296,
+      "m_Localized": "경찰서 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109801,
+      "m_Localized": "모던 바 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109802,
+      "m_Localized": "모던 바 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109803,
+      "m_Localized": "모던 바 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109804,
+      "m_Localized": "모던 바 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109805,
+      "m_Localized": "모던 바 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109302,
+      "m_Localized": "호텔 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109303,
+      "m_Localized": "호텔 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109304,
+      "m_Localized": "호텔 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109305,
+      "m_Localized": "호텔 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109306,
+      "m_Localized": "호텔 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109307,
+      "m_Localized": "관측소 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303552,
+      "m_Localized": "관측소 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303553,
+      "m_Localized": "관측소 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303554,
+      "m_Localized": "관측소 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303555,
+      "m_Localized": "관측소 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303556,
+      "m_Localized": "공방 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303557,
+      "m_Localized": "공방 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303558,
+      "m_Localized": "공방 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303559,
+      "m_Localized": "공방 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303560,
+      "m_Localized": "공방 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303561,
+      "m_Localized": "기차역 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303562,
+      "m_Localized": "기차역 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303563,
+      "m_Localized": "기차역 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303564,
+      "m_Localized": "기차역 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303565,
+      "m_Localized": "기차역 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303566,
+      "m_Localized": "엘리베이터 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303567,
+      "m_Localized": "엘리베이터 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303568,
+      "m_Localized": "엘리베이터 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303569,
+      "m_Localized": "엘리베이터 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303570,
+      "m_Localized": "엘리베이터 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303571,
+      "m_Localized": "싱크로 디바이스 Lv.00",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303572,
+      "m_Localized": "싱크로 디바이스 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303573,
+      "m_Localized": "싱크로 디바이스 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303574,
+      "m_Localized": "싱크로 디바이스 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303575,
+      "m_Localized": "싱크로 디바이스 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303576,
+      "m_Localized": "싱크로 디바이스 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303577,
+      "m_Localized": "리사이클 룸 Lv.00",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303578,
+      "m_Localized": "리사이클 룸 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303579,
+      "m_Localized": "리사이클 룸 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303580,
+      "m_Localized": "리사이클 룸 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303581,
+      "m_Localized": "리사이클 룸 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303582,
+      "m_Localized": "리사이클 룸 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303583,
+      "m_Localized": "택틱 아카데미 Lv.00",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303584,
+      "m_Localized": "택틱 아카데미 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303585,
+      "m_Localized": "택틱 아카데미 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303586,
+      "m_Localized": "택틱 아카데미 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303587,
+      "m_Localized": "택틱 아카데미 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303588,
+      "m_Localized": "택틱 아카데미 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303589,
+      "m_Localized": "인프라코어 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208289,
+      "m_Localized": "메이드 카페 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208290,
+      "m_Localized": "메이드 카페 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208291,
+      "m_Localized": "메이드 카페 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208292,
+      "m_Localized": "메이드 카페 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208293,
+      "m_Localized": "메이드 카페 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208294,
+      "m_Localized": "장난감 상점 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208295,
+      "m_Localized": "장난감 상점 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208296,
+      "m_Localized": "장난감 상점 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208297,
+      "m_Localized": "장난감 상점 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208298,
+      "m_Localized": "장난감 상점 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208299,
+      "m_Localized": "발전기 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208300,
+      "m_Localized": "발전기 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208301,
+      "m_Localized": "발전기 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208302,
+      "m_Localized": "발전기 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208303,
+      "m_Localized": "발전기 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208304,
+      "m_Localized": "도서관 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208305,
+      "m_Localized": "도서관 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208306,
+      "m_Localized": "도서관 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208307,
+      "m_Localized": "도서관 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208308,
+      "m_Localized": "도서관 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208309,
+      "m_Localized": "극장 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208310,
+      "m_Localized": "극장 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208311,
+      "m_Localized": "극장 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208312,
+      "m_Localized": "극장 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208313,
+      "m_Localized": "극장 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208314,
+      "m_Localized": "수상한 클럽 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208315,
+      "m_Localized": "수상한 클럽 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208316,
+      "m_Localized": "수상한 클럽 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208317,
+      "m_Localized": "수상한 클럽 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208318,
+      "m_Localized": "수상한 클럽 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208319,
+      "m_Localized": "법원 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208320,
+      "m_Localized": "법원 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208321,
+      "m_Localized": "법원 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208322,
+      "m_Localized": "법원 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208323,
+      "m_Localized": "법원 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208324,
+      "m_Localized": "교회 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208325,
+      "m_Localized": "교회 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208326,
+      "m_Localized": "교회 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208327,
+      "m_Localized": "교회 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208328,
+      "m_Localized": "교회 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402496,
+      "m_Localized": "의류 상점 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402497,
+      "m_Localized": "의류 상점 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402498,
+      "m_Localized": "의류 상점 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402499,
+      "m_Localized": "의류 상점 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402500,
+      "m_Localized": "의류 상점 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402501,
+      "m_Localized": "승리의 여신 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402502,
+      "m_Localized": "승리의 여신 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402503,
+      "m_Localized": "승리의 여신 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402504,
+      "m_Localized": "승리의 여신 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402505,
+      "m_Localized": "승리의 여신 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402506,
+      "m_Localized": "승리의 날개 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402507,
+      "m_Localized": "승리의 날개 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402508,
+      "m_Localized": "승리의 날개 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402509,
+      "m_Localized": "승리의 날개 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402510,
+      "m_Localized": "승리의 날개 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8596431914705006,
+      "m_Localized": "유원지 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8596431914705007,
+      "m_Localized": "야외 수영장 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8596431914705008,
+      "m_Localized": "생화 공원 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109806,
+      "m_Localized": "특별 무기고 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109807,
+      "m_Localized": "특별 무기고 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109808,
+      "m_Localized": "특별 무기고 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109809,
+      "m_Localized": "특별 무기고 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109810,
+      "m_Localized": "특별 무기고 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109811,
+      "m_Localized": "특별 커맨드 센터 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109812,
+      "m_Localized": "특별 커맨드 센터 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109813,
+      "m_Localized": "특별 커맨드 센터 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109814,
+      "m_Localized": "특별 커맨드 센터 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109815,
+      "m_Localized": "특별 커맨드 센터 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109816,
+      "m_Localized": "특별 전파탑 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109817,
+      "m_Localized": "특별 전파탑 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109818,
+      "m_Localized": "특별 전파탑 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109819,
+      "m_Localized": "특별 전파탑 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109820,
+      "m_Localized": "특별 전파탑 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109821,
+      "m_Localized": "특별 카페 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109822,
+      "m_Localized": "특별 카페 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109823,
+      "m_Localized": "특별 카페 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109824,
+      "m_Localized": "특별 카페 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109825,
+      "m_Localized": "특별 카페 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109826,
+      "m_Localized": "특별 파견 게시판 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109827,
+      "m_Localized": "특별 파견 게시판 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109828,
+      "m_Localized": "특별 파견 게시판 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109829,
+      "m_Localized": "특별 파견 게시판 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109830,
+      "m_Localized": "특별 파견 게시판 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109831,
+      "m_Localized": "특별 파견 게시판 Lv.06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304064,
+      "m_Localized": "특별 파견 게시판 Lv.07",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304065,
+      "m_Localized": "특별 병원 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304066,
+      "m_Localized": "특별 병원 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304067,
+      "m_Localized": "특별 병원 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304068,
+      "m_Localized": "특별 병원 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304069,
+      "m_Localized": "특별 병원 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304070,
+      "m_Localized": "특별 쇼핑몰 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304071,
+      "m_Localized": "특별 쇼핑몰 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304072,
+      "m_Localized": "특별 쇼핑몰 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304073,
+      "m_Localized": "특별 쇼핑몰 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304074,
+      "m_Localized": "특별 쇼핑몰 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304075,
+      "m_Localized": "특별 종합체육관 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304076,
+      "m_Localized": "특별 종합체육관 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304077,
+      "m_Localized": "특별 종합체육관 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304078,
+      "m_Localized": "특별 종합체육관 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304079,
+      "m_Localized": "특별 종합체육관 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304080,
+      "m_Localized": "특별 경찰서 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304081,
+      "m_Localized": "특별 경찰서 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304082,
+      "m_Localized": "특별 경찰서 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304083,
+      "m_Localized": "특별 경찰서 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304084,
+      "m_Localized": "특별 경찰서 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304085,
+      "m_Localized": "특별 모던 바 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304086,
+      "m_Localized": "특별 모던 바 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304087,
+      "m_Localized": "특별 모던 바 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304088,
+      "m_Localized": "특별 모던 바 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304089,
+      "m_Localized": "특별 모던 바 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304090,
+      "m_Localized": "특별 엘리베이터 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304091,
+      "m_Localized": "특별 엘리베이터 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304092,
+      "m_Localized": "특별 엘리베이터 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304093,
+      "m_Localized": "특별 엘리베이터 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304094,
+      "m_Localized": "특별 엘리베이터 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304095,
+      "m_Localized": "특별 싱크로 디바이스 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304096,
+      "m_Localized": "특별 싱크로 디바이스 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304097,
+      "m_Localized": "특별 싱크로 디바이스 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304098,
+      "m_Localized": "특별 싱크로 디바이스 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304099,
+      "m_Localized": "특별 싱크로 디바이스 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304100,
+      "m_Localized": "특별 리사이클 룸 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304101,
+      "m_Localized": "특별 리사이클 룸 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304102,
+      "m_Localized": "특별 리사이클 룸 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304103,
+      "m_Localized": "특별 리사이클 룸 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304104,
+      "m_Localized": "특별 리사이클 룸 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854145,
+      "m_Localized": "특별 택틱 아카데미 Lv.01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854146,
+      "m_Localized": "특별 택틱 아카데미 Lv.02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854147,
+      "m_Localized": "특별 택틱 아카데미 Lv.03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854148,
+      "m_Localized": "특별 택틱 아카데미 Lv.04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854149,
+      "m_Localized": "특별 택틱 아카데미 Lv.05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303662,
+      "m_Localized": "니케들이 사용하는 각종 무기들을 보관하는 무기고입니다.\r\n앱솔루트 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303663,
+      "m_Localized": "지휘관을 위한 업무공간입니다.\r\n카운터스 소속 니케들의 휴식공간으로도 사용됩니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854164,
+      "m_Localized": "방주로부터 전파를 송수신하는 전파탑입니다.\r\n프로토콜 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303665,
+      "m_Localized": "전초기지의 명물, 자판기 커피를 판매하는 카페입니다.\r\n카페 스위티 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303666,
+      "m_Localized": "파견 임무들이 게시되어 있는 파견 게시판입니다.\r\n니케들에게 소소한 일거리를 줍니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303667,
+      "m_Localized": "니케부터 인간까지! 누구든 치료해 주는 병원입니다.\r\n세라핌 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303668,
+      "m_Localized": "니케들의 구매 욕구를 충족시킬 물건들이 가득한 쇼핑몰입니다.\r\n달란트 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303669,
+      "m_Localized": "각종 운동을 즐기기 위한 시설을 갖춘 종합체육관입니다.\r\n라이프 토닉 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303670,
+      "m_Localized": "전초기지의 치안과 안전을 책임지는 경찰서입니다.\r\nA.C.P.U. 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304118,
+      "m_Localized": "술과 함께 가볍게 이야기를 나눌 수 있는 모던 바입니다.\r\n어린 니케들을 위한 음료도 함께 준비되어 있습니다.\r\n이그조틱 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303672,
+      "m_Localized": "니케들이 이용할 수 있는 고급 호텔입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303673,
+      "m_Localized": "전초기지에 다가오는 적을 감지하는 관측소입니다.\r\n스카우팅 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303674,
+      "m_Localized": "무엇인가 끊임없이 만들어내는 공방입니다.\r\n마이티 툴즈 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303675,
+      "m_Localized": "아직은 방주로도 지상으로도 연결되지 않은 기차역입니다.\r\n인피니티 레일 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303676,
+      "m_Localized": "지상과 전초기지, 방주를 오갈 수 있는 엘리베이터입니다.\r\n제법 자주 고장이 나곤 합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303677,
+      "m_Localized": "전투력이 뛰어난 니케들의 배틀 데이터를 공유해 전력을 상승시키는 연구시설입니다.\r\n진정한 군단으로 거듭날 것만 같은 기분이 듭니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303678,
+      "m_Localized": "니케들의 잉여 부품을 이용해 전투력을 향상시키는 연구시설입니다.\r\n작은 부품도 소중히 생각하게 됩니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303679,
+      "m_Localized": "니케들에게 전투 방법과 전술을 교육하는 연구시설입니다.\r\n깐깐한 선생님들의 열띤 수업이 인상적인 곳입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303680,
+      "m_Localized": "지휘관의 공적을 체크하여 다양한 혜택을 받을 수 있는 연구시설입니다.\r\n지휘관들의 노력이 눈부시게 빛나고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596819,
+      "m_Localized": "메이드가 근무할 것 같은 느낌의 소녀감성 충만한 카페입니다.\r\n아담하게 보이는 것이 포인트입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596820,
+      "m_Localized": "재밌어보이는 장난감들이 즐비한 장난감 상점입니다.\r\n상점 위 거대한 인형이 눈에 띕니다.\r\n리틀 캐논 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596821,
+      "m_Localized": "거대한 발전기 입니다.\r\n메티스 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596822,
+      "m_Localized": "마음의 양식을 얻을 수 있는 도서관입니다.\r\n리콜&릴리즈, M.M.R. 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596823,
+      "m_Localized": "오페라 하우스같이 웅장하게 생긴 극장입니다.\r\n마스터 핸드, 프리마돈나 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596824,
+      "m_Localized": "수상해 보이는 클럽입니다.\r\n워드리스 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596825,
+      "m_Localized": "정갈하고 위엄이 넘쳐보이는 법원입니다.\r\n트라이앵글 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596826,
+      "m_Localized": "각자가 믿고 있는 존재에게 기도를 드릴 수 있는 교회입니다.\r\n익스터너 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596827,
+      "m_Localized": "명품 의류 상점입니다.\r\n언리미티드 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596828,
+      "m_Localized": "승리의 여신, 니케 석상입니다.\r\n파이오니아 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596829,
+      "m_Localized": "날개를 형상화한 석상입니다.\r\n인헤르트 소속 니케들이 주로 머물고 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8596431923093534,
+      "m_Localized": "시끌벅적한 유원지입니다.\r\n큰 대관람차가 시선을 사로잡습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8596431923093535,
+      "m_Localized": "야외 수영장입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8596431923093536,
+      "m_Localized": "생화가 활짝 피어 있는 생화 공원입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144765656667824144,
+      "m_Localized": "손님을 맞이하기 위한 장소입니다.\r\n조금 낡았지만 쓸만합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304119,
+      "m_Localized": "테스트용 임시 데이터입니다. 무기고 입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304120,
+      "m_Localized": "테스트용 임시 데이터입니다. 커맨드 센터입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304121,
+      "m_Localized": "테스트용 임시 데이터입니다. 전파탑입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304122,
+      "m_Localized": "테스트용 임시 데이터입니다. 카페입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304123,
+      "m_Localized": "테스트용 임시 데이터입니다. 파견 게시판입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304124,
+      "m_Localized": "테스트용 임시 데이터입니다. 병원입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304125,
+      "m_Localized": "테스트용 임시 데이터입니다. 쇼핑몰입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304126,
+      "m_Localized": "테스트용 임시 데이터입니다. 종합 체육관입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304127,
+      "m_Localized": "테스트용 임시 데이터입니다. 경찰서입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304128,
+      "m_Localized": "테스트용 임시 데이터입니다. 모던 바입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304129,
+      "m_Localized": "테스트용 임시 데이터입니다. 엘리베이터입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304130,
+      "m_Localized": "테스트용 임시 데이터입니다. 싱크로 디바이스입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304132,
+      "m_Localized": "테스트용 임시 데이터입니다. 리사이클 룸입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854179,
+      "m_Localized": "테스트용 임시 데이터입니다. 택틱 아카데미입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304133,
+      "m_Localized": "기지 방어 지원",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304134,
+      "m_Localized": "전초기지 개발",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304135,
+      "m_Localized": "스태미나 증가",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304136,
+      "m_Localized": "파견 수주",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304137,
+      "m_Localized": "보수 공사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304138,
+      "m_Localized": "인원 충원",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304139,
+      "m_Localized": "연구 지원",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854187,
+      "m_Localized": "클래스 오픈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64371302908862513,
+      "m_Localized": "레슨 수강",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304140,
+      "m_Localized": "크레디트 획득량 {0} 증가",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 2473304141,
+      "m_Localized": "배틀 데이터 셋 획득량 {0} 증가",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 2473304142,
+      "m_Localized": "건축 슬롯 {0}개 해금",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 2473304143,
+      "m_Localized": "스태미나 최대치 {0} 증가",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 2473304144,
+      "m_Localized": "파견 등급 범위 : ★ ~★★",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304145,
+      "m_Localized": "파견 등급 범위 : ★ ~ ★★★",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304146,
+      "m_Localized": "파견 등급 범위 : ★ ~ ★★★★",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304147,
+      "m_Localized": "파견 등급 범위 : ★★ ~ ★★★★",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304148,
+      "m_Localized": "파견 등급 범위 : ★★ ~ ★★★★★",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304149,
+      "m_Localized": "-",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304150,
+      "m_Localized": "커맨드 센터 LV.2 레벨 업 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304151,
+      "m_Localized": "커맨드 센터 LV.3 레벨 업 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304152,
+      "m_Localized": "커맨드 센터 LV.4 레벨 업 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304153,
+      "m_Localized": "커맨드 센터 LV.5 레벨 업 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304154,
+      "m_Localized": "캐릭터 슬롯 5개 해금",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304155,
+      "m_Localized": "연구 포인트 1 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19856313913483315,
+      "m_Localized": "CLASS A 해금",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19856313913483316,
+      "m_Localized": "CLASS B 해금",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19856313913483317,
+      "m_Localized": "CLASS C 해금",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19856313913483318,
+      "m_Localized": "CLASS D 해금",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19856313913483319,
+      "m_Localized": "CLASS E 해금",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64371302908862535,
+      "m_Localized": "건축 시 택틱 아카데미 {0}-{1} 레슨 조건 달성",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 2473304156,
+      "m_Localized": "발전형",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304157,
+      "m_Localized": "복지형",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304158,
+      "m_Localized": "지원형",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304159,
+      "m_Localized": "특수형",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784354,
+      "m_Localized": "무기고",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784355,
+      "m_Localized": "커맨드 센터",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784356,
+      "m_Localized": "전파탑",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784357,
+      "m_Localized": "카페",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784358,
+      "m_Localized": "파견 게시판",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784359,
+      "m_Localized": "병원",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784360,
+      "m_Localized": "쇼핑몰",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784361,
+      "m_Localized": "종합 체육관",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784362,
+      "m_Localized": "경찰서",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784363,
+      "m_Localized": "모던 바",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784364,
+      "m_Localized": "엘리베이터",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784365,
+      "m_Localized": "싱크로 디바이스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784366,
+      "m_Localized": "리사이클 룸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784367,
+      "m_Localized": "택틱 아카데미",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784368,
+      "m_Localized": "인프라 코어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784369,
+      "m_Localized": "관측소",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784370,
+      "m_Localized": "호텔",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784371,
+      "m_Localized": "메이드 카페",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784372,
+      "m_Localized": "장난감 상점",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784373,
+      "m_Localized": "기차역",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784374,
+      "m_Localized": "공방",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784375,
+      "m_Localized": "발전기",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784376,
+      "m_Localized": "도서관",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784377,
+      "m_Localized": "극장",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784378,
+      "m_Localized": "수상한 클럽",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784379,
+      "m_Localized": "법원",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784380,
+      "m_Localized": "교회",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784381,
+      "m_Localized": "의류 상점",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784382,
+      "m_Localized": "승리의 여신",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784383,
+      "m_Localized": "승리의 날개",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784384,
+      "m_Localized": "유원지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784385,
+      "m_Localized": "야외 수영장",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784386,
+      "m_Localized": "생화 공원",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144765656676212772,
+      "m_Localized": "게스트 캠프",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "SmartFormatTag",
+          "ns": "UnityEngine.Localization.Metadata",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}

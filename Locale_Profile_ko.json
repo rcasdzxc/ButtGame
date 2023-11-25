@@ -1,0 +1,1960 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "Locale_Profile_ko",
+  "m_LocaleId": {
+    "m_Code": "ko"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": 7724214702632169515
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 2339086336,
+      "m_Localized": "맥스웰의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2339086338,
+      "m_Localized": "슈가의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2339086340,
+      "m_Localized": "엑시아의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2339086342,
+      "m_Localized": "앨리스의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2339086344,
+      "m_Localized": "엠마의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2339086346,
+      "m_Localized": "유니의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2339086348,
+      "m_Localized": "프리바티의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280702,
+      "m_Localized": "블랑의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280703,
+      "m_Localized": "누아르의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280704,
+      "m_Localized": "프림의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8325371450388558,
+      "m_Localized": "리타의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8325371450388559,
+      "m_Localized": "스노우 화이트의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8325371450388560,
+      "m_Localized": "이사벨의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8325371450388561,
+      "m_Localized": "율리아의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8325371450388562,
+      "m_Localized": "시그널의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724175,
+      "m_Localized": "폴리의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724176,
+      "m_Localized": "미란다의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724177,
+      "m_Localized": "브리드의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724178,
+      "m_Localized": "솔린의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724179,
+      "m_Localized": "디젤의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724180,
+      "m_Localized": "센티의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724181,
+      "m_Localized": "베스티의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724182,
+      "m_Localized": "은화의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724183,
+      "m_Localized": "드레이크의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724184,
+      "m_Localized": "크로우의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724185,
+      "m_Localized": "메어리의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724186,
+      "m_Localized": "페퍼의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724187,
+      "m_Localized": "밀크의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724188,
+      "m_Localized": "율하의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724189,
+      "m_Localized": "애드미의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724190,
+      "m_Localized": "길로틴의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724191,
+      "m_Localized": "메이든의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724192,
+      "m_Localized": "루드밀라의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724193,
+      "m_Localized": "루피의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724194,
+      "m_Localized": "얀의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724195,
+      "m_Localized": "도라의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724196,
+      "m_Localized": "노벨의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724197,
+      "m_Localized": "에피넬의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724198,
+      "m_Localized": "폴크방의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724199,
+      "m_Localized": "라푼젤의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724200,
+      "m_Localized": "홍련의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724201,
+      "m_Localized": "하란의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724202,
+      "m_Localized": "노아의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18913910949724203,
+      "m_Localized": "모더니아의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280641,
+      "m_Localized": "라피의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280643,
+      "m_Localized": "네온의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280645,
+      "m_Localized": "델타의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280649,
+      "m_Localized": "아니스의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280651,
+      "m_Localized": "미하라의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280657,
+      "m_Localized": "N102의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280659,
+      "m_Localized": "에테르의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280669,
+      "m_Localized": "마리안의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280678,
+      "m_Localized": "에이커의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280680,
+      "m_Localized": "리큐르의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280682,
+      "m_Localized": "솔져 E.G의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280683,
+      "m_Localized": "솔져 F.A의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280684,
+      "m_Localized": "프로덕트 08의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280685,
+      "m_Localized": "프로덕트 12의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280686,
+      "m_Localized": "iDoll 플라워의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280687,
+      "m_Localized": "iDoll 오션의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280688,
+      "m_Localized": "마나의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280689,
+      "m_Localized": "자칼의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280690,
+      "m_Localized": "목단의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280691,
+      "m_Localized": "바이퍼의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280647,
+      "m_Localized": "루마니의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280653,
+      "m_Localized": "벨로타의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280655,
+      "m_Localized": "미카의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280676,
+      "m_Localized": "D의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280677,
+      "m_Localized": "K의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280679,
+      "m_Localized": "라플라스의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280681,
+      "m_Localized": "사쿠라의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2220775233527884,
+      "m_Localized": "로산나의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2220775233527885,
+      "m_Localized": "iDoll 썬의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2220775233527886,
+      "m_Localized": "프로덕트 23의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2220775237722112,
+      "m_Localized": "솔져 O.W의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29286953274511437,
+      "m_Localized": "에이드의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29286953274511438,
+      "m_Localized": "비블리의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29286953274511439,
+      "m_Localized": "마르차나의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567568,
+      "m_Localized": "루주의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567569,
+      "m_Localized": "코코아의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567570,
+      "m_Localized": "소다의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567571,
+      "m_Localized": "차임의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567572,
+      "m_Localized": "킬로의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567573,
+      "m_Localized": "비스킷의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567574,
+      "m_Localized": "길티의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567575,
+      "m_Localized": "니힐리스타의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567576,
+      "m_Localized": "사이렌의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567577,
+      "m_Localized": "핀의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567578,
+      "m_Localized": "신의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567579,
+      "m_Localized": "엔드리스의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567580,
+      "m_Localized": "도로시의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567581,
+      "m_Localized": "리버렐리오의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567582,
+      "m_Localized": "앵커의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567583,
+      "m_Localized": "메어리 : 베이 갓데스의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567584,
+      "m_Localized": "크라운의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567585,
+      "m_Localized": "헬름의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567586,
+      "m_Localized": "밀리의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567587,
+      "m_Localized": "네로의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567588,
+      "m_Localized": "라이의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567589,
+      "m_Localized": "아리아의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567590,
+      "m_Localized": "네온 : 블루오션의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567591,
+      "m_Localized": "나유타의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567592,
+      "m_Localized": "리프의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567593,
+      "m_Localized": "노이즈의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 37948711157567594,
+      "m_Localized": "볼륨의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46979569667477515,
+      "m_Localized": "에스의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46979569667477516,
+      "m_Localized": "아인의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46979569667477517,
+      "m_Localized": "퀀시의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46979569667477518,
+      "m_Localized": "마스트의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 46979569667477519,
+      "m_Localized": "피아의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56827191383232614,
+      "m_Localized": "토브의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 56827191383232615,
+      "m_Localized": "키리의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788296,
+      "m_Localized": "포르테의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788301,
+      "m_Localized": "네베의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788302,
+      "m_Localized": "앤 : 미라클 페어리의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788303,
+      "m_Localized": "액스의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788304,
+      "m_Localized": "루피: 윈터 쇼퍼의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788308,
+      "m_Localized": "츠바이의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352515,
+      "m_Localized": "소마의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352516,
+      "m_Localized": "레오나의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352512,
+      "m_Localized": "마키마의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352513,
+      "m_Localized": "파워의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352514,
+      "m_Localized": "히메노의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191565913709547605,
+      "m_Localized": "2B의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191565913709547606,
+      "m_Localized": "A2의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191565913709547607,
+      "m_Localized": "파스칼의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198434865521823777,
+      "m_Localized": "아니스: 스파클링 서머의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198434865521823778,
+      "m_Localized": "헬름: 아쿠아마린의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218051052182376455,
+      "m_Localized": "나가의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218051052182376456,
+      "m_Localized": "티아의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227124568273915986,
+      "m_Localized": "레드 후드의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227124568273915987,
+      "m_Localized": "스노우 화이트: 이노센트 데이즈의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352518,
+      "m_Localized": "리타: 피쉬 가드의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352519,
+      "m_Localized": "프림: 씨 오브 슬로스의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352520,
+      "m_Localized": "얀: 선라이즈 마켓의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24994467060322349,
+      "m_Localized": "라피: 화이트 프로미스의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24994467060322351,
+      "m_Localized": "네온: 블링 불렛의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788298,
+      "m_Localized": "폴리: 스위트 홀릭의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788299,
+      "m_Localized": "브리드: 클래식 워커의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788300,
+      "m_Localized": "맥스웰: 메카닉 화이트의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352526,
+      "m_Localized": "디젤: 스트로베리 플라워의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788309,
+      "m_Localized": "디젤: 블랙 홀리데이의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352528,
+      "m_Localized": "메이든: 시크릿 너스의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352529,
+      "m_Localized": "유니: 러블리 핑크의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 24994467060322308,
+      "m_Localized": "엠마: 달링 레드의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788305,
+      "m_Localized": "율리아: 마일드 녹턴의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788306,
+      "m_Localized": "엑시아: 메리 너드 데이의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96355296971788307,
+      "m_Localized": "노벨: 펭귄 홈즈의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352534,
+      "m_Localized": "프리바티: 거버먼트 노멀의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352535,
+      "m_Localized": "슈가: 콜 미 하드보일드의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 110427573212352536,
+      "m_Localized": "헬름: 샹들리에 라이트의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 132515572716605510,
+      "m_Localized": "밀크: 익스트림 파이터의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 132515572716605511,
+      "m_Localized": "시그널: 드라마틱 초코의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135462531047821312,
+      "m_Localized": "센티: 마이티 홀리데이의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 135462531068792832,
+      "m_Localized": "도라: 다크 로즈의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 152432522460598279,
+      "m_Localized": "노이즈: 체리블로섬 스테이지의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 153111337161982056,
+      "m_Localized": "마키마: 코트 오프의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160766814265741320,
+      "m_Localized": "바이퍼: 톡신 레빗의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 160766814265741321,
+      "m_Localized": "앨리스: 스위트 홈의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174899565071896586,
+      "m_Localized": "엠마 : 오피스 테라피의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174899565071896587,
+      "m_Localized": "사쿠라 : 흑야암행의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 174899565071896588,
+      "m_Localized": "루피 : 럭셔리 레빗의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 181069031942066189,
+      "m_Localized": "페퍼: 오션 비타민의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186441028914057230,
+      "m_Localized": "라피: 클래식 바캉스의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 186438147108442127,
+      "m_Localized": "드레이크: 빌런 레이서의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198434865526018060,
+      "m_Localized": "마스트: 파이레츠 하트의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 198434865526018061,
+      "m_Localized": "모더니아: 퍼스트 어펙션의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 200644955184238610,
+      "m_Localized": "브리드: 블랙 문의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 209321097487388733,
+      "m_Localized": "2B: 중파상태의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 209321097487388734,
+      "m_Localized": "2B: 요르하 제복 1의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 209321097487388735,
+      "m_Localized": "A2: 중파상태의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 209321097487388736,
+      "m_Localized": "A2: 요르하 제복 프로토타입의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358879979507741,
+      "m_Localized": "프리바티: 연회의 공주의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218358879979507742,
+      "m_Localized": "노벨: 디텍티브 너스의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227124568282304513,
+      "m_Localized": "하란: 연회의 마녀의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 227124568282304514,
+      "m_Localized": "도로시: 노스텔지어의 사진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280783,
+      "m_Localized": "신입 지휘관",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280784,
+      "m_Localized": "침식을 마주한 지휘관",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280785,
+      "m_Localized": "니케를 인식한 지휘관",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280786,
+      "m_Localized": "새로운 감각의 지휘관",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280787,
+      "m_Localized": "비밀 작전의 지휘관",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280788,
+      "m_Localized": "눈 속을 여행하는 지휘관",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280789,
+      "m_Localized": "새 시대를 걷는 자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280790,
+      "m_Localized": "새 시대의 안내자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280791,
+      "m_Localized": "새 시대의 선구자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280792,
+      "m_Localized": "떠오르는 샛별",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280793,
+      "m_Localized": "떠오르는 명성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280794,
+      "m_Localized": "떠오르는 신성",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280795,
+      "m_Localized": "될성부른 입문자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280796,
+      "m_Localized": "될성부른 도전자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280797,
+      "m_Localized": "될성부른 숙련자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99837460547833968,
+      "m_Localized": "불렛 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99837460547833969,
+      "m_Localized": "커멘더 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99837460547833970,
+      "m_Localized": "태그 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99837460547833971,
+      "m_Localized": "크레디트 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137661054082289664,
+      "m_Localized": "포치타 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 137661054111649792,
+      "m_Localized": "체인소 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 210787662900695057,
+      "m_Localized": "요르하 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 210787662900695058,
+      "m_Localized": "화이트 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236239091980329011,
+      "m_Localized": "※※ 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 168018652818853888,
+      "m_Localized": "마더 웨일 프레임 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 168018652818853889,
+      "m_Localized": "마더 웨일 프레임 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 168018652818853890,
+      "m_Localized": "마더 웨일 프레임 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 177134784091803673,
+      "m_Localized": "블랙스미스 프레임 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 177134784091803674,
+      "m_Localized": "블랙스미스 프레임 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 177134784091803675,
+      "m_Localized": "블랙스미스 프레임 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191185706790965291,
+      "m_Localized": "하베스터 프레임 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191185706790965292,
+      "m_Localized": "하베스터 프레임 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191185706790965293,
+      "m_Localized": "하베스터 프레임 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 196331293137113164,
+      "m_Localized": "알트아이젠 프레임 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 196331293137113165,
+      "m_Localized": "알트아이젠 프레임 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 196331293137113166,
+      "m_Localized": "알트아이젠 프레임 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213380717221531651,
+      "m_Localized": "9810811510911663 프레임 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213380717221531652,
+      "m_Localized": "9810811510911663 프레임 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213380717221531653,
+      "m_Localized": "9810811510911663 프레임 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218033274726670345,
+      "m_Localized": "모더니아 프레임 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218033274726670346,
+      "m_Localized": "모더니아 프레임 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218033274726670347,
+      "m_Localized": "모더니아 프레임 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 228906882390843403,
+      "m_Localized": "울트라 프레임 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 228906882390843404,
+      "m_Localized": "울트라 프레임 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 228906882390843405,
+      "m_Localized": "울트라 프레임 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 195564421571612712,
+      "m_Localized": "소드 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 195564421571612713,
+      "m_Localized": "원더랜드 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 195564421571612714,
+      "m_Localized": "세인트 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 195564421571612715,
+      "m_Localized": "스파클링 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 195564421571612716,
+      "m_Localized": "모노크롬 프레임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280799,
+      "m_Localized": "기본 제공",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280800,
+      "m_Localized": "1챕터 완료 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280801,
+      "m_Localized": "2챕터 완료 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280802,
+      "m_Localized": "3쳅터 완료 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280803,
+      "m_Localized": "4챕터 완료 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280804,
+      "m_Localized": "5챕터 완료 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280805,
+      "m_Localized": "랭킹 1위 누적 10회 달성 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280806,
+      "m_Localized": "랭킹 1위 누적 15회 달성 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280807,
+      "m_Localized": "랭킹 1위 누적 20회 달성 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280808,
+      "m_Localized": "랭킹 5위 이상 누적 10회 달성 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280809,
+      "m_Localized": "랭킹 5위 이상 누적 15회 달성 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280810,
+      "m_Localized": "랭킹 5위 이상 누적 20회 달성 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280811,
+      "m_Localized": "랭킹 10위 이상 누적 10회 달성 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280812,
+      "m_Localized": "랭킹 10위 이상 누적 15회 달성 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2343280813,
+      "m_Localized": "랭킹 10위 이상 누적 20회 달성 시 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99837460552028172,
+      "m_Localized": "화력이 곧 승리다.\r\n이 프레임은 총과 니케, 그리고 굳센 의지만으로 방주에 희망을 가져다준 용맹한 지휘관에게 헌정되었습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99837460552028173,
+      "m_Localized": "갓 사관학교를 졸업한 초짜 지휘관에게 주어지는 프레임입니다. \r\n정모를 쓰려는 자, 그 무게를 견뎌라.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99837460552028174,
+      "m_Localized": "지상 작전에 나가는 지휘관에게 지급되는 인식표 프레임입니다. \r\n위험한 지상 작전의 특성상, 초짜 지휘관이라면 목숨처럼 지니고 있어야 할 물건입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 99837460552028175,
+      "m_Localized": "지상 탈환도 1 크레디트부터.\r\n다소 노골적인 행운의 토큰입니다. 구시대에 행운의 2달러 지폐가 있었다면 방주에는 이 크레디트 프레임이 있다고 할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 138075069403934720,
+      "m_Localized": "이계의 손님들의 방문을 기념하며 제작한 프레임.\r\n함께 한 시간은 짧았지만, 이걸로 데블 헌터들과의 소중한 추억을 되새길 수 있을 것입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 138075069458460672,
+      "m_Localized": "이계의 손님들의 방문을 기념하며 제작한 프레임.\r\n함께 한 시간은 짧았지만, 이걸로 데블 헌터들과의 소중한 추억을 되새길 수 있을 것입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 210787662904889350,
+      "m_Localized": "인류의 영광을 위하여.\r\n더 이상 곁에 없는 창조주를 위해 목숨을 거는 피조물의 모습은, 얼마나 덧없고도 숭고한지.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 210787662904889351,
+      "m_Localized": "밤을 은은하게 밝히는 흰 꽃처럼.\r\n멸망한 세계에서도 굴하지 않고 싸우는 이들의 고결한 투지를 기리는 프레임입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236239091988717572,
+      "m_Localized": "아주 오래전부터 단 하나의 목적을 위해 고립된 채 존재하던 소녀는, 우연찮은 만남에 기뻐하며 선물을 건네주었습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 168018652818853912,
+      "m_Localized": "솔로 레이드에서 마더 웨일과 맞서 싸운 증명.\r\n하늘을 헤엄치는 거대한 고래를 떨어뜨린 그 지휘력에 경의를 표합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 168018652818853913,
+      "m_Localized": "솔로 레이드에서 마더 웨일과 맞서 싸운 증명.\r\n절대 떨어지지 않을 것이라 여겨졌던 거체가 지상에 떨어지는 그 순간을, 수많은 사람들이 기억할 것입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 168018652823048192,
+      "m_Localized": "솔로 레이드에서 마더 웨일과 맞서 싸운 증명.\r\n하늘 자체를 상징하는 거경이 무너졌습니다. 후대의 사람들은 당신을 이렇게 칭하겠지요. 하늘을 떨어뜨린 자.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 177134784095997955,
+      "m_Localized": "솔로 레이드에서 블랙스미스와 맞서 싸운 증명.\r\n끔찍한 짓을 아무렇지도 않게 저지르는 녀석에게 본때를 보여줬습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 177134784095997956,
+      "m_Localized": "솔로 레이드에서 블랙스미스와 맞서 싸운 증명.\r\n그 촉수와 캡슐을 보며 공포에 떨었던 니케들에게 전해줄 기쁜 소식이 생겼습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 177134784095997957,
+      "m_Localized": "솔로 레이드에서 블랙스미스와 맞서 싸운 증명.\r\n수많은 니케들의 원수를 갚았습니다. 당신은 훌륭한 일을 해냈습니다.\r\n그녀들도 이제 편히 쉴 수 있겠죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191185706795159560,
+      "m_Localized": "솔로 레이드에서 하베스터와 맞서 싸운 증명.\r\n그 거대한 몸이 당신 앞에서 힘없이 쓰러졌습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191185706795159561,
+      "m_Localized": "솔로 레이드에서 하베스터와 맞서 싸운 증명.\r\n크고 긴 다리도, 빛을 뿜어내는 눈도, 거대한 포효 소리도 당신에겐 아무런 소용이 없습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 191185706795159562,
+      "m_Localized": "솔로 레이드에서 하베스터와 맞서 싸운 증명.\r\n땅 속은 먹잇감을 기다리는 즐거운 장소였을 테지만, 이젠 당신의 발소리가 들릴까 봐 두려움에 떠는 장소가 되었습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 196331293141307470,
+      "m_Localized": "솔로 레이드에서 알트아이젠과 맞서 싸운 증명.\r\n폭주 기관차의 앞을 막아서고 길을 끊었습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 196331293141307471,
+      "m_Localized": "솔로 레이드에서 알트아이젠과 맞서 싸운 증명.\r\n레일 위는 더 이상 폭주 기관차의 무대가 아닙니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 196331293141307472,
+      "m_Localized": "솔로 레이드에서 알트아이젠과 맞서 싸운 증명.\r\n폭주 기관차는 이제 달릴 수 없습니다.\r\n정확히는 달릴 엄두조차 내지 못 합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213380717347360769,
+      "m_Localized": "솔로 레이드에서 9810811510911663과 맞서 싸운 증명.\r\n[나]로서 살기 위해 노력했던 어떤 니케를 떠올렸습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213380717347360770,
+      "m_Localized": "솔로 레이드에서 9810811510911663과 맞서 싸운 증명.\r\n다른 세계에서 온 이들과 함께했던 싸움을 기억하며,\r\n함께했던 이들을 그리워했습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 213380717347360771,
+      "m_Localized": "솔로 레이드에서 9810811510911663과 맞서 싸운 증명.\r\n다른 세계에서 온 이들과 함께했던 여행을 추억하며,\r\n다시 이러한 슬픈 일이 일어나지 않길 기도하였습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218033274730864659,
+      "m_Localized": "솔로 레이드에서 모더니아와 맞서 싸운 증명.\r\n되돌릴 수 없다는 사실 따위는 중요하지 않습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218033274730864660,
+      "m_Localized": "솔로 레이드에서 모더니아와 맞서 싸운 증명.\r\n힘겹게 되찾은 것을 다시 돌려줘야 할 때, 힘을 키우기로 결심했습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 218033274730864661,
+      "m_Localized": "솔로 레이드에서 모더니아와 맞서 싸운 증명.\r\n언젠가, 먼 훗날 언젠가 아무 걱정 없이 함께 지낼 수 있는 날이 오기를.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 228906882395037719,
+      "m_Localized": "솔로 레이드에서 울트라와 맞서 싸운 증명.\r\n약한 몸을 보호하기 위해 두른 두꺼운 장갑을 모두 벗겨냈습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 228906882395037720,
+      "m_Localized": "솔로 레이드에서 울트라와 맞서 싸운 증명.\r\n그 거체가 날아오르는 일 같은 건, 다시 일어나지 않을 일이 되겠죠.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 228906882395037721,
+      "m_Localized": "솔로 레이드에서 울트라와 맞서 싸운 증명.\r\n그렇게나 강대해 보였던 적이 어느 순간, 위협이 되지 않는다고 느껴질 때 성장했음을 느낍니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 195564421575806991,
+      "m_Localized": "지상을 떠도는 어느 검객을 기리며 제작된 프레임.\r\n그 거침없는 검의 궤적은, 랩쳐 퀸을 베어내는 날까지 결코 멈추지 않을 것입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 195564421575806992,
+      "m_Localized": "늘 행복의 세계를 꿈꾸는 어느 소녀를 위해 만들어진 프레임.\r\n우유도, 동화책도 좋지만 역시 요즘은 토끼 씨의 방문일에 가장 관심이 많다고 합니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 195564421575806993,
+      "m_Localized": "숭고한 사명을 띠고 지상을 떠도는, 어느 성녀에게 헌정된 프레임.\r\n한때는 헤매기도 했지만, 이제는 그 무엇도 그녀의 고결한 의지를 꺾을 수 없습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 195564421575806994,
+      "m_Localized": "탄산수와 지휘관을 사랑하는, 어느 재기 발랄한 소녀를 모델로 만들어진 프레임.\r\n네, 바로 당신과 가장 가까운 곳에 있는 그녀입니다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 195564421575806995,
+      "m_Localized": "자신을 잃었지만, 그럼에도 가장 소중한 것은 잊지 않은 어느 니케를 위해 제작된 프레임.\r\n말이 어눌할 때에도, 당신을 [좋아한다]는 말만은 분명하게 할 수 있었습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": []
+  }
+}

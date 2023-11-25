@@ -1,0 +1,2451 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4826179110787420926
+  },
+  "m_Name": "Locale_Outpost Shared Data",
+  "m_TableCollectionName": "Locale_Outpost",
+  "m_TableCollectionNameGuidString": "9f54cbb888321724faabcbce26cc2e6f",
+  "m_Entries": [
+    {
+      "m_Id": 2456526848,
+      "m_Key": "1000_skin_group",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2456526849,
+      "m_Key": "2000_skin_group",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109250,
+      "m_Key": "1000_10801_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109251,
+      "m_Key": "1000_10802_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109252,
+      "m_Key": "1000_10803_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109253,
+      "m_Key": "1000_10804_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109254,
+      "m_Key": "1000_10805_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109255,
+      "m_Key": "1000_22401_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109256,
+      "m_Key": "1000_22402_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109257,
+      "m_Key": "1000_22403_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109258,
+      "m_Key": "1000_22404_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109259,
+      "m_Key": "1000_22405_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213802659909,
+      "m_Key": "1000_12001_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213802659910,
+      "m_Key": "1000_12002_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213802659911,
+      "m_Key": "1000_12003_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213802659912,
+      "m_Key": "1000_12004_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213802659913,
+      "m_Key": "1000_12005_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109265,
+      "m_Key": "1000_11301_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109266,
+      "m_Key": "1000_11302_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109267,
+      "m_Key": "1000_11303_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109268,
+      "m_Key": "1000_11304_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109269,
+      "m_Key": "1000_11305_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109270,
+      "m_Key": "1000_23201_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109271,
+      "m_Key": "1000_23202_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109272,
+      "m_Key": "1000_23203_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109273,
+      "m_Key": "1000_23204_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109274,
+      "m_Key": "1000_23205_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109275,
+      "m_Key": "1000_23206_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109276,
+      "m_Key": "1000_23207_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109277,
+      "m_Key": "1000_11201_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109278,
+      "m_Key": "1000_11202_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109279,
+      "m_Key": "1000_11203_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109280,
+      "m_Key": "1000_11204_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109281,
+      "m_Key": "1000_11205_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109282,
+      "m_Key": "1000_11901_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109283,
+      "m_Key": "1000_11902_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109284,
+      "m_Key": "1000_11903_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109285,
+      "m_Key": "1000_11904_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109286,
+      "m_Key": "1000_11905_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109287,
+      "m_Key": "1000_12301_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109288,
+      "m_Key": "1000_12302_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109289,
+      "m_Key": "1000_12303_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109290,
+      "m_Key": "1000_12304_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109291,
+      "m_Key": "1000_12305_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109292,
+      "m_Key": "1000_10201_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109293,
+      "m_Key": "1000_10202_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109294,
+      "m_Key": "1000_10203_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109295,
+      "m_Key": "1000_10204_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109296,
+      "m_Key": "1000_10205_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109801,
+      "m_Key": "1000_11001_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109802,
+      "m_Key": "1000_11002_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109803,
+      "m_Key": "1000_11003_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109804,
+      "m_Key": "1000_11004_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109805,
+      "m_Key": "1000_11005_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109302,
+      "m_Key": "1000_10301_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109303,
+      "m_Key": "1000_10302_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109304,
+      "m_Key": "1000_10303_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109305,
+      "m_Key": "1000_10304_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109306,
+      "m_Key": "1000_10305_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114669109307,
+      "m_Key": "1000_10101_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303552,
+      "m_Key": "1000_10102_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303553,
+      "m_Key": "1000_10103_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303554,
+      "m_Key": "1000_10104_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303555,
+      "m_Key": "1000_10105_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303556,
+      "m_Key": "1000_10701_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303557,
+      "m_Key": "1000_10702_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303558,
+      "m_Key": "1000_10703_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303559,
+      "m_Key": "1000_10704_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303560,
+      "m_Key": "1000_10705_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303561,
+      "m_Key": "1000_10601_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303562,
+      "m_Key": "1000_10602_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303563,
+      "m_Key": "1000_10603_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303564,
+      "m_Key": "1000_10604_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303565,
+      "m_Key": "1000_10605_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303566,
+      "m_Key": "1000_23101_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303567,
+      "m_Key": "1000_23102_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303568,
+      "m_Key": "1000_23103_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303569,
+      "m_Key": "1000_23104_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303570,
+      "m_Key": "1000_23105_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303571,
+      "m_Key": "1000_22700_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303572,
+      "m_Key": "1000_22701_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303573,
+      "m_Key": "1000_22702_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303574,
+      "m_Key": "1000_22703_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303575,
+      "m_Key": "1000_22704_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303576,
+      "m_Key": "1000_22705_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303577,
+      "m_Key": "1000_22800_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303578,
+      "m_Key": "1000_22801_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303579,
+      "m_Key": "1000_22802_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303580,
+      "m_Key": "1000_22803_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303581,
+      "m_Key": "1000_22804_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303582,
+      "m_Key": "1000_22805_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303583,
+      "m_Key": "1000_22900_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303584,
+      "m_Key": "1000_22901_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303585,
+      "m_Key": "1000_22902_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303586,
+      "m_Key": "1000_22903_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303587,
+      "m_Key": "1000_22904_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303588,
+      "m_Key": "1000_22905_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303589,
+      "m_Key": "1000_23001_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208289,
+      "m_Key": "1000_10401_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208290,
+      "m_Key": "1000_10402_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208291,
+      "m_Key": "1000_10403_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208292,
+      "m_Key": "1000_10404_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208293,
+      "m_Key": "1000_10405_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208294,
+      "m_Key": "1000_10501_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208295,
+      "m_Key": "1000_10502_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208296,
+      "m_Key": "1000_10503_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208297,
+      "m_Key": "1000_10504_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208298,
+      "m_Key": "1000_10505_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208299,
+      "m_Key": "1000_10901_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208300,
+      "m_Key": "1000_10902_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208301,
+      "m_Key": "1000_10903_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208302,
+      "m_Key": "1000_10904_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208303,
+      "m_Key": "1000_10905_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208304,
+      "m_Key": "1000_11101_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208305,
+      "m_Key": "1000_11102_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208306,
+      "m_Key": "1000_11103_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208307,
+      "m_Key": "1000_11104_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208308,
+      "m_Key": "1000_11105_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208309,
+      "m_Key": "1000_11401_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208310,
+      "m_Key": "1000_11402_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208311,
+      "m_Key": "1000_11403_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208312,
+      "m_Key": "1000_11404_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208313,
+      "m_Key": "1000_11405_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208314,
+      "m_Key": "1000_11501_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208315,
+      "m_Key": "1000_11502_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208316,
+      "m_Key": "1000_11503_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208317,
+      "m_Key": "1000_11504_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208318,
+      "m_Key": "1000_11505_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208319,
+      "m_Key": "1000_11601_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208320,
+      "m_Key": "1000_11602_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208321,
+      "m_Key": "1000_11603_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208322,
+      "m_Key": "1000_11604_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208323,
+      "m_Key": "1000_11605_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208324,
+      "m_Key": "1000_11701_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208325,
+      "m_Key": "1000_11702_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208326,
+      "m_Key": "1000_11703_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208327,
+      "m_Key": "1000_11704_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366899208328,
+      "m_Key": "1000_11705_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402496,
+      "m_Key": "1000_11801_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402497,
+      "m_Key": "1000_11802_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402498,
+      "m_Key": "1000_11803_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402499,
+      "m_Key": "1000_11804_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402500,
+      "m_Key": "1000_11805_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402501,
+      "m_Key": "1000_12101_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402502,
+      "m_Key": "1000_12102_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402503,
+      "m_Key": "1000_12103_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402504,
+      "m_Key": "1000_12104_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402505,
+      "m_Key": "1000_12105_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402506,
+      "m_Key": "1000_12201_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402507,
+      "m_Key": "1000_12202_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402508,
+      "m_Key": "1000_12203_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402509,
+      "m_Key": "1000_12204_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366903402510,
+      "m_Key": "1000_12205_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8596431914705006,
+      "m_Key": "1000_23301_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8596431914705007,
+      "m_Key": "1000_23401_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8596431914705008,
+      "m_Key": "1000_23501_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109806,
+      "m_Key": "2000_101_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109807,
+      "m_Key": "2000_102_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109808,
+      "m_Key": "2000_103_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109809,
+      "m_Key": "2000_104_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109810,
+      "m_Key": "2000_105_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109811,
+      "m_Key": "2000_201_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109812,
+      "m_Key": "2000_202_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109813,
+      "m_Key": "2000_203_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109814,
+      "m_Key": "2000_204_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109815,
+      "m_Key": "2000_205_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109816,
+      "m_Key": "2000_301_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109817,
+      "m_Key": "2000_302_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109818,
+      "m_Key": "2000_303_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109819,
+      "m_Key": "2000_304_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109820,
+      "m_Key": "2000_305_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109821,
+      "m_Key": "2000_401_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109822,
+      "m_Key": "2000_402_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109823,
+      "m_Key": "2000_403_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109824,
+      "m_Key": "2000_404_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109825,
+      "m_Key": "2000_405_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109826,
+      "m_Key": "2000_501_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109827,
+      "m_Key": "2000_502_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109828,
+      "m_Key": "2000_503_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109829,
+      "m_Key": "2000_504_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109830,
+      "m_Key": "2000_505_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2469109831,
+      "m_Key": "2000_506_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304064,
+      "m_Key": "2000_507_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304065,
+      "m_Key": "2000_601_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304066,
+      "m_Key": "2000_602_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304067,
+      "m_Key": "2000_603_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304068,
+      "m_Key": "2000_604_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304069,
+      "m_Key": "2000_605_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304070,
+      "m_Key": "2000_701_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304071,
+      "m_Key": "2000_702_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304072,
+      "m_Key": "2000_703_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304073,
+      "m_Key": "2000_704_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304074,
+      "m_Key": "2000_705_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304075,
+      "m_Key": "2000_801_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304076,
+      "m_Key": "2000_802_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304077,
+      "m_Key": "2000_803_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304078,
+      "m_Key": "2000_804_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304079,
+      "m_Key": "2000_805_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304080,
+      "m_Key": "2000_901_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304081,
+      "m_Key": "2000_902_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304082,
+      "m_Key": "2000_903_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304083,
+      "m_Key": "2000_904_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304084,
+      "m_Key": "2000_905_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304085,
+      "m_Key": "2000_1001_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304086,
+      "m_Key": "2000_1002_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304087,
+      "m_Key": "2000_1003_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304088,
+      "m_Key": "2000_1004_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304089,
+      "m_Key": "2000_1005_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304090,
+      "m_Key": "2000_9001_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304091,
+      "m_Key": "2000_9002_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304092,
+      "m_Key": "2000_9003_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304093,
+      "m_Key": "2000_9004_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304094,
+      "m_Key": "2000_9005_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304095,
+      "m_Key": "2000_10001_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304096,
+      "m_Key": "2000_10002_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304097,
+      "m_Key": "2000_10003_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304098,
+      "m_Key": "2000_10004_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304099,
+      "m_Key": "2000_10005_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304100,
+      "m_Key": "2000_11001_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304101,
+      "m_Key": "2000_11002_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304102,
+      "m_Key": "2000_11003_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304103,
+      "m_Key": "2000_11004_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304104,
+      "m_Key": "2000_11005_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854145,
+      "m_Key": "2000_12001_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854146,
+      "m_Key": "2000_12002_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854147,
+      "m_Key": "2000_12003_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854148,
+      "m_Key": "2000_12004_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854149,
+      "m_Key": "2000_12005_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303662,
+      "m_Key": "1000_10800_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303663,
+      "m_Key": "1000_22400_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854164,
+      "m_Key": "1000_12000_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303665,
+      "m_Key": "1000_11300_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303666,
+      "m_Key": "1000_23200_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303667,
+      "m_Key": "1000_11200_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303668,
+      "m_Key": "1000_11900_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303669,
+      "m_Key": "1000_12300_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303670,
+      "m_Key": "1000_10200_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304118,
+      "m_Key": "1000_11000_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303672,
+      "m_Key": "1000_10300_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303673,
+      "m_Key": "1000_10100_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303674,
+      "m_Key": "1000_10700_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303675,
+      "m_Key": "1000_10600_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303676,
+      "m_Key": "1000_23100_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303677,
+      "m_Key": "1000_22700_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303678,
+      "m_Key": "1000_22800_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303679,
+      "m_Key": "1000_22900_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 29294114673303680,
+      "m_Key": "1000_23000_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596819,
+      "m_Key": "1000_10400_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596820,
+      "m_Key": "1000_10500_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596821,
+      "m_Key": "1000_10900_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596822,
+      "m_Key": "1000_11100_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596823,
+      "m_Key": "1000_11400_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596824,
+      "m_Key": "1000_11500_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596825,
+      "m_Key": "1000_11600_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596826,
+      "m_Key": "1000_11700_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596827,
+      "m_Key": "1000_11800_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596828,
+      "m_Key": "1000_12100_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 3184366907596829,
+      "m_Key": "1000_12200_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8596431923093534,
+      "m_Key": "1000_23300_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8596431923093535,
+      "m_Key": "1000_23400_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8596431923093536,
+      "m_Key": "1000_23500_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144765656667824144,
+      "m_Key": "1000_33600_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304119,
+      "m_Key": "2000_100_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304120,
+      "m_Key": "2000_200_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304121,
+      "m_Key": "2000_300_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304122,
+      "m_Key": "2000_400_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304123,
+      "m_Key": "2000_500_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304124,
+      "m_Key": "2000_600_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304125,
+      "m_Key": "2000_700_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304126,
+      "m_Key": "2000_800_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304127,
+      "m_Key": "2000_900_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304128,
+      "m_Key": "2000_1000_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304129,
+      "m_Key": "2000_9000_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304130,
+      "m_Key": "2000_10000_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304132,
+      "m_Key": "2000_11000_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854179,
+      "m_Key": "2000_12000_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304133,
+      "m_Key": "outpost_function_title_outpostbattle",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304134,
+      "m_Key": "outpost_function_title_unlockslot",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304135,
+      "m_Key": "outpost_function_title_stamina",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304136,
+      "m_Key": "outpost_function_title_dispatch",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304137,
+      "m_Key": "outpost_function_title_elevator",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304138,
+      "m_Key": "outpost_function_title_synchro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304139,
+      "m_Key": "outpost_function_title_recycle",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 14847213806854187,
+      "m_Key": "outpost_function_title_tactic",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64371302908862513,
+      "m_Key": "outpost_function_title_academy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304140,
+      "m_Key": "outpost_function_description_credit",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304141,
+      "m_Key": "outpost_function_description_charexp1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304142,
+      "m_Key": "outpost_function_description_unlockslot",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304143,
+      "m_Key": "outpost_function_description_stamina",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304144,
+      "m_Key": "outpost_function_description_dispatch1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304145,
+      "m_Key": "outpost_function_description_dispatch2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304146,
+      "m_Key": "outpost_function_description_dispatch3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304147,
+      "m_Key": "outpost_function_description_dispatch4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304148,
+      "m_Key": "outpost_function_description_dispatch5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304149,
+      "m_Key": "outpost_function_description_elevator1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304150,
+      "m_Key": "outpost_function_description_elevator2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304151,
+      "m_Key": "outpost_function_description_elevator3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304152,
+      "m_Key": "outpost_function_description_elevator4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304153,
+      "m_Key": "outpost_function_description_elevator5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304154,
+      "m_Key": "outpost_function_description_synchro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304155,
+      "m_Key": "outpost_function_description_recycle",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19856313913483315,
+      "m_Key": "outpost_function_description_tactic1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19856313913483316,
+      "m_Key": "outpost_function_description_tactic2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19856313913483317,
+      "m_Key": "outpost_function_description_tactic3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19856313913483318,
+      "m_Key": "outpost_function_description_tactic4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 19856313913483319,
+      "m_Key": "outpost_function_description_tactic5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 64371302908862535,
+      "m_Key": "academy_function_description_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304156,
+      "m_Key": "100_building_type",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304157,
+      "m_Key": "200_building_type",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304158,
+      "m_Key": "300_building_type",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2473304159,
+      "m_Key": "400_building_type",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784354,
+      "m_Key": "outpost_building_name_armory",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784355,
+      "m_Key": "outpost_building_name_commandcenter",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784356,
+      "m_Key": "outpost_building_name_radiotower",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784357,
+      "m_Key": "outpost_building_name_caffe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784358,
+      "m_Key": "outpost_building_name_dispatchboard",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784359,
+      "m_Key": "outpost_building_name_hospital",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784360,
+      "m_Key": "outpost_building_name_shoppingmall",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784361,
+      "m_Key": "outpost_building_name_gym",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784362,
+      "m_Key": "outpost_building_name_policestation",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784363,
+      "m_Key": "outpost_building_name_modernbar",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784364,
+      "m_Key": "outpost_building_name_elevator",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784365,
+      "m_Key": "outpost_building_name_synchrodevice",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784366,
+      "m_Key": "outpost_building_name_recycleroom",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784367,
+      "m_Key": "outpost_building_name_academy",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784368,
+      "m_Key": "outpost_building_name_infracore",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784369,
+      "m_Key": "outpost_building_name_observationpost",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784370,
+      "m_Key": "outpost_building_name_hotel",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784371,
+      "m_Key": "outpost_building_name_maidcaffe",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784372,
+      "m_Key": "outpost_building_name_toyshop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784373,
+      "m_Key": "outpost_building_name_trainstation",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784374,
+      "m_Key": "outpost_building_name_workshop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784375,
+      "m_Key": "outpost_building_name_powerplant",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784376,
+      "m_Key": "outpost_building_name_library",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784377,
+      "m_Key": "outpost_building_name_theater",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784378,
+      "m_Key": "outpost_building_name_mysteryclub",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784379,
+      "m_Key": "outpost_building_name_court",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784380,
+      "m_Key": "outpost_building_name_church",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784381,
+      "m_Key": "outpost_building_name_clothesstore",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784382,
+      "m_Key": "outpost_building_name_goddessofvictory",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784383,
+      "m_Key": "outpost_building_name_wingofvictory",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784384,
+      "m_Key": "outpost_building_name_amusementpark",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784385,
+      "m_Key": "outpost_building_name_outdoorpool",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 7285684626784386,
+      "m_Key": "outpost_building_name_flowerpark",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 144765656676212772,
+      "m_Key": "outpost_building_name_event_building_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_KeyGenerator": {
+    "rid": 0
+  },
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 0,
+        "type": {
+          "class": "DistributedUIDGenerator",
+          "ns": "UnityEngine.Localization.Tables",
+          "asm": "Unity.Localization"
+        },
+        "data": {}
+      }
+    ]
+  }
+}

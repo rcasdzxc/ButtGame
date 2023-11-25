@@ -1,0 +1,5677 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2766267126516050984
+  },
+  "m_Name": "Locale_MainQuest_ko",
+  "m_LocaleId": {
+    "m_Code": "ko"
+  },
+  "m_SharedData": {
+    "m_FileID": 1,
+    "m_PathID": -6734933585102647431
+  },
+  "m_Metadata": {
+    "m_Items": []
+  },
+  "m_TableData": [
+    {
+      "m_Id": 2448138240,
+      "m_Localized": "법원",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138241,
+      "m_Localized": "부사령관실",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631681,
+      "m_Localized": "데이터 센터",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886885445634,
+      "m_Localized": "중앙 정부 사령부",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886885445635,
+      "m_Localized": "M.M.R.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886885445636,
+      "m_Localized": "미실리스 본사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886885445637,
+      "m_Localized": "병원",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886885445638,
+      "m_Localized": "에닉의 방",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886885445639,
+      "m_Localized": "아우터 림",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973521747974,
+      "m_Localized": "시내",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973521747975,
+      "m_Localized": "브리핑 룸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138242,
+      "m_Localized": "[0-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138243,
+      "m_Localized": "[0-2] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138244,
+      "m_Localized": "[0-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138245,
+      "m_Localized": "[1-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138246,
+      "m_Localized": "[1-2] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138247,
+      "m_Localized": "[1-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138248,
+      "m_Localized": "[1-4] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138249,
+      "m_Localized": "[방주]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138250,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138251,
+      "m_Localized": "[방주]의 [시뮬레이션 룸]으로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138252,
+      "m_Localized": "[로비]로 복귀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138253,
+      "m_Localized": "지상으로 [출격]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138254,
+      "m_Localized": "[2-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138255,
+      "m_Localized": "[2-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138256,
+      "m_Localized": "[2-5] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138257,
+      "m_Localized": "[2-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138258,
+      "m_Localized": "[2-8] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138259,
+      "m_Localized": "[2-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138260,
+      "m_Localized": "[2-11] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138261,
+      "m_Localized": "[2-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138262,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138263,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138264,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138265,
+      "m_Localized": "[커맨드 센터]로 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138266,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138267,
+      "m_Localized": "[3-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138268,
+      "m_Localized": "[3-5] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138269,
+      "m_Localized": "[3-8] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138270,
+      "m_Localized": "[3-11] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138271,
+      "m_Localized": "[3-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138272,
+      "m_Localized": "[3-14] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138273,
+      "m_Localized": "[3-16] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138274,
+      "m_Localized": "[4-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138275,
+      "m_Localized": "[4-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138276,
+      "m_Localized": "[4-4] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138277,
+      "m_Localized": "[4-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138278,
+      "m_Localized": "[4-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138279,
+      "m_Localized": "[4-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138280,
+      "m_Localized": "[4-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138281,
+      "m_Localized": "[4-16] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138282,
+      "m_Localized": "[4-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138283,
+      "m_Localized": "[방주]의 [법원]으로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138284,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138285,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138286,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138287,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138288,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138289,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138290,
+      "m_Localized": "지상으로 [출격]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138291,
+      "m_Localized": "[5-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138292,
+      "m_Localized": "[5-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138293,
+      "m_Localized": "[5-4] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138294,
+      "m_Localized": "[5-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019511,
+      "m_Localized": "[5-7] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019512,
+      "m_Localized": "[5-10] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019513,
+      "m_Localized": "[5-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019514,
+      "m_Localized": "[5-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019515,
+      "m_Localized": "[5-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019516,
+      "m_Localized": "[5-19] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019517,
+      "m_Localized": "[5-20] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019518,
+      "m_Localized": "[6-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019519,
+      "m_Localized": "[6-4] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019520,
+      "m_Localized": "[6-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019521,
+      "m_Localized": "[6-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019522,
+      "m_Localized": "[6-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019523,
+      "m_Localized": "[6-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019524,
+      "m_Localized": "[6-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019525,
+      "m_Localized": "[6-24] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019526,
+      "m_Localized": "[7-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019527,
+      "m_Localized": "[7-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019528,
+      "m_Localized": "[7-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019529,
+      "m_Localized": "[7-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019530,
+      "m_Localized": "[7-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18950208765865986,
+      "m_Localized": "[7-24] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18950208765865987,
+      "m_Localized": "[로비]로 복귀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18950208765865988,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18950208765865989,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8970203679993902,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631760,
+      "m_Localized": "[방주]의 [데이터 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631761,
+      "m_Localized": "[8-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631762,
+      "m_Localized": "[8-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631763,
+      "m_Localized": "[8-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631764,
+      "m_Localized": "[8-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631765,
+      "m_Localized": "[8-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631766,
+      "m_Localized": "[8-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631767,
+      "m_Localized": "[8-27] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631768,
+      "m_Localized": "[9-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631769,
+      "m_Localized": "[9-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631770,
+      "m_Localized": "[9-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631771,
+      "m_Localized": "[9-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631772,
+      "m_Localized": "[9-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631773,
+      "m_Localized": "[9-27] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631774,
+      "m_Localized": "[로비]로 복귀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631775,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631776,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631777,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631778,
+      "m_Localized": "[방주]의 [데이터 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631779,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631780,
+      "m_Localized": "[10-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631781,
+      "m_Localized": "[10-4] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631782,
+      "m_Localized": "[10-10] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631783,
+      "m_Localized": "[10-16] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631784,
+      "m_Localized": "[10-19] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631785,
+      "m_Localized": "[10-25] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631786,
+      "m_Localized": "[11-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631787,
+      "m_Localized": "[11-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631788,
+      "m_Localized": "[11-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631789,
+      "m_Localized": "[11-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631790,
+      "m_Localized": "[11-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631791,
+      "m_Localized": "[11-27] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631792,
+      "m_Localized": "[12-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631793,
+      "m_Localized": "[12-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631794,
+      "m_Localized": "[12-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631795,
+      "m_Localized": "[12-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631796,
+      "m_Localized": "[12-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631797,
+      "m_Localized": "[12-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136994631798,
+      "m_Localized": "[12-24] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639977,
+      "m_Localized": "[방주]의 [중앙 정부 사령부]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639978,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639979,
+      "m_Localized": "[방주]의 [M.M.R.]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639980,
+      "m_Localized": "[방주]의 [중앙 정부 사령부]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639981,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639982,
+      "m_Localized": "[13-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639983,
+      "m_Localized": "[13-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639984,
+      "m_Localized": "[13-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639985,
+      "m_Localized": "[13-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639986,
+      "m_Localized": "[13-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639987,
+      "m_Localized": "[13-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639988,
+      "m_Localized": "[13-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639989,
+      "m_Localized": "[13-24] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639990,
+      "m_Localized": "[방주]의 [병원]으로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639991,
+      "m_Localized": "[방주]의 [M.M.R.]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639992,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639993,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639994,
+      "m_Localized": "[커맨드 센터]로 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639995,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639996,
+      "m_Localized": "[엘리베이터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639997,
+      "m_Localized": "[14-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639998,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889639999,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640000,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640001,
+      "m_Localized": "[14-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640002,
+      "m_Localized": "[14-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640003,
+      "m_Localized": "[14-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640004,
+      "m_Localized": "[14-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640005,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640006,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640007,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640008,
+      "m_Localized": "[커맨드 센터]로 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640009,
+      "m_Localized": "[14-24] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640010,
+      "m_Localized": "[14-30] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640011,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640012,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640013,
+      "m_Localized": "[방주]의 [에닉의 방]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640014,
+      "m_Localized": "[방주]의 [M.M.R.]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640015,
+      "m_Localized": "[15-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640016,
+      "m_Localized": "[15-4] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640017,
+      "m_Localized": "[15-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640018,
+      "m_Localized": "[15-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640019,
+      "m_Localized": "[15-24] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640020,
+      "m_Localized": "[15-27] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640021,
+      "m_Localized": "[15-30] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640022,
+      "m_Localized": "[방주]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640023,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640024,
+      "m_Localized": "[커맨드 센터]로 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640025,
+      "m_Localized": "[방주]의 [미실리스 본사]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640026,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640027,
+      "m_Localized": "지상으로 [출격]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640028,
+      "m_Localized": "[16-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640029,
+      "m_Localized": "[16-2] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640030,
+      "m_Localized": "[16-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640031,
+      "m_Localized": "[16-7] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640032,
+      "m_Localized": "[16-11] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640033,
+      "m_Localized": "[16-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640034,
+      "m_Localized": "[16-14] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640035,
+      "m_Localized": "[16-17] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640036,
+      "m_Localized": "[16-19] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640037,
+      "m_Localized": "[16-20] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640038,
+      "m_Localized": "[16-22] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640039,
+      "m_Localized": "[16-25] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640040,
+      "m_Localized": "[16-28] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640041,
+      "m_Localized": "[방주]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640042,
+      "m_Localized": "[방주]의 [미실리스 본사]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84689886889640043,
+      "m_Localized": "[방주]의 [아우터 림]으로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667095,
+      "m_Localized": "[17-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667096,
+      "m_Localized": "[17-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667097,
+      "m_Localized": "[17-7] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667098,
+      "m_Localized": "[17-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667099,
+      "m_Localized": "[17-13] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667100,
+      "m_Localized": "[17-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667101,
+      "m_Localized": "[17-19] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667102,
+      "m_Localized": "[17-24] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667103,
+      "m_Localized": "[17-27] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667104,
+      "m_Localized": "[17-28] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667105,
+      "m_Localized": "[17-30] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667106,
+      "m_Localized": "[17-33] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667107,
+      "m_Localized": "[방주]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667108,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667109,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667110,
+      "m_Localized": "[방주]의 [미실리스 본사]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667111,
+      "m_Localized": "[18-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667112,
+      "m_Localized": "[18-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667113,
+      "m_Localized": "[18-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667114,
+      "m_Localized": "[18-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667115,
+      "m_Localized": "[18-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667116,
+      "m_Localized": "[18-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667117,
+      "m_Localized": "[18-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667118,
+      "m_Localized": "[18-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667119,
+      "m_Localized": "[18-24] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667120,
+      "m_Localized": "[18-30] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667121,
+      "m_Localized": "[18-31] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667122,
+      "m_Localized": "[18-33] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667123,
+      "m_Localized": "[방주]의 [중앙 정부 사령부]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667124,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667125,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667126,
+      "m_Localized": "[로비]로 복귀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667127,
+      "m_Localized": "[커맨드 센터]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787393667128,
+      "m_Localized": "지상으로 [출격]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889709064289,
+      "m_Localized": "[19-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889709064290,
+      "m_Localized": "[19-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889709064291,
+      "m_Localized": "[19-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889709064292,
+      "m_Localized": "[19-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889709064293,
+      "m_Localized": "[19-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889709064294,
+      "m_Localized": "[19-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258496,
+      "m_Localized": "[19-27] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258497,
+      "m_Localized": "[19-30] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258498,
+      "m_Localized": "[로비]로 복귀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258499,
+      "m_Localized": "지상으로 [출격]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258500,
+      "m_Localized": "[20-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258501,
+      "m_Localized": "[20-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258502,
+      "m_Localized": "[20-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258503,
+      "m_Localized": "[20-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258504,
+      "m_Localized": "[20-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258505,
+      "m_Localized": "[20-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258506,
+      "m_Localized": "[20-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258507,
+      "m_Localized": "[20-25] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258508,
+      "m_Localized": "[20-28] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258509,
+      "m_Localized": "[20-31] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258510,
+      "m_Localized": "[로비]로 복귀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889713258511,
+      "m_Localized": "지상으로 [출격]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103586,
+      "m_Localized": "[21-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103587,
+      "m_Localized": "[21-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103588,
+      "m_Localized": "[21-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103589,
+      "m_Localized": "[21-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103590,
+      "m_Localized": "[21-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103591,
+      "m_Localized": "[21-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103592,
+      "m_Localized": "[21-24] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103593,
+      "m_Localized": "[21-27] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103594,
+      "m_Localized": "[21-29] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103595,
+      "m_Localized": "[21-32] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103596,
+      "m_Localized": "[로비]로 복귀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103597,
+      "m_Localized": "[전초기지]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103598,
+      "m_Localized": "[출격]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103599,
+      "m_Localized": "[22-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103600,
+      "m_Localized": "[22-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103601,
+      "m_Localized": "[22-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103602,
+      "m_Localized": "[22-9] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103603,
+      "m_Localized": "[22-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103604,
+      "m_Localized": "[22-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103605,
+      "m_Localized": "[22-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103606,
+      "m_Localized": "[22-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103607,
+      "m_Localized": "[22-24] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103608,
+      "m_Localized": "[22-27] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103609,
+      "m_Localized": "[22-30] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103610,
+      "m_Localized": "[22-33] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515838103611,
+      "m_Localized": "[22-36] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108132,
+      "m_Localized": "[23-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108133,
+      "m_Localized": "[23-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108134,
+      "m_Localized": "[23-11] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108135,
+      "m_Localized": "[23-14] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108136,
+      "m_Localized": "[23-16] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108137,
+      "m_Localized": "[23-19] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108138,
+      "m_Localized": "[23-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108139,
+      "m_Localized": "[23-23] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108140,
+      "m_Localized": "[23-26] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108141,
+      "m_Localized": "[23-31] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108142,
+      "m_Localized": "[23-34] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108143,
+      "m_Localized": "[방주]의 [시내]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108144,
+      "m_Localized": "[방주]의 [브리핑 룸]으로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108145,
+      "m_Localized": "[24-1] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108146,
+      "m_Localized": "[24-4] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973551108147,
+      "m_Localized": "[24-7] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302400,
+      "m_Localized": "[24-13] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302401,
+      "m_Localized": "[24-16] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302402,
+      "m_Localized": "[24-19] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302403,
+      "m_Localized": "[24-22] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302404,
+      "m_Localized": "[24-24] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302405,
+      "m_Localized": "[24-26] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302406,
+      "m_Localized": "[24-27] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302407,
+      "m_Localized": "[24-30] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302408,
+      "m_Localized": "[24-34] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302409,
+      "m_Localized": "[24-37] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302410,
+      "m_Localized": "[24-38] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302411,
+      "m_Localized": "[방주]의 [에닉의 방]으로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302412,
+      "m_Localized": "[방주]의 [법원]으로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973555302413,
+      "m_Localized": "[로비]로 복귀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448613,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448614,
+      "m_Localized": "[로비]로 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448615,
+      "m_Localized": "지상으로 [출격]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448616,
+      "m_Localized": "[25-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448617,
+      "m_Localized": "[25-6] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448618,
+      "m_Localized": "[25-12] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448619,
+      "m_Localized": "[25-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448620,
+      "m_Localized": "[25-18] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448621,
+      "m_Localized": "[25-21] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448622,
+      "m_Localized": "[25-27] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448623,
+      "m_Localized": "[25-36] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448624,
+      "m_Localized": "[26-3] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448625,
+      "m_Localized": "[26-8] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448626,
+      "m_Localized": "[26-15] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448627,
+      "m_Localized": "[26-17] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448628,
+      "m_Localized": "[26-20] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448629,
+      "m_Localized": "[26-25] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448630,
+      "m_Localized": "[26-31] 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448631,
+      "m_Localized": "[로비]로 복귀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448632,
+      "m_Localized": "[방주]의 [중앙 정부 사령부]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291559448633,
+      "m_Localized": "[방주]의 [부사령관실]로 이동",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291563642880,
+      "m_Localized": "지상으로 [출격]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291563642881,
+      "m_Localized": "26-34 클리어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019531,
+      "m_Localized": "To Be Next Time",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138295,
+      "m_Localized": "첫 번째 접촉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452080537681,
+      "m_Localized": "첫 번째 접촉 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452080537682,
+      "m_Localized": "첫 번째 접촉 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138296,
+      "m_Localized": "열사의 두 사람",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138297,
+      "m_Localized": "합류",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452080537685,
+      "m_Localized": "합류 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452080537686,
+      "m_Localized": "합류 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138298,
+      "m_Localized": "작은 갈등",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452080537688,
+      "m_Localized": "작은 갈등 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452080537689,
+      "m_Localized": "작은 갈등 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138299,
+      "m_Localized": "시프티",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138300,
+      "m_Localized": "붕대",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452080537692,
+      "m_Localized": "붕대 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452080537693,
+      "m_Localized": "붕대 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138301,
+      "m_Localized": "붉은 눈",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452080537695,
+      "m_Localized": "붉은 눈 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452080537696,
+      "m_Localized": "붉은 눈 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138302,
+      "m_Localized": "방주로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138303,
+      "m_Localized": "부사령관",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138304,
+      "m_Localized": "그녀의 공간",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138305,
+      "m_Localized": "테스트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138306,
+      "m_Localized": "지상으로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138307,
+      "m_Localized": "발전소 조사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138308,
+      "m_Localized": "단독 사용 금지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138309,
+      "m_Localized": "제어 센터",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138310,
+      "m_Localized": "화력 만세",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138311,
+      "m_Localized": "발전소 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138312,
+      "m_Localized": "배수로 진입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138313,
+      "m_Localized": "어둡고 축축하고 냄새나는",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138314,
+      "m_Localized": "떨어지다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731906,
+      "m_Localized": "떨어지다 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731907,
+      "m_Localized": "떨어지다 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138315,
+      "m_Localized": "책임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138316,
+      "m_Localized": "전초기지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138317,
+      "m_Localized": "숙소",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138318,
+      "m_Localized": "지휘관실",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138319,
+      "m_Localized": "인간과 괴물",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138320,
+      "m_Localized": "비밀 작전",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138321,
+      "m_Localized": "좋아하는 것",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138322,
+      "m_Localized": "코드네임 토커티브",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138323,
+      "m_Localized": "상",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138324,
+      "m_Localized": "기습",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138325,
+      "m_Localized": "감각의 지배자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138326,
+      "m_Localized": "끊어진 흔적",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138327,
+      "m_Localized": "일그러진 톱니바퀴",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138328,
+      "m_Localized": "따뜻한 손",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138329,
+      "m_Localized": "짧은 유대",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731923,
+      "m_Localized": "짧은 유대 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731924,
+      "m_Localized": "짧은 유대 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138330,
+      "m_Localized": "수다쟁이",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731926,
+      "m_Localized": "수다쟁이 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731927,
+      "m_Localized": "수다쟁이 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138331,
+      "m_Localized": "상처 입은 이들",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138332,
+      "m_Localized": "미지의 존재들",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138333,
+      "m_Localized": "존재의 의의",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138334,
+      "m_Localized": "협박",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138335,
+      "m_Localized": "앱솔루트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731933,
+      "m_Localized": "앱솔루트 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731934,
+      "m_Localized": "앱솔루트 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138336,
+      "m_Localized": "판결",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138337,
+      "m_Localized": "인간 흉내",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138338,
+      "m_Localized": "작별 인사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138339,
+      "m_Localized": "헌화",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138340,
+      "m_Localized": "지휘관의 명령",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138341,
+      "m_Localized": "작은 복수",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138342,
+      "m_Localized": "북부로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138343,
+      "m_Localized": "엔--터테인먼트!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138344,
+      "m_Localized": "눈의 대지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138345,
+      "m_Localized": "대체재",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138346,
+      "m_Localized": "눈보라",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 2448138347,
+      "m_Localized": "얼어버린 세계",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731947,
+      "m_Localized": "얼어버린 세계 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731948,
+      "m_Localized": "얼어버린 세계 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019585,
+      "m_Localized": "구출",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019586,
+      "m_Localized": "토끼씨",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019587,
+      "m_Localized": "언리미티드",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019588,
+      "m_Localized": "재회",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731953,
+      "m_Localized": "재회 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731954,
+      "m_Localized": "재회 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019589,
+      "m_Localized": "전설의 무기",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019590,
+      "m_Localized": "연구 기지로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019591,
+      "m_Localized": "거대하고 견고한",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731958,
+      "m_Localized": "거대하고 견고한 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731959,
+      "m_Localized": "거대하고 견고한 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019592,
+      "m_Localized": "춤사위",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019593,
+      "m_Localized": "코드 네임 스노우 화이트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019594,
+      "m_Localized": "따스한 휴식",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019595,
+      "m_Localized": "잠자는 공주들",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019596,
+      "m_Localized": "순례자를 찾아",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019597,
+      "m_Localized": "익숙한 미소",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019598,
+      "m_Localized": "대면",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019599,
+      "m_Localized": "순례자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731968,
+      "m_Localized": "순례자 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731969,
+      "m_Localized": "순례자 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019600,
+      "m_Localized": "추적",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019601,
+      "m_Localized": "수십 년의 방황",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019602,
+      "m_Localized": "배신자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019603,
+      "m_Localized": "원동력",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019604,
+      "m_Localized": "돌아가지 않는 이유",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18950208765866064,
+      "m_Localized": "모더니아",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731976,
+      "m_Localized": "모더니아 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 10066452084731977,
+      "m_Localized": "모더니아 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18950208765866065,
+      "m_Localized": "눈보라가 그치다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18950208765866066,
+      "m_Localized": "세계를 부수지 말아라",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18950208765866067,
+      "m_Localized": "특수별동대",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 8970203688382490,
+      "m_Localized": "해야 할 일",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136998826076,
+      "m_Localized": "데이터 센터로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136998826077,
+      "m_Localized": "스파이가 둘?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136998826078,
+      "m_Localized": "싹트는 의심",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136998826079,
+      "m_Localized": "싸우는 둘",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136998826080,
+      "m_Localized": "비밀 공유",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136998826081,
+      "m_Localized": "방임주의",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136998826082,
+      "m_Localized": "투 오퍼레이터",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136998826083,
+      "m_Localized": "맞잡은 손",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136998826084,
+      "m_Localized": "맞잡은 손 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192136998826085,
+      "m_Localized": "맞잡은 손 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020288,
+      "m_Localized": "교육",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020289,
+      "m_Localized": "언체인드",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020290,
+      "m_Localized": "언체인드 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020291,
+      "m_Localized": "언체인드 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020292,
+      "m_Localized": "해킹 시작",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020293,
+      "m_Localized": "붉은 화면",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020294,
+      "m_Localized": "돌아가는 길은 지뢰밭",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020295,
+      "m_Localized": "돌아가는 길은 지뢰밭 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020296,
+      "m_Localized": "돌아가는 길은 지뢰밭 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020297,
+      "m_Localized": "질 나쁜 장난",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020298,
+      "m_Localized": "질 나쁜 장난 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020299,
+      "m_Localized": "질 나쁜 장난 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020300,
+      "m_Localized": "견제",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020301,
+      "m_Localized": "말할 수 없는 사실",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020302,
+      "m_Localized": "탐정이 오다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020303,
+      "m_Localized": "탐정의 추리",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020304,
+      "m_Localized": "NIMPH",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020305,
+      "m_Localized": "뒷배",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020306,
+      "m_Localized": "연합작전",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020307,
+      "m_Localized": "누가 더 강하지?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020308,
+      "m_Localized": "아니스와 베스티",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020309,
+      "m_Localized": "아니스와 베스티 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020310,
+      "m_Localized": "아니스와 베스티 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020311,
+      "m_Localized": "네온과 엠마",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020312,
+      "m_Localized": "밀린 얘기",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020313,
+      "m_Localized": "소중한 동료",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020314,
+      "m_Localized": "메티스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020315,
+      "m_Localized": "누가 먼저냐",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020316,
+      "m_Localized": "네 잘못이다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020317,
+      "m_Localized": "성능 좋은 장난감",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020318,
+      "m_Localized": "전우",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020319,
+      "m_Localized": "아래로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020320,
+      "m_Localized": "아래로 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020321,
+      "m_Localized": "아래로 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020322,
+      "m_Localized": "최강의 의미",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020323,
+      "m_Localized": "어둠 속의 합류",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020324,
+      "m_Localized": "어둠 속의 합류 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020325,
+      "m_Localized": "어둠 속의 합류 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020326,
+      "m_Localized": "불길한 예감",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020327,
+      "m_Localized": "제자리걸음",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020328,
+      "m_Localized": "괴물의 뱃속",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020329,
+      "m_Localized": "불길함은 확신으로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020330,
+      "m_Localized": "그녀의 의지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020331,
+      "m_Localized": "그녀의 의지 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 53192137003020332,
+      "m_Localized": "그녀의 의지 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025168326773,
+      "m_Localized": "침식되지 않는",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025168326774,
+      "m_Localized": "질투",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025168326775,
+      "m_Localized": "마테리얼 H",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025168326776,
+      "m_Localized": "헬레틱 확보 작전",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025168326777,
+      "m_Localized": "끝을 내기 위해",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025168326778,
+      "m_Localized": "작전 개시",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025168326779,
+      "m_Localized": "때를 기다리며",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025168326780,
+      "m_Localized": "교전 돌입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025168326781,
+      "m_Localized": "기차 난입",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025168326782,
+      "m_Localized": "AZX",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025168326783,
+      "m_Localized": "AZX : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025168326784,
+      "m_Localized": "AZX : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520960,
+      "m_Localized": "섬찟한 재회",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520961,
+      "m_Localized": "섬찟한 재회 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520962,
+      "m_Localized": "섬찟한 재회 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520963,
+      "m_Localized": "승률이 낮은 도박",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520964,
+      "m_Localized": "먼 길을 돌아 다시",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520965,
+      "m_Localized": "먼 길을 돌아 다시 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520966,
+      "m_Localized": "먼 길을 돌아 다시 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520967,
+      "m_Localized": "귀한 피",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520968,
+      "m_Localized": "서명",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520969,
+      "m_Localized": "승리한 작전",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520970,
+      "m_Localized": "지친 몸을 이끌어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520971,
+      "m_Localized": "작은 위로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520972,
+      "m_Localized": "기억하고 있는 것",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520973,
+      "m_Localized": "레드 후드",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520974,
+      "m_Localized": "디스카운트!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520975,
+      "m_Localized": "디스카운트! : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520976,
+      "m_Localized": "디스카운트! : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520977,
+      "m_Localized": "불길한 움직임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520978,
+      "m_Localized": "총성이 울리다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520979,
+      "m_Localized": "트라이앵글",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520980,
+      "m_Localized": "고립",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520981,
+      "m_Localized": "부비트랩",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520982,
+      "m_Localized": "미끼",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520983,
+      "m_Localized": "대치",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520984,
+      "m_Localized": "버닝엄",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520985,
+      "m_Localized": "탐나는 힘",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520986,
+      "m_Localized": "풀어진 정보",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520987,
+      "m_Localized": "선택의 때",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520988,
+      "m_Localized": "새 친구",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520989,
+      "m_Localized": "다시 만나기 위한 여행",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520990,
+      "m_Localized": "일단락",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520991,
+      "m_Localized": "의외의 부름",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520992,
+      "m_Localized": "에닉",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520993,
+      "m_Localized": "잃어버린 탄환은",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520994,
+      "m_Localized": "달란트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520995,
+      "m_Localized": "쇼퍼 홀릭☆",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520996,
+      "m_Localized": "돈 냄새",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520997,
+      "m_Localized": "폭락",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520998,
+      "m_Localized": "위험 투자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172520999,
+      "m_Localized": "샤워실을 원해",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521000,
+      "m_Localized": "잭팟?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521001,
+      "m_Localized": "잭팟? : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521002,
+      "m_Localized": "잭팟? : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521003,
+      "m_Localized": "투자 결과",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521004,
+      "m_Localized": "중대한 발표",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521005,
+      "m_Localized": "도둑맞은 것",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521006,
+      "m_Localized": "독점을 막는 법",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521007,
+      "m_Localized": "제안",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521008,
+      "m_Localized": "악몽의 끝을 위해",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521009,
+      "m_Localized": "이그조틱",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521010,
+      "m_Localized": "테러리스트",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521011,
+      "m_Localized": "무관심의 업보",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521012,
+      "m_Localized": "동료의 정의",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521013,
+      "m_Localized": "감시견",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521014,
+      "m_Localized": "감시견 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521015,
+      "m_Localized": "감시견 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521016,
+      "m_Localized": "아웃로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521017,
+      "m_Localized": "의혹",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521018,
+      "m_Localized": "흔적을 따라",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521019,
+      "m_Localized": "낙인과 편견",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521020,
+      "m_Localized": "낙인과 편견 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521021,
+      "m_Localized": "낙인과 편견 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521022,
+      "m_Localized": "음모론",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521023,
+      "m_Localized": "자유 의지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521024,
+      "m_Localized": "등대",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521025,
+      "m_Localized": "숭고한 정의와 함께",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521026,
+      "m_Localized": "숭고한 정의와 함께 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521027,
+      "m_Localized": "숭고한 정의와 함께 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521028,
+      "m_Localized": "의심받는 영웅",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521029,
+      "m_Localized": "화풀이",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 84365025172521030,
+      "m_Localized": "성대한 불꽃놀이",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055785,
+      "m_Localized": "황금빛 순례자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055786,
+      "m_Localized": "황금빛 순례자 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055787,
+      "m_Localized": "황금빛 순례자 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055788,
+      "m_Localized": "은밀한 비밀",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055789,
+      "m_Localized": "불안한 마음",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055790,
+      "m_Localized": "불안한 마음 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055791,
+      "m_Localized": "불안한 마음 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055792,
+      "m_Localized": "그리움",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055793,
+      "m_Localized": "삭월",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055794,
+      "m_Localized": "삭월 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055795,
+      "m_Localized": "삭월 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055796,
+      "m_Localized": "치명적인 소재",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055797,
+      "m_Localized": "스스로 선택하는 세계",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055798,
+      "m_Localized": "진실",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055799,
+      "m_Localized": "각자의 길",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055800,
+      "m_Localized": "서로의 삶을 존중하며",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055801,
+      "m_Localized": "갓데스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055802,
+      "m_Localized": "지표",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055803,
+      "m_Localized": "시위대",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055804,
+      "m_Localized": "위험한 제안",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055805,
+      "m_Localized": "공평한 대가",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055806,
+      "m_Localized": "멋진 계획",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055807,
+      "m_Localized": "복귀 여행",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055808,
+      "m_Localized": "설렘과 울렁임",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055809,
+      "m_Localized": "니케의 본질",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055810,
+      "m_Localized": "방어벽 연구소",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055811,
+      "m_Localized": "새로운 방어벽",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787402055812,
+      "m_Localized": "부작용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249984,
+      "m_Localized": "히어로가 아니야",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249985,
+      "m_Localized": "히어로가 아니야 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249986,
+      "m_Localized": "히어로가 아니야 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249987,
+      "m_Localized": "지친 걸음",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249988,
+      "m_Localized": "용기의 행방",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249989,
+      "m_Localized": "최고의 빌런",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249990,
+      "m_Localized": "메티스의 방식",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249991,
+      "m_Localized": "히어로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249992,
+      "m_Localized": "히어로 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249993,
+      "m_Localized": "히어로 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249994,
+      "m_Localized": "심판받지 않는 정의",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249995,
+      "m_Localized": "병문안",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249996,
+      "m_Localized": "고립된 사회",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249997,
+      "m_Localized": "심지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249998,
+      "m_Localized": "보급 물자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 96322787406249999,
+      "m_Localized": "유혹",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841428,
+      "m_Localized": "꿀벌을 쫓는 나비",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841429,
+      "m_Localized": "인류를 위한 조각",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841430,
+      "m_Localized": "쉽게 흘러가는",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841431,
+      "m_Localized": "하수구의 탄피",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841432,
+      "m_Localized": "습격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841433,
+      "m_Localized": "낙원의 순례자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841434,
+      "m_Localized": "탄생의 이유",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841435,
+      "m_Localized": "낙원의 시련",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841436,
+      "m_Localized": "낙원의 시련 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841437,
+      "m_Localized": "낙원의 시련 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841438,
+      "m_Localized": "에덴",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841439,
+      "m_Localized": "헬레틱 퇴치 작전",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841440,
+      "m_Localized": "검증된 인재",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841441,
+      "m_Localized": "역할",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841442,
+      "m_Localized": "지휘관의 자격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841443,
+      "m_Localized": "지휘력 시험",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841444,
+      "m_Localized": "방주의 라이징 스타",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841445,
+      "m_Localized": "총알받이",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841446,
+      "m_Localized": "총알받이 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841447,
+      "m_Localized": "총알받이 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841448,
+      "m_Localized": "붉은 용",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841449,
+      "m_Localized": "블랙박스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841450,
+      "m_Localized": "블랙박스 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841451,
+      "m_Localized": "블랙박스 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841452,
+      "m_Localized": "에덴의 긍지",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841453,
+      "m_Localized": "니힐리스타",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841454,
+      "m_Localized": "니힐리스타 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841455,
+      "m_Localized": "니힐리스타 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841456,
+      "m_Localized": "건강검진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 120577889725841457,
+      "m_Localized": "전조",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515867463718,
+      "m_Localized": "하늘의 고래",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515867463719,
+      "m_Localized": "하늘의 고래 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515867463720,
+      "m_Localized": "하늘의 고래 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515867463721,
+      "m_Localized": "샛별이라는 이름",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515867463722,
+      "m_Localized": "샛별이라는 이름 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515867463723,
+      "m_Localized": "샛별이라는 이름 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515867463724,
+      "m_Localized": "처음 만난 동료",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657984,
+      "m_Localized": "처음 만난 동료 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657985,
+      "m_Localized": "처음 만난 동료 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657986,
+      "m_Localized": "비밀과 진실",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657987,
+      "m_Localized": "비밀과 진실 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657988,
+      "m_Localized": "비밀과 진실 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657989,
+      "m_Localized": "정복과 정모",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657990,
+      "m_Localized": "배신의 가치",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657991,
+      "m_Localized": "배신의 가치 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657992,
+      "m_Localized": "배신의 가치 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657993,
+      "m_Localized": "머릿속의 칼날",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657994,
+      "m_Localized": "머릿속의 칼날 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657995,
+      "m_Localized": "머릿속의 칼날 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657996,
+      "m_Localized": "하늘을 쏘다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657997,
+      "m_Localized": "하늘을 쏘다 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657998,
+      "m_Localized": "하늘을 쏘다 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871657999,
+      "m_Localized": "하늘을 달리다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658000,
+      "m_Localized": "하늘을 달리다 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658001,
+      "m_Localized": "하늘을 달리다 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658002,
+      "m_Localized": "나의 힘",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658003,
+      "m_Localized": "나의 힘 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658004,
+      "m_Localized": "나의 힘 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658005,
+      "m_Localized": "낙원의 거래",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658006,
+      "m_Localized": "불길한 예감",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658007,
+      "m_Localized": "일어났어야 할 일",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658008,
+      "m_Localized": "부서진 방주",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658009,
+      "m_Localized": "A.C.P.U.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658010,
+      "m_Localized": "폴리와 미란다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658011,
+      "m_Localized": "폴리와 미란다 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658012,
+      "m_Localized": "폴리와 미란다 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658013,
+      "m_Localized": "방주의 수호자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658014,
+      "m_Localized": "토끼굴의 짐승",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658015,
+      "m_Localized": "토끼굴의 짐승 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658016,
+      "m_Localized": "토끼굴의 짐승 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658017,
+      "m_Localized": "언더월드 퀸",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658018,
+      "m_Localized": "언더월드 퀸 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658019,
+      "m_Localized": "언더월드 퀸 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658020,
+      "m_Localized": "로산나의 일",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658021,
+      "m_Localized": "사쿠라의 일",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658022,
+      "m_Localized": "목단의 일",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658023,
+      "m_Localized": "E.H.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658024,
+      "m_Localized": "암약하는 이들",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658025,
+      "m_Localized": "통로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658026,
+      "m_Localized": "하늘에서 온 것들",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658027,
+      "m_Localized": "하늘에서 온 것들 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 164766515871658028,
+      "m_Localized": "하늘에서 온 것들 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245460,
+      "m_Localized": "싸늘한 재회",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245461,
+      "m_Localized": "싸늘한 재회 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245462,
+      "m_Localized": "싸늘한 재회 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245463,
+      "m_Localized": "진범은 누구인가",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245464,
+      "m_Localized": "진범은 누구인가 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245465,
+      "m_Localized": "진범은 누구인가 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245466,
+      "m_Localized": "벽 너머의 풍경",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245467,
+      "m_Localized": "벽 너머의 풍경 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245468,
+      "m_Localized": "벽 너머의 풍경 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245469,
+      "m_Localized": "벽 너머의 손",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245470,
+      "m_Localized": "굴속의 독사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245471,
+      "m_Localized": "굴속의 독사 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245472,
+      "m_Localized": "굴속의 독사 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245473,
+      "m_Localized": "일방적 거래",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245474,
+      "m_Localized": "일방적 거래 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245475,
+      "m_Localized": "일방적 거래 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245476,
+      "m_Localized": "격벽 수호자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245477,
+      "m_Localized": "격벽 수호자 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245478,
+      "m_Localized": "격벽 수호자 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245479,
+      "m_Localized": "방주의 선택",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245480,
+      "m_Localized": "방주의 선택 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245481,
+      "m_Localized": "방주의 선택 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245482,
+      "m_Localized": "감옥",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245483,
+      "m_Localized": "감옥 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245484,
+      "m_Localized": "감옥 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245485,
+      "m_Localized": "즉사의 마안",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245486,
+      "m_Localized": "즉사의 마안 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245487,
+      "m_Localized": "즉사의 마안 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245488,
+      "m_Localized": "선물",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245489,
+      "m_Localized": "선물 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245490,
+      "m_Localized": "선물 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245491,
+      "m_Localized": "잊혀진 이름",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245492,
+      "m_Localized": "아비규환",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245493,
+      "m_Localized": "익숙한 일",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973597245494,
+      "m_Localized": "복수할 자격",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439744,
+      "m_Localized": "진짜 목적",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439745,
+      "m_Localized": "여왕들",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439746,
+      "m_Localized": "사슬을 풀고",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439747,
+      "m_Localized": "사슬을 풀고 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439748,
+      "m_Localized": "사슬을 풀고 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439749,
+      "m_Localized": "난무하는 살의",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439750,
+      "m_Localized": "난무하는 살의 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439751,
+      "m_Localized": "난무하는 살의 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439752,
+      "m_Localized": "독니",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439753,
+      "m_Localized": "독니 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439754,
+      "m_Localized": "독니 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439755,
+      "m_Localized": "추락하다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439756,
+      "m_Localized": "추락하다 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439757,
+      "m_Localized": "추락하다 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439758,
+      "m_Localized": "그 이후",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439759,
+      "m_Localized": "속죄",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439760,
+      "m_Localized": "중재",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439761,
+      "m_Localized": "이변의 느낌",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439762,
+      "m_Localized": "내부의 위험",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439763,
+      "m_Localized": "퇴출",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439764,
+      "m_Localized": "퇴출 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439765,
+      "m_Localized": "퇴출 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439766,
+      "m_Localized": "되찾아야 할 것",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439767,
+      "m_Localized": "당연한 판결",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 197739973601439768,
+      "m_Localized": "새로운 힘",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391635,
+      "m_Localized": "기다려왔던 명령",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391636,
+      "m_Localized": "후유증",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391637,
+      "m_Localized": "거짓말",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391638,
+      "m_Localized": "무모한 행진",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391639,
+      "m_Localized": "정중한 부탁",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391640,
+      "m_Localized": "정중한 부탁 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391641,
+      "m_Localized": "정중한 부탁 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391642,
+      "m_Localized": "떨어진 화룡",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391643,
+      "m_Localized": "떨어진 화룡 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391644,
+      "m_Localized": "떨어진 화룡 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391645,
+      "m_Localized": "겁먹은 남자",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391646,
+      "m_Localized": "발목을 잡은",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391647,
+      "m_Localized": "발목을 잡은 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391648,
+      "m_Localized": "발목을 잡은 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391649,
+      "m_Localized": "그저 최선을 다할 뿐",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391650,
+      "m_Localized": "감사의 인사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391651,
+      "m_Localized": "감사의 인사 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391652,
+      "m_Localized": "감사의 인사 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391653,
+      "m_Localized": "붉은 흔적",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391654,
+      "m_Localized": "붉은 흔적 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391655,
+      "m_Localized": "붉은 흔적 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391656,
+      "m_Localized": "고향으로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391657,
+      "m_Localized": "고향으로 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391658,
+      "m_Localized": "고향으로 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391659,
+      "m_Localized": "과거에서 현재로",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391660,
+      "m_Localized": "과거에서 현재로 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391661,
+      "m_Localized": "과거에서 현재로 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391662,
+      "m_Localized": "백기사",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391663,
+      "m_Localized": "백기사 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391664,
+      "m_Localized": "백기사 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391665,
+      "m_Localized": "소중한 사람",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391666,
+      "m_Localized": "다짐",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391667,
+      "m_Localized": "다짐 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391668,
+      "m_Localized": "다짐 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391669,
+      "m_Localized": "고향은 먼 곳",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391670,
+      "m_Localized": "다시 돌아가고 싶어서",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391671,
+      "m_Localized": "다시 돌아가고 싶어서 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391672,
+      "m_Localized": "다시 돌아가고 싶어서 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391673,
+      "m_Localized": "추억은 남는다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391674,
+      "m_Localized": "본격적인 거래",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391675,
+      "m_Localized": "첫 탈환 장소",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391676,
+      "m_Localized": "나의 힘이 될",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391677,
+      "m_Localized": "미지와의 재회",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391678,
+      "m_Localized": "미지와의 재회 : A",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 233977291601391679,
+      "m_Localized": "미지와의 재회 : B",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 18460084496019605,
+      "m_Localized": "Coming soon…",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    }
+  ],
+  "references": {
+    "version": 2,
+    "RefIds": []
+  }
+}
