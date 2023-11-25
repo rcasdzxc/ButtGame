@@ -1750,22 +1750,8 @@
       }
     },
     {
-      "m_Id": 37948244004376604,
-      "m_Localized": "크라운 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 37948244004376605,
       "m_Localized": "이지스 스쿼드의 리더.\r\n동시에 수륙양용 만능 전함 어드마이어 호의 함장이기도 하다.\r\n하루빨리 바다로 나가 전과를 세울 날을 기다리고 있다.",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 37948244004376606,
-      "m_Localized": "밀리 임시 설명",
       "m_Metadata": {
         "m_Items": []
       }
@@ -1794,20 +1780,6 @@
     {
       "m_Id": 37948244004376610,
       "m_Localized": "바다라는 새로운 환경에 직면하여, 기존의 화력에 수력을 더해 하이브리드의 길을 걷게 된 네온.\r\n수력 훈련이든, 바캉스를 즐기는 일이든 매사에 최선을 다하는 열혈 소녀다.",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 37948244004376611,
-      "m_Localized": "나유타 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 37948244004376612,
-      "m_Localized": "리프 임시 설명",
       "m_Metadata": {
         "m_Items": []
       }
@@ -1974,13 +1946,6 @@
       }
     },
     {
-      "m_Id": 38234938037440563,
-      "m_Localized": "마나 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 38234938037440564,
       "m_Localized": "이그조틱 스쿼드 소속의 니케.\r\n크로우의 충직한 개.\r\n크로우가 시키는 일이라면 뭐든 물어뜯을 준비가 되어있다.",
       "m_Metadata": {
@@ -1988,22 +1953,8 @@
       }
     },
     {
-      "m_Id": 38234938037440565,
-      "m_Localized": "루마니 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 38234938037440566,
       "m_Localized": "시지 패러리스 스쿼드의 리더.\r\n세상을 선한 쪽으로 기울게 할 수 있다면, 단호히 악을 제거하겠다고 말하는 니케.\r\n임무 시 능숙하게 연기를 하곤 한다.",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440567,
-      "m_Localized": "케이 임시 설명",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2018,13 +1969,6 @@
     {
       "m_Id": 38234938037440569,
       "m_Localized": "언더월드 퀸 스쿼드의 니케이자, 보수적인 야쿠자 조직 세이메이카이(清明會)의 젊은 당주.\r\n밝고 깨끗하다는 조직의 이름에 걸맞게, 조직을 도리에 맞게 이끌고자 노력하는 보수적 원칙주의자다.",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440570,
-      "m_Localized": "목단 임시 설명",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2051,29 +1995,8 @@
       }
     },
     {
-      "m_Id": 38234938037440574,
-      "m_Localized": "에이드 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440575,
-      "m_Localized": "비블리 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 38234938037440576,
       "m_Localized": "미미르 부속 고등학교의 이성적인 완벽주의자 선생님.\r\n학생들에게 좋은 교육을 제공하고자 끊임없이 노력한다.\r\n귀여운 것을 매우 좋아하는 소녀 같은 면도 있다.",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440577,
-      "m_Localized": "루주 임시 설명",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2088,20 +2011,6 @@
     {
       "m_Id": 38234938037440579,
       "m_Localized": "늘 햇살처럼 웃고 다니는 메이드 포 유의 가사 전담 메이드.\r\n가끔 실수할 때도 있지만, 모두를 행복하게 해주는 소다의 미소는 사라지지 않는다.",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440580,
-      "m_Localized": "차임 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440581,
-      "m_Localized": "킬로 임시 설명",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2128,29 +2037,8 @@
       }
     },
     {
-      "m_Id": 38234938037440585,
-      "m_Localized": "사이렌 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440586,
-      "m_Localized": "핀 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 38234938037440587,
       "m_Localized": "언어로 상대를 세뇌하는 능력을 지닌 리얼 카인드니스 스쿼드의 리더.\r\n이를 교묘한 화술과 섞어서 사용해, 상대를 자신의 꼭두각시로 만들어 버린다.",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440588,
-      "m_Localized": "엔드리스 임시 설명",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2177,27 +2065,6 @@
       }
     },
     {
-      "m_Id": 38234938037440592,
-      "m_Localized": "에이커 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 46979272127746052,
-      "m_Localized": "에스 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 46979272127746053,
-      "m_Localized": "아인 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 46979272127746054,
       "m_Localized": "탈옥 왕. 어디에 갇혀있든 무조건 탈출한다.\r\n뛰어난 붙임성과 정치력으로 갱생관의 무드 메이커로 유명하다.",
       "m_Metadata": {
@@ -2212,8 +2079,8 @@
       }
     },
     {
-      "m_Id": 46979272127746056,
-      "m_Localized": "피아 임시 설명",
+      "m_Id": 56826995588927544,
+      "m_Localized": "지속적인 장비 고장이 유일한 단점이었던 언리미티드 스쿼드의 기계공으로 추가 배치된 신입 니케.\r\n지식은 많고 실전에 써본 적이 없어 늘 실수하지만 특유의 밝은 성격과 신입의 열정으로 느리지만 나름대로 순조롭게 스쿼드에 적응해나가는 중.",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2221,13 +2088,6 @@
     {
       "m_Id": 162610405040656412,
       "m_Localized": "A.C.P.U. 스쿼드 소속 니케.\r\n행정 업무 처리 능력은 뛰어나지만,\r\n특이하게 니케임에도 시력이 좋지 않아 의도치 않게 많은 사고를 내고 있다.",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 73377338984435742,
-      "m_Localized": "포르테 임시 설명",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2247,36 +2107,8 @@
       }
     },
     {
-      "m_Id": 83931210450669655,
-      "m_Localized": "액스 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 94446376929923127,
       "m_Localized": "모두에게 선물을 주고 다독여줘야 하는 겨울을 맞아, 산타로 변신한 루피.\r\n15년 만에 찾아온 화이트 크리스마스를 기념하기 위해 바쁜 하루를 보내고 있다.",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142115262468,
-      "m_Localized": "츠바이 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142115262472,
-      "m_Localized": "소마 임시 설명",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142115262473,
-      "m_Localized": "레오나 임시 설명",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2851,13 +2683,6 @@
     {
       "m_Id": 10840464788336796,
       "m_Localized": "아득한 고도의 기술을 탑재한 필그림. 지상 탈환을 위해 싸우지만 인류를 섬기지는 않는다. 지상에 남은 인류의 마지막 희망이자, 가장 큰 위협이라고 할 수 있다.",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 37948244008570914,
-      "m_Localized": "임시 설명",
       "m_Metadata": {
         "m_Items": []
       }
@@ -4179,20 +4004,6 @@
       }
     },
     {
-      "m_Id": 5052312781324329,
-      "m_Localized": "무엇이 필요하신가요?",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 10380100291788883,
-      "m_Localized": "새로운 역사가 시작되는 순간이로군요!",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 8635559280902157,
       "m_Localized": "비켜봐. 방 청소 해줄테니까.",
       "m_Metadata": {
@@ -5406,6 +5217,27 @@
     {
       "m_Id": 236448434148605956,
       "m_Localized": "이 파티에서도, 내가 제일 아름답구나. 그렇지?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236448434148605957,
+      "m_Localized": "아무리 혹독한 곳이라도,\r\n생존법은 있는 법이에요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236448434148605958,
+      "m_Localized": "위험하다 싶으면 말씀해 주세요!\r\n제가 해결해 드릴게요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236448434148605959,
+      "m_Localized": "이래 봬도 온갖 생존 지식으로 무장하고 있어요!\r\n저만 믿어요!",
       "m_Metadata": {
         "m_Items": []
       }
@@ -7679,6 +7511,27 @@
       }
     },
     {
+      "m_Id": 236448434232492045,
+      "m_Localized": "이론만으로는 안되는 일이 있다는 걸 배웠어요.\r\n더욱 정진하겠습니다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236448434232492046,
+      "m_Localized": "생존가님. 시간 괜찮으시면 저랑 생존 도구나 만들까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236448434232492047,
+      "m_Localized": "선배들은 정말 굉장해요.\r\n물론, 저도 굉장해질 거예요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 10840464796725443,
       "m_Localized": "지휘관. 명령할 것이 없으십니까?",
       "m_Metadata": {
@@ -9254,43 +9107,15 @@
       }
     },
     {
-      "m_Id": 15123735067492582,
-      "m_Localized": "어서 오십시오. 지휘관.",
+      "m_Id": 236448434270240785,
+      "m_Localized": "생존가님~? 생존가님~?\r\n혹시 어디 표류 되신 건 아니겠죠?",
       "m_Metadata": {
         "m_Items": []
       }
     },
     {
-      "m_Id": 15123735067492583,
-      "m_Localized": "지휘관, 기다리고 있었습니다.",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 15123735067492584,
-      "m_Localized": "스승님, 어서 오세요!",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 15123735067492585,
-      "m_Localized": "스승님! 오늘도 화력과 함께 좋은 하루 보내세요!",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 15123735067492586,
-      "m_Localized": "지휘관님~ 어서 와.",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 15123735067492587,
-      "m_Localized": "오, 지휘관님이다! 기다리고 있었는데 드디어 왔네!",
+      "m_Id": 236448434270240786,
+      "m_Localized": "어디에 계시는지는 모르겠지만,\r\n제가 반드시 찾아낼게요!",
       "m_Metadata": {
         "m_Items": []
       }
@@ -9800,13 +9625,6 @@
       }
     },
     {
-      "m_Id": 58548835158327316,
-      "m_Localized": "잉크 임시 프로필 대사",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 106796955272740869,
       "m_Localized": "크리스마스 쿠키 먹으러 올 사람~? ^^",
       "m_Metadata": {
@@ -10115,6 +9933,13 @@
       }
     },
     {
+      "m_Id": 239413343538905092,
+      "m_Localized": "생존 전문가를 원하시나요? 지금 전화하세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 2334892125,
       "m_Localized": "즉사(卽死)의 마안교",
       "m_Metadata": {
@@ -10229,6 +10054,13 @@
     {
       "m_Id": 228993478460399650,
       "m_Localized": "시민방",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244149502089363502,
+      "m_Localized": "설산 생존 연합방",
       "m_Metadata": {
         "m_Items": []
       }
@@ -12761,8 +12593,29 @@
       }
     },
     {
+      "m_Id": 239413343622791173,
+      "m_Localized": "생존자 니케",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 239413343622791174,
+      "m_Localized": "구조된 양산형 니케",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 241227994169868383,
       "m_Localized": "흥얼거리는 소리",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244149502106140751,
+      "m_Localized": "생존 전문가?",
       "m_Metadata": {
         "m_Items": []
       }
@@ -13293,6 +13146,13 @@
       }
     },
     {
+      "m_Id": 244149502110335036,
+      "m_Localized": "생존 전문가가 되고 싶습니다….",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 22505640179015918,
       "m_Localized": "NPC1",
       "m_Metadata": {
@@ -13776,13 +13636,6 @@
       }
     },
     {
-      "m_Id": 58595859744993457,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859744993458,
       "m_Localized": "CV : 이은조",
       "m_Metadata": {
@@ -13799,20 +13652,6 @@
     {
       "m_Id": 58595859744993460,
       "m_Localized": "CV : 최정윤",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993461,
-      "m_Localized": "CV : 이명희",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993462,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -13839,27 +13678,6 @@
       }
     },
     {
-      "m_Id": 58595859744993466,
-      "m_Localized": "CV : 김윤채",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993467,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993468,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859744993469,
       "m_Localized": "CV : 이눈솔",
       "m_Metadata": {
@@ -13876,20 +13694,6 @@
     {
       "m_Id": 58595859744993471,
       "m_Localized": "CV : 박시윤",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993472,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993473,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -13916,22 +13720,8 @@
       }
     },
     {
-      "m_Id": 58595859744993477,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859744993478,
       "m_Localized": "CV : 사문영",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993479,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -13965,20 +13755,6 @@
       }
     },
     {
-      "m_Id": 58595859744993484,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993485,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859744993486,
       "m_Localized": "CV : 성예원",
       "m_Metadata": {
@@ -14000,29 +13776,8 @@
       }
     },
     {
-      "m_Id": 58595859744993489,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993490,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859744993491,
       "m_Localized": "CV : 여윤미",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993492,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14049,27 +13804,6 @@
       }
     },
     {
-      "m_Id": 58595859744993496,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993497,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993498,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859744993499,
       "m_Localized": "CV : 김영은",
       "m_Metadata": {
@@ -14079,13 +13813,6 @@
     {
       "m_Id": 58595859744993500,
       "m_Localized": "CV : 신나리",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993501,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14105,13 +13832,6 @@
       }
     },
     {
-      "m_Id": 73377339038961756,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 83931210488418439,
       "m_Localized": "CV : 이재현",
       "m_Metadata": {
@@ -14126,36 +13846,8 @@
       }
     },
     {
-      "m_Id": 83931210488418441,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 94446376980254806,
       "m_Localized": "CV : 윤은서",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142345949227,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142345949231,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142345949232,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14693,13 +14385,6 @@
       }
     },
     {
-      "m_Id": 58595859749187636,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859749187637,
       "m_Localized": "CV : 하세가와 이쿠미",
       "m_Metadata": {
@@ -14716,20 +14401,6 @@
     {
       "m_Id": 58595859749187639,
       "m_Localized": "CV : 코바야시 사나에",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187640,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187641,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14756,27 +14427,6 @@
       }
     },
     {
-      "m_Id": 58595859749187645,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187646,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187647,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859749187648,
       "m_Localized": "CV : 이나가키 코노미",
       "m_Metadata": {
@@ -14793,20 +14443,6 @@
     {
       "m_Id": 58595859749187650,
       "m_Localized": "CV : 코하라 코노미",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187651,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187652,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14833,22 +14469,8 @@
       }
     },
     {
-      "m_Id": 58595859749187656,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859749187657,
       "m_Localized": "CV : 이노우에 마리나",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187658,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14882,20 +14504,6 @@
       }
     },
     {
-      "m_Id": 58595859749187663,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187664,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859749187665,
       "m_Localized": "CV : 난죠 요시노",
       "m_Metadata": {
@@ -14917,29 +14525,8 @@
       }
     },
     {
-      "m_Id": 58595859749187668,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187669,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859749187670,
       "m_Localized": "CV : 타네자키 아츠미",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187671,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14966,27 +14553,6 @@
       }
     },
     {
-      "m_Id": 58595859749187675,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187676,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187677,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859749187678,
       "m_Localized": "CV : 우치다 아야",
       "m_Metadata": {
@@ -15001,8 +14567,8 @@
       }
     },
     {
-      "m_Id": 58595859749187680,
-      "m_Localized": "CV : 미정",
+      "m_Id": 58595859749187681,
+      "m_Localized": "CV : 와카야마 시온",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15010,13 +14576,6 @@
     {
       "m_Id": 58595859749187682,
       "m_Localized": "CV : 카와구치 리나",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 73377339043156023,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15036,36 +14595,8 @@
       }
     },
     {
-      "m_Id": 83931210492612698,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 94446376984449087,
       "m_Localized": "CV : 시라이시 하루카",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142350143542,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142350143546,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142350143547,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15603,13 +15134,6 @@
       }
     },
     {
-      "m_Id": 58594559527530525,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530526,
       "m_Localized": "CV : 사만다 버먼",
       "m_Metadata": {
@@ -15626,20 +15150,6 @@
     {
       "m_Id": 58594559527530528,
       "m_Localized": "CV : 안잘리 쿠나파네니",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530529,
-      "m_Localized": "CV : 스카일러 데이븐포트",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530530,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15666,27 +15176,6 @@
       }
     },
     {
-      "m_Id": 58594559527530534,
-      "m_Localized": "CV : 앰버 리 코너스",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530535,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530536,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530537,
       "m_Localized": "CV : 매들린 도로",
       "m_Metadata": {
@@ -15703,20 +15192,6 @@
     {
       "m_Id": 58594559527530539,
       "m_Localized": "CV : 엘리자베스",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530540,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530541,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15743,22 +15218,8 @@
       }
     },
     {
-      "m_Id": 58594559527530545,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530546,
       "m_Localized": "CV : 엘리자베스 시몬스",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530547,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15792,20 +15253,6 @@
       }
     },
     {
-      "m_Id": 58594559527530552,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530553,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530554,
       "m_Localized": "CV : 수지 융",
       "m_Metadata": {
@@ -15827,29 +15274,8 @@
       }
     },
     {
-      "m_Id": 58594559527530557,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530558,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530559,
       "m_Localized": "CV : 브리타니 라우다",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530560,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15876,27 +15302,6 @@
       }
     },
     {
-      "m_Id": 58594559527530564,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530565,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530566,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530567,
       "m_Localized": "CV : 타티아나 바리아",
       "m_Metadata": {
@@ -15911,15 +15316,8 @@
       }
     },
     {
-      "m_Id": 58594559527530569,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530570,
-      "m_Localized": "CV : 미정",
+      "m_Localized": "CV : 몰리 엘리자베스 링",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15927,13 +15325,6 @@
     {
       "m_Id": 58594559527530571,
       "m_Localized": "CV : 라시 모건",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 73377339043156135,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15953,36 +15344,8 @@
       }
     },
     {
-      "m_Id": 83931210496806951,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 94446376988643363,
       "m_Localized": "CV : 아마 리",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142354337856,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142354337860,
-      "m_Localized": "CV : 미정",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142354337861,
-      "m_Localized": "CV : 미정",
       "m_Metadata": {
         "m_Items": []
       }
@@ -48029,6 +47392,300 @@
     {
       "m_Id": 229656651827449894,
       "m_Localized": "차가 식기 전에 끝나서 다행이에요.\r\n그렇죠? 피나.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403778,
+      "m_Localized": "아무리 혹독한 곳이라도,\r\n생존법은 있는 법이에요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403779,
+      "m_Localized": "위험하다 싶으면 말씀해 주세요!\r\n제가 해결해 드릴게요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403780,
+      "m_Localized": "이래 봬도 온갖 생존 지식으로 무장하고 있어요!\r\n저만 믿어요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403781,
+      "m_Localized": "이론만으로는 안되는 일이 있다는 걸 배웠어요.\r\n더욱 정진하겠습니다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403782,
+      "m_Localized": "생존가님. 시간 괜찮으시면 저랑 생존 도구나 만들까요?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403783,
+      "m_Localized": "선배들은 정말 굉장해요.\r\n물론, 저도 굉장해질 거예요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403784,
+      "m_Localized": "생존가님~? 생존가님~?\r\n혹시 어디 표류 되신 건 아니겠죠?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403785,
+      "m_Localized": "어디에 계시는지는 모르겠지만,\r\n제가 반드시 찾아낼게요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403786,
+      "m_Localized": "으음…! 도심 생존 쪽은 자신 없는데…!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403787,
+      "m_Localized": "의류 상점엔 온갖 상황을 이겨낼 수 있는 옷들이 많아요.\r\n꼭 들러주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403788,
+      "m_Localized": "어디 보자… 유사시 피해있기 좋은 곳이….",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403789,
+      "m_Localized": "언리미티드의 신입! 토브입니다!\r\n생존에 관한 지식은 맡겨주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403790,
+      "m_Localized": "후후. 생존력이 올라갔어요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403791,
+      "m_Localized": "어떤 곳이든 이겨낼 수 있을 것 같아요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403792,
+      "m_Localized": "선배들에게 좀 더 가까워졌군요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403793,
+      "m_Localized": "어… 이거 안에 곤충이 있거나 하는 건 아니겠죠…?\r\n아, 무, 물론 저는 그런 거 잘 먹지만요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403794,
+      "m_Localized": "감사합니다! 이걸 활용해서 생존 도구를 만들어볼게요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403795,
+      "m_Localized": "오오…! 이건 활용할 방법이 그야말로 무궁무진…!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403796,
+      "m_Localized": "저… 생존가님.\r\n위험하거나 외롭거나 쓸쓸할 땐 저를 꼭 불러주세요. 아시겠죠?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403797,
+      "m_Localized": "호, 혹시 저랑 캠핑 한 번 가실 생각 없으세요?\r\n바, 바쁘시면 어쩔 수 없고요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403798,
+      "m_Localized": "생존가님을 구하기 위해서라면,\r\n저는 그 어떤 험지도 이겨낼 수 있을 것 같아요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403799,
+      "m_Localized": "여러분의 생존을 책임지겠습니다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403800,
+      "m_Localized": "생존 이상 무!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403801,
+      "m_Localized": "안전한 루트로 안내할게요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403802,
+      "m_Localized": "돌발 상황 발생!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403803,
+      "m_Localized": "랩쳐는 훌륭한 단백…! 아니다 이거.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403804,
+      "m_Localized": "살아남는 자가 이기는 자다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403805,
+      "m_Localized": "우리! 꼭 살아남아요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403806,
+      "m_Localized": "잠시만 버텨주세요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403807,
+      "m_Localized": "생존력 충전합니다!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403808,
+      "m_Localized": "매뉴얼대로...!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403809,
+      "m_Localized": "이건… 생존의 감각!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403810,
+      "m_Localized": "불타라! 나의 열정! 나의 의지!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403811,
+      "m_Localized": "모두! 살아서 돌아가는 거예요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403812,
+      "m_Localized": "이게 되네?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403813,
+      "m_Localized": "보셨나요!?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403814,
+      "m_Localized": "조, 좋아!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403815,
+      "m_Localized": "윽!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403816,
+      "m_Localized": "어흑!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403817,
+      "m_Localized": "주, 죽나?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403818,
+      "m_Localized": "이런 곳에서 쓰러지면… 선배들을 볼 면목이…!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403819,
+      "m_Localized": "훌륭히 생존했습니다!",
       "m_Metadata": {
         "m_Items": []
       }

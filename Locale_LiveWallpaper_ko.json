@@ -77,6 +77,13 @@
       }
     },
     {
+      "m_Id": 238675238730797060,
+      "m_Localized": "루피와 앤",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 130353653090922502,
       "m_Localized": "After Valentine",
       "m_Metadata": {
@@ -191,6 +198,13 @@
     {
       "m_Id": 227136098449166359,
       "m_Localized": "REDASH",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229660005727145990,
+      "m_Localized": "ALONE SURVIVOR",
       "m_Metadata": {
         "m_Items": []
       }
@@ -1442,6 +1456,20 @@
       }
     },
     {
+      "m_Id": 229660006024941568,
+      "m_Localized": "급조품의 기적",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 231113824311742490,
+      "m_Localized": "불타라! 나의 열정! 나의 의지!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 200695390947446814,
       "m_Localized": "드레이크 스폐셜",
       "m_Metadata": {
@@ -1554,71 +1582,78 @@
       }
     },
     {
+      "m_Id": 238675239108284418,
+      "m_Localized": "이벤트 [MIRACLE SNOW]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 130353653107699742,
-      "m_Localized": "이벤트 [메이드 인 밸런타인]의 미션에서 획득 가능",
+      "m_Localized": "이벤트 [메이드 인 밸런타인]에서 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }
     },
     {
       "m_Id": 130735010212261902,
-      "m_Localized": "이벤트 [바우와우 파라다이스]의 미션에서 획득 가능",
+      "m_Localized": "이벤트 [바우와우 파라다이스]에서 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }
     },
     {
       "m_Id": 153193312520179748,
-      "m_Localized": "이벤트 [체리블로섬]의 미션에서 획득 가능",
+      "m_Localized": "이벤트 [체리블로섬]에서 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }
     },
     {
       "m_Id": 157519291040337942,
-      "m_Localized": "이벤트 [L.T.K]의 미션에서 획득 가능",
+      "m_Localized": "이벤트 [L.T.K]에서 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }
     },
     {
       "m_Id": 160779917925748796,
-      "m_Localized": "이벤트 [OVER ZONE]의 미션에서 획득 가능",
+      "m_Localized": "이벤트 [OVER ZONE]에서 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }
     },
     {
       "m_Id": 175605419526000718,
-      "m_Localized": "이벤트 [Bunny X 777]의 미션에서 획득 가능",
+      "m_Localized": "이벤트 [Bunny X 777]에서 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }
     },
     {
       "m_Id": 175605419526000719,
-      "m_Localized": "이벤트 [Queen's Order]의 미션에서 획득 가능",
+      "m_Localized": "이벤트 [Queen's Order]에서 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }
     },
     {
       "m_Id": 183950706162208843,
-      "m_Localized": "이벤트 [Blue water Island]의 미션에서 획득 가능",
+      "m_Localized": "이벤트 [Blue water Island]에서 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }
     },
     {
       "m_Id": 192604546277249097,
-      "m_Localized": "이벤트 [냐냐 파라다이스]의 미션에서 획득 가능",
+      "m_Localized": "이벤트 [냐냐 파라다이스]에서 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }
     },
     {
       "m_Id": 192604546277249098,
-      "m_Localized": "이벤트 [골든 쉽]의 미션에서 획득 가능",
+      "m_Localized": "이벤트 [골든 쉽]에서 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }
@@ -1668,6 +1703,13 @@
     {
       "m_Id": 227136098461749281,
       "m_Localized": "이벤트 [REDASH]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229660006024941602,
+      "m_Localized": "이벤트 [ALONE SURVIVOR]에서 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2298,6 +2340,13 @@
     {
       "m_Id": 227136098465943603,
       "m_Localized": "스노우 화이트: 이노센트 데이즈 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229660006100439044,
+      "m_Localized": "토브 한계돌파 3 달성 시 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }

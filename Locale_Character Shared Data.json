@@ -1742,22 +1742,8 @@
       }
     },
     {
-      "m_Id": 37948244004376604,
-      "m_Key": "c330_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 37948244004376605,
       "m_Key": "c352_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 37948244004376606,
-      "m_Key": "c360_description",
       "m_Metadata": {
         "m_Items": []
       }
@@ -1786,20 +1772,6 @@
     {
       "m_Id": 37948244004376610,
       "m_Key": "c014_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 37948244004376611,
-      "m_Key": "c223_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 37948244004376612,
-      "m_Key": "c410_description",
       "m_Metadata": {
         "m_Items": []
       }
@@ -1966,13 +1938,6 @@
       }
     },
     {
-      "m_Id": 38234938037440563,
-      "m_Key": "c290_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 38234938037440564,
       "m_Key": "c111_description",
       "m_Metadata": {
@@ -1980,22 +1945,8 @@
       }
     },
     {
-      "m_Id": 38234938037440565,
-      "m_Key": "c240_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 38234938037440566,
       "m_Key": "c040_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440567,
-      "m_Key": "c041_description",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2010,13 +1961,6 @@
     {
       "m_Id": 38234938037440569,
       "m_Key": "c282_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440570,
-      "m_Key": "c281_description",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2043,29 +1987,8 @@
       }
     },
     {
-      "m_Id": 38234938037440574,
-      "m_Key": "c310_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440575,
-      "m_Key": "c320_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 38234938037440576,
       "m_Key": "c321_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440577,
-      "m_Key": "c272_description",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2080,20 +2003,6 @@
     {
       "m_Id": 38234938037440579,
       "m_Key": "c312_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440580,
-      "m_Key": "c331_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440581,
-      "m_Key": "c361_description",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2120,29 +2029,8 @@
       }
     },
     {
-      "m_Id": 38234938037440585,
-      "m_Key": "c340_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440586,
-      "m_Key": "c342_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 38234938037440587,
       "m_Key": "c401_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 38234938037440588,
-      "m_Key": "c371_description",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2169,27 +2057,6 @@
       }
     },
     {
-      "m_Id": 38234938037440592,
-      "m_Key": "c081_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 46979272127746052,
-      "m_Key": "c042_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 46979272127746053,
-      "m_Key": "c391_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 46979272127746054,
       "m_Key": "c402_description",
       "m_Metadata": {
@@ -2204,8 +2071,8 @@
       }
     },
     {
-      "m_Id": 46979272127746056,
-      "m_Key": "c151_description",
+      "m_Id": 56826995588927544,
+      "m_Key": "c192_description",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2213,13 +2080,6 @@
     {
       "m_Id": 162610405040656412,
       "m_Key": "c033_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 73377338984435742,
-      "m_Key": "c152_description",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2239,36 +2099,8 @@
       }
     },
     {
-      "m_Id": 83931210450669655,
-      "m_Key": "c341_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 94446376929923127,
       "m_Key": "c203_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142115262468,
-      "m_Key": "c390_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142115262472,
-      "m_Key": "c292_description",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142115262473,
-      "m_Key": "c382_description",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2843,13 +2675,6 @@
     {
       "m_Id": 10840464788336796,
       "m_Key": "squad_inherit_info",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 37948244008570914,
-      "m_Key": "squad_botanicgarden_info",
       "m_Metadata": {
         "m_Items": []
       }
@@ -4171,20 +3996,6 @@
       }
     },
     {
-      "m_Id": 5052312781324329,
-      "m_Key": "310_speech_01",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 10380100291788883,
-      "m_Key": "320_speech_01",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 8635559280902157,
       "m_Key": "53_speech_01",
       "m_Metadata": {
@@ -5398,6 +5209,27 @@
     {
       "m_Id": 236448434148605956,
       "m_Key": "230_01_speech_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236448434148605957,
+      "m_Key": "192_speech_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236448434148605958,
+      "m_Key": "192_speech_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236448434148605959,
+      "m_Key": "192_speech_03",
       "m_Metadata": {
         "m_Items": []
       }
@@ -7671,6 +7503,27 @@
       }
     },
     {
+      "m_Id": 236448434232492045,
+      "m_Key": "192_speech_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236448434232492046,
+      "m_Key": "192_speech_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236448434232492047,
+      "m_Key": "192_speech_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 10840464796725443,
       "m_Key": "10_stay_01",
       "m_Metadata": {
@@ -9246,43 +9099,15 @@
       }
     },
     {
-      "m_Id": 15123735067492582,
-      "m_Key": "10_enter_01_test",
+      "m_Id": 236448434270240785,
+      "m_Key": "192_stay_01",
       "m_Metadata": {
         "m_Items": []
       }
     },
     {
-      "m_Id": 15123735067492583,
-      "m_Key": "10_enter_02_test",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 15123735067492584,
-      "m_Key": "11_enter_01_test",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 15123735067492585,
-      "m_Key": "11_enter_02_test",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 15123735067492586,
-      "m_Key": "12_enter_01_test",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 15123735067492587,
-      "m_Key": "12_enter_02_test",
+      "m_Id": 236448434270240786,
+      "m_Key": "192_stay_02",
       "m_Metadata": {
         "m_Items": []
       }
@@ -9792,13 +9617,6 @@
       }
     },
     {
-      "m_Id": 58548835158327316,
-      "m_Key": "928_intro",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 106796955272740869,
       "m_Key": "90_1_intro",
       "m_Metadata": {
@@ -10107,6 +9925,13 @@
       }
     },
     {
+      "m_Id": 239413343538905092,
+      "m_Key": "192_intro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 2334892125,
       "m_Key": "g_npc_01_name",
       "m_Metadata": {
@@ -10221,6 +10046,13 @@
     {
       "m_Id": 228993478460399650,
       "m_Key": "g_npc_17_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244149502089363502,
+      "m_Key": "g_npc_18_name",
       "m_Metadata": {
         "m_Items": []
       }
@@ -12753,8 +12585,29 @@
       }
     },
     {
+      "m_Id": 239413343622791173,
+      "m_Key": "npc_358_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 239413343622791174,
+      "m_Key": "npc_359_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 241227994169868383,
       "m_Key": "npc_360_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244149502106140751,
+      "m_Key": "npc_361_name",
       "m_Metadata": {
         "m_Items": []
       }
@@ -13285,6 +13138,13 @@
       }
     },
     {
+      "m_Id": 244149502110335036,
+      "m_Key": "npc_361_intro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 22505640179015918,
       "m_Key": "quest_npc_9900001_name",
       "m_Metadata": {
@@ -13768,13 +13628,6 @@
       }
     },
     {
-      "m_Id": 58595859744993457,
-      "m_Key": "272_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859744993458,
       "m_Key": "280_cv_ko",
       "m_Metadata": {
@@ -13791,20 +13644,6 @@
     {
       "m_Id": 58595859744993460,
       "m_Key": "282_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993461,
-      "m_Key": "290_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993462,
-      "m_Key": "240_cv_ko",
       "m_Metadata": {
         "m_Items": []
       }
@@ -13831,27 +13670,6 @@
       }
     },
     {
-      "m_Id": 58595859744993466,
-      "m_Key": "41_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993467,
-      "m_Key": "310_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993468,
-      "m_Key": "320_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859744993469,
       "m_Key": "321_cv_ko",
       "m_Metadata": {
@@ -13868,20 +13686,6 @@
     {
       "m_Id": 58595859744993471,
       "m_Key": "312_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993472,
-      "m_Key": "331_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993473,
-      "m_Key": "361_cv_ko",
       "m_Metadata": {
         "m_Items": []
       }
@@ -13908,22 +13712,8 @@
       }
     },
     {
-      "m_Id": 58595859744993477,
-      "m_Key": "330_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859744993478,
       "m_Key": "352_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993479,
-      "m_Key": "360_cv_ko",
       "m_Metadata": {
         "m_Items": []
       }
@@ -13957,20 +13747,6 @@
       }
     },
     {
-      "m_Id": 58595859744993484,
-      "m_Key": "223_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993485,
-      "m_Key": "410_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859744993486,
       "m_Key": "430_cv_ko",
       "m_Metadata": {
@@ -13992,29 +13768,8 @@
       }
     },
     {
-      "m_Id": 58595859744993489,
-      "m_Key": "340_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993490,
-      "m_Key": "342_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859744993491,
       "m_Key": "401_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993492,
-      "m_Key": "371_cv_ko",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14041,27 +13796,6 @@
       }
     },
     {
-      "m_Id": 58595859744993496,
-      "m_Key": "81_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993497,
-      "m_Key": "42_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993498,
-      "m_Key": "391_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859744993499,
       "m_Key": "402_cv_ko",
       "m_Metadata": {
@@ -14071,13 +13805,6 @@
     {
       "m_Id": 58595859744993500,
       "m_Key": "350_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859744993501,
-      "m_Key": "151_cv_ko",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14097,13 +13824,6 @@
       }
     },
     {
-      "m_Id": 73377339038961756,
-      "m_Key": "152_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 83931210488418439,
       "m_Key": "193_cv_ko",
       "m_Metadata": {
@@ -14118,36 +13838,8 @@
       }
     },
     {
-      "m_Id": 83931210488418441,
-      "m_Key": "341_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 94446376980254806,
       "m_Key": "203_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142345949227,
-      "m_Key": "390_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142345949231,
-      "m_Key": "292_cv_ko",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142345949232,
-      "m_Key": "382_cv_ko",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14685,13 +14377,6 @@
       }
     },
     {
-      "m_Id": 58595859749187636,
-      "m_Key": "272_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859749187637,
       "m_Key": "280_cv_ja",
       "m_Metadata": {
@@ -14708,20 +14393,6 @@
     {
       "m_Id": 58595859749187639,
       "m_Key": "282_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187640,
-      "m_Key": "290_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187641,
-      "m_Key": "240_cv_ja",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14748,27 +14419,6 @@
       }
     },
     {
-      "m_Id": 58595859749187645,
-      "m_Key": "41_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187646,
-      "m_Key": "310_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187647,
-      "m_Key": "320_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859749187648,
       "m_Key": "321_cv_ja",
       "m_Metadata": {
@@ -14785,20 +14435,6 @@
     {
       "m_Id": 58595859749187650,
       "m_Key": "312_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187651,
-      "m_Key": "331_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187652,
-      "m_Key": "361_cv_ja",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14825,22 +14461,8 @@
       }
     },
     {
-      "m_Id": 58595859749187656,
-      "m_Key": "330_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859749187657,
       "m_Key": "352_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187658,
-      "m_Key": "360_cv_ja",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14874,20 +14496,6 @@
       }
     },
     {
-      "m_Id": 58595859749187663,
-      "m_Key": "223_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187664,
-      "m_Key": "410_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859749187665,
       "m_Key": "430_cv_ja",
       "m_Metadata": {
@@ -14909,29 +14517,8 @@
       }
     },
     {
-      "m_Id": 58595859749187668,
-      "m_Key": "340_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187669,
-      "m_Key": "342_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859749187670,
       "m_Key": "401_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187671,
-      "m_Key": "371_cv_ja",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14958,27 +14545,6 @@
       }
     },
     {
-      "m_Id": 58595859749187675,
-      "m_Key": "81_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187676,
-      "m_Key": "42_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58595859749187677,
-      "m_Key": "391_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58595859749187678,
       "m_Key": "402_cv_ja",
       "m_Metadata": {
@@ -14993,8 +14559,8 @@
       }
     },
     {
-      "m_Id": 58595859749187680,
-      "m_Key": "151_cv_ja",
+      "m_Id": 58595859749187681,
+      "m_Key": "192_cv_ja",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15002,13 +14568,6 @@
     {
       "m_Id": 58595859749187682,
       "m_Key": "33_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 73377339043156023,
-      "m_Key": "152_cv_ja",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15028,36 +14587,8 @@
       }
     },
     {
-      "m_Id": 83931210492612698,
-      "m_Key": "341_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 94446376984449087,
       "m_Key": "203_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142350143542,
-      "m_Key": "390_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142350143546,
-      "m_Key": "292_cv_ja",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142350143547,
-      "m_Key": "382_cv_ja",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15595,13 +15126,6 @@
       }
     },
     {
-      "m_Id": 58594559527530525,
-      "m_Key": "272_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530526,
       "m_Key": "280_cv_en",
       "m_Metadata": {
@@ -15618,20 +15142,6 @@
     {
       "m_Id": 58594559527530528,
       "m_Key": "282_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530529,
-      "m_Key": "290_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530530,
-      "m_Key": "240_cv_en",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15658,27 +15168,6 @@
       }
     },
     {
-      "m_Id": 58594559527530534,
-      "m_Key": "41_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530535,
-      "m_Key": "310_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530536,
-      "m_Key": "320_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530537,
       "m_Key": "321_cv_en",
       "m_Metadata": {
@@ -15695,20 +15184,6 @@
     {
       "m_Id": 58594559527530539,
       "m_Key": "312_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530540,
-      "m_Key": "331_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530541,
-      "m_Key": "361_cv_en",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15735,22 +15210,8 @@
       }
     },
     {
-      "m_Id": 58594559527530545,
-      "m_Key": "330_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530546,
       "m_Key": "352_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530547,
-      "m_Key": "360_cv_en",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15784,20 +15245,6 @@
       }
     },
     {
-      "m_Id": 58594559527530552,
-      "m_Key": "223_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530553,
-      "m_Key": "410_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530554,
       "m_Key": "430_cv_en",
       "m_Metadata": {
@@ -15819,29 +15266,8 @@
       }
     },
     {
-      "m_Id": 58594559527530557,
-      "m_Key": "340_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530558,
-      "m_Key": "342_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530559,
       "m_Key": "401_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530560,
-      "m_Key": "371_cv_en",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15868,27 +15294,6 @@
       }
     },
     {
-      "m_Id": 58594559527530564,
-      "m_Key": "81_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530565,
-      "m_Key": "42_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530566,
-      "m_Key": "391_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 58594559527530567,
       "m_Key": "402_cv_en",
       "m_Metadata": {
@@ -15898,13 +15303,6 @@
     {
       "m_Id": 58594559527530568,
       "m_Key": "350_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 58594559527530569,
-      "m_Key": "151_cv_en",
       "m_Metadata": {
         "m_Items": []
       }
@@ -15924,13 +15322,6 @@
       }
     },
     {
-      "m_Id": 73377339043156135,
-      "m_Key": "152_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 83931210496806949,
       "m_Key": "193_cv_en",
       "m_Metadata": {
@@ -15945,36 +15336,8 @@
       }
     },
     {
-      "m_Id": 83931210496806951,
-      "m_Key": "341_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
       "m_Id": 94446376988643363,
       "m_Key": "203_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142354337856,
-      "m_Key": "390_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142354337860,
-      "m_Key": "292_cv_en",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 107204142354337861,
-      "m_Key": "382_cv_en",
       "m_Metadata": {
         "m_Items": []
       }
@@ -48021,6 +47384,300 @@
     {
       "m_Id": 229656651827449894,
       "m_Key": "c233_01_Win_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403778,
+      "m_Key": "c192_Lobby_Touch_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403779,
+      "m_Key": "c192_Lobby_Touch_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403780,
+      "m_Key": "c192_Lobby_Touch_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403781,
+      "m_Key": "c192_Lobby_Touch_Love_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403782,
+      "m_Key": "c192_Lobby_Touch_Love_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403783,
+      "m_Key": "c192_Lobby_Touch_Love_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403784,
+      "m_Key": "c192_Lobby_Stay_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403785,
+      "m_Key": "c192_Lobby_Stay_Love_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403786,
+      "m_Key": "c192_Outpost_Touch_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403787,
+      "m_Key": "c192_Outpost_Touch_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403788,
+      "m_Key": "c192_Outpost_Touch_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403789,
+      "m_Key": "c192_Gacha_Get_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403790,
+      "m_Key": "c192_Reinforce_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403791,
+      "m_Key": "c192_Reinforce_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403792,
+      "m_Key": "c192_Reinforce_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403793,
+      "m_Key": "c192_Gift_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403794,
+      "m_Key": "c192_Gift_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403795,
+      "m_Key": "c192_Gift_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403796,
+      "m_Key": "c192_Attractive_Up_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403797,
+      "m_Key": "c192_Attractive_Up_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403798,
+      "m_Key": "c192_Attractive_Up_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403799,
+      "m_Key": "c192_Party_Deploy_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403800,
+      "m_Key": "c192_Field_Touch_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403801,
+      "m_Key": "c192_Field_Go_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403802,
+      "m_Key": "c192_Battle_Enter_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403803,
+      "m_Key": "c192_Battle_Ready_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403804,
+      "m_Key": "c192_Battle_Ready_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403805,
+      "m_Key": "c192_Battle_Ready_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403806,
+      "m_Key": "c192_Reload_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403807,
+      "m_Key": "c192_Reload_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403808,
+      "m_Key": "c192_Reload_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403809,
+      "m_Key": "c192_Ult_Skill_Ready_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403810,
+      "m_Key": "c192_Ult_Skill_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403811,
+      "m_Key": "c192_FullBurst_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403812,
+      "m_Key": "c192_Kill_Monster_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403813,
+      "m_Key": "c192_Kill_Monster_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403814,
+      "m_Key": "c192_Kill_Monster_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403815,
+      "m_Key": "c192_Damage_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403816,
+      "m_Key": "c192_Damage_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403817,
+      "m_Key": "c192_Damage_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403818,
+      "m_Key": "c192_Die_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 236890478723403819,
+      "m_Key": "c192_Win_1",
       "m_Metadata": {
         "m_Items": []
       }

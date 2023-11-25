@@ -38779,6 +38779,13 @@
       }
     },
     {
+      "m_Id": 243407473389363203,
+      "m_Key": "INAPP_SHOP_SUB_CATEGORY_ALONE_FUNCTION",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 163335488733204549,
       "m_Key": "INAPP_SHOP_STEPUP_CANNOT_BUY",
       "m_Metadata": {

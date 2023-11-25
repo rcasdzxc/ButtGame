@@ -13840,7 +13840,7 @@
     },
     {
       "m_Id": 231042040022036498,
-      "m_Localized": "■ 자신이 '임시 개조'가 최대 중첩 상태가 될 때 아군 전체에게\r\n<color=#00AEFF>[크리티컬 확률 {description_value_01}% ▲] [지속]</color>\r\n■ 자신이 '임시 개조'가 최대 중첩 상태가 될 때 샷건 소지 아군 전체에게\r\n<color=#00AEFF>[공격 속도 {description_value_02}% ▲] [지속]</color>",
+      "m_Localized": "■ 자신이 '임시 개조'가 최대 중첩 상태일 때 한하여 아군 전체에게\r\n<color=#00AEFF>[크리티컬 확률 {description_value_01}% ▲] [지속]</color>\r\n■ 자신이 '임시 개조'가 최대 중첩 상태일 때 한하여 샷건 소지 아군 전체에게\r\n<color=#00AEFF>[공격 속도 {description_value_02}% ▲] [지속]</color>",
       "m_Metadata": {
         "m_Items": [
           {
