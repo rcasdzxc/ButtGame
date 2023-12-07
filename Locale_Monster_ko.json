@@ -5131,6 +5131,13 @@
       }
     },
     {
+      "m_Id": 244506305848209455,
+      "m_Localized": "포터 [H.S.T.A.]",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 163310371768623109,
       "m_Localized": "리빌드 포터 [Z.E.U.S.]",
       "m_Metadata": {
@@ -15465,6 +15472,13 @@
     {
       "m_Id": 43018163921084516,
       "m_Localized": "CODE : Z.E.U.S.\nGRADE : LORD",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244506305944678447,
+      "m_Localized": "CODE : H.S.T.A.\nGRADE : LORD",
       "m_Metadata": {
         "m_Items": []
       }

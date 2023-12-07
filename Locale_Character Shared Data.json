@@ -1077,6 +1077,20 @@
       }
     },
     {
+      "m_Id": 241568703672160280,
+      "m_Key": "194_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568703672160281,
+      "m_Key": "62_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 55675418548641855,
       "m_Key": "npc_950_name",
       "m_Metadata": {
@@ -1310,6 +1324,48 @@
     {
       "m_Id": 229729844748419126,
       "m_Key": "npc_9999999_name_09",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246966201447886912,
+      "m_Key": "npc_9999999_name_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246966201447886913,
+      "m_Key": "npc_9999999_name_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246966201447886914,
+      "m_Key": "npc_9999999_name_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246966201447886915,
+      "m_Key": "npc_9999999_name_13",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246966201447886916,
+      "m_Key": "npc_9999999_name_14",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246966201447886917,
+      "m_Key": "npc_9999999_name_15",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2143,6 +2199,20 @@
     {
       "m_Id": 227033425360130100,
       "m_Key": "c224_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568703688937483,
+      "m_Key": "c194_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568703688937484,
+      "m_Key": "c062_description",
       "m_Metadata": {
         "m_Items": []
       }
@@ -5235,6 +5305,69 @@
       }
     },
     {
+      "m_Id": 248389543586168869,
+      "m_Key": "270_01_speech_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543586168870,
+      "m_Key": "270_01_speech_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543586168871,
+      "m_Key": "270_01_speech_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543586168872,
+      "m_Key": "194_speech_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543586168873,
+      "m_Key": "194_speech_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543586168874,
+      "m_Key": "194_speech_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543586168875,
+      "m_Key": "62_speech_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543586168876,
+      "m_Key": "62_speech_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543586168877,
+      "m_Key": "62_speech_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 589931019763764,
       "m_Key": "10_speech_04",
       "m_Metadata": {
@@ -7524,6 +7657,69 @@
       }
     },
     {
+      "m_Id": 248389543607140406,
+      "m_Key": "270_01_speech_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543607140407,
+      "m_Key": "270_01_speech_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543607140408,
+      "m_Key": "270_01_speech_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543607140409,
+      "m_Key": "194_speech_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543607140410,
+      "m_Key": "194_speech_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543607140411,
+      "m_Key": "194_speech_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543607140412,
+      "m_Key": "62_speech_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543607140413,
+      "m_Key": "62_speech_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543607140414,
+      "m_Key": "62_speech_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 10840464796725443,
       "m_Key": "10_stay_01",
       "m_Metadata": {
@@ -9113,6 +9309,48 @@
       }
     },
     {
+      "m_Id": 248389543623917605,
+      "m_Key": "270_01_stay_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543623917606,
+      "m_Key": "270_01_stay_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543623917607,
+      "m_Key": "194_stay_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543623917608,
+      "m_Key": "194_stay_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543623917609,
+      "m_Key": "62_stay_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248389543623917610,
+      "m_Key": "62_stay_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 2439749688,
       "m_Key": "10_intro",
       "m_Metadata": {
@@ -9927,6 +10165,20 @@
     {
       "m_Id": 239413343538905092,
       "m_Key": "192_intro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 252115822227771432,
+      "m_Key": "194_intro",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 252115822227771433,
+      "m_Key": "62_intro",
       "m_Metadata": {
         "m_Items": []
       }
@@ -12613,6 +12865,41 @@
       }
     },
     {
+      "m_Id": 244833926689022004,
+      "m_Key": "npc_362_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244833926689022005,
+      "m_Key": "npc_363_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244833926689022006,
+      "m_Key": "npc_364_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244833926689022007,
+      "m_Key": "npc_365_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244833926689022008,
+      "m_Key": "npc_366_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 2439749715,
       "m_Key": "npc_07_intro",
       "m_Metadata": {
@@ -13929,6 +14216,20 @@
       }
     },
     {
+      "m_Id": 241568703810572298,
+      "m_Key": "194_cv_ko",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568703810572299,
+      "m_Key": "62_cv_ko",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 58595859744993504,
       "m_Key": "10_cv_ja",
       "m_Metadata": {
@@ -14678,6 +14979,20 @@
       }
     },
     {
+      "m_Id": 241568703814766645,
+      "m_Key": "194_cv_ja",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568703814766646,
+      "m_Key": "62_cv_ja",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 58594559523336373,
       "m_Key": "10_cv_en",
       "m_Metadata": {
@@ -15422,6 +15737,20 @@
     {
       "m_Id": 227033425469181983,
       "m_Key": "224_cv_en",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568703823155206,
+      "m_Key": "194_cv_en",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568703823155207,
+      "m_Key": "62_cv_en",
       "m_Metadata": {
         "m_Items": []
       }
@@ -47678,6 +48007,888 @@
     {
       "m_Id": 236890478723403819,
       "m_Key": "c192_Win_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145088,
+      "m_Key": "c194_Lobby_Touch_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145089,
+      "m_Key": "c194_Lobby_Touch_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145090,
+      "m_Key": "c194_Lobby_Touch_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145091,
+      "m_Key": "c194_Lobby_Touch_Love_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145092,
+      "m_Key": "c194_Lobby_Touch_Love_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145093,
+      "m_Key": "c194_Lobby_Touch_Love_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145094,
+      "m_Key": "c194_Lobby_Stay_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145095,
+      "m_Key": "c194_Lobby_Stay_Love_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145096,
+      "m_Key": "c194_Outpost_Touch_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145097,
+      "m_Key": "c194_Outpost_Touch_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145098,
+      "m_Key": "c194_Outpost_Touch_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145099,
+      "m_Key": "c194_Gacha_Get_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145100,
+      "m_Key": "c194_Reinforce_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145101,
+      "m_Key": "c194_Reinforce_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145102,
+      "m_Key": "c194_Reinforce_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145103,
+      "m_Key": "c194_Gift_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145104,
+      "m_Key": "c194_Gift_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145105,
+      "m_Key": "c194_Gift_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145106,
+      "m_Key": "c194_Attractive_Up_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145107,
+      "m_Key": "c194_Attractive_Up_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145108,
+      "m_Key": "c194_Attractive_Up_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145109,
+      "m_Key": "c194_Party_Deploy_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145110,
+      "m_Key": "c194_Field_Touch_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145111,
+      "m_Key": "c194_Field_Go_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145112,
+      "m_Key": "c194_Battle_Enter_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145113,
+      "m_Key": "c194_Battle_Ready_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145114,
+      "m_Key": "c194_Battle_Ready_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145115,
+      "m_Key": "c194_Battle_Ready_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145116,
+      "m_Key": "c194_Reload_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145117,
+      "m_Key": "c194_Reload_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145118,
+      "m_Key": "c194_Reload_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145119,
+      "m_Key": "c194_Ult_Skill_Ready_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145120,
+      "m_Key": "c194_Ult_Skill_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145121,
+      "m_Key": "c194_FullBurst_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145122,
+      "m_Key": "c194_Kill_Monster_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145123,
+      "m_Key": "c194_Kill_Monster_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145124,
+      "m_Key": "c194_Kill_Monster_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145125,
+      "m_Key": "c194_Damage_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145126,
+      "m_Key": "c194_Damage_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145127,
+      "m_Key": "c194_Damage_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145128,
+      "m_Key": "c194_Die_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145129,
+      "m_Key": "c194_Win_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145130,
+      "m_Key": "c062_Lobby_Touch_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145131,
+      "m_Key": "c062_Lobby_Touch_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145132,
+      "m_Key": "c062_Lobby_Touch_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145133,
+      "m_Key": "c062_Lobby_Touch_Love_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145134,
+      "m_Key": "c062_Lobby_Touch_Love_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145135,
+      "m_Key": "c062_Lobby_Touch_Love_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145136,
+      "m_Key": "c062_Lobby_Stay_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145137,
+      "m_Key": "c062_Lobby_Stay_Love_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145138,
+      "m_Key": "c062_Outpost_Touch_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145139,
+      "m_Key": "c062_Outpost_Touch_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145140,
+      "m_Key": "c062_Outpost_Touch_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145141,
+      "m_Key": "c062_Gacha_Get_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145142,
+      "m_Key": "c062_Reinforce_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145143,
+      "m_Key": "c062_Reinforce_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145144,
+      "m_Key": "c062_Reinforce_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145145,
+      "m_Key": "c062_Gift_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145146,
+      "m_Key": "c062_Gift_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145147,
+      "m_Key": "c062_Gift_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145148,
+      "m_Key": "c062_Attractive_Up_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145149,
+      "m_Key": "c062_Attractive_Up_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145150,
+      "m_Key": "c062_Attractive_Up_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145151,
+      "m_Key": "c062_Party_Deploy_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145152,
+      "m_Key": "c062_Field_Touch_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145153,
+      "m_Key": "c062_Field_Go_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145154,
+      "m_Key": "c062_Battle_Enter_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145155,
+      "m_Key": "c062_Battle_Ready_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145156,
+      "m_Key": "c062_Battle_Ready_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145157,
+      "m_Key": "c062_Battle_Ready_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145158,
+      "m_Key": "c062_Reload_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145159,
+      "m_Key": "c062_Reload_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145160,
+      "m_Key": "c062_Reload_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145161,
+      "m_Key": "c062_Ult_Skill_Ready_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145162,
+      "m_Key": "c062_Ult_Skill_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145163,
+      "m_Key": "c062_FullBurst_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145164,
+      "m_Key": "c062_Kill_Monster_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145165,
+      "m_Key": "c062_Kill_Monster_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145166,
+      "m_Key": "c062_Kill_Monster_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145167,
+      "m_Key": "c062_Damage_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145168,
+      "m_Key": "c062_Damage_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145169,
+      "m_Key": "c062_Damage_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145170,
+      "m_Key": "c062_Die_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241568704125145171,
+      "m_Key": "c062_Win_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576709,
+      "m_Key": "c270_01_Lobby_Touch_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576710,
+      "m_Key": "c270_01_Lobby_Touch_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576711,
+      "m_Key": "c270_01_Lobby_Touch_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576712,
+      "m_Key": "c270_01_Lobby_Touch_Love_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576713,
+      "m_Key": "c270_01_Lobby_Touch_Love_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576714,
+      "m_Key": "c270_01_Lobby_Touch_Love_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576715,
+      "m_Key": "c270_01_Lobby_Stay_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576716,
+      "m_Key": "c270_01_Lobby_Stay_Love_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576717,
+      "m_Key": "c270_01_Outpost_Touch_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576718,
+      "m_Key": "c270_01_Outpost_Touch_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576719,
+      "m_Key": "c270_01_Outpost_Touch_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576720,
+      "m_Key": "c270_01_Gacha_Get_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576721,
+      "m_Key": "c270_01_Reinforce_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576722,
+      "m_Key": "c270_01_Reinforce_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576723,
+      "m_Key": "c270_01_Reinforce_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576724,
+      "m_Key": "c270_01_Gift_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576725,
+      "m_Key": "c270_01_Gift_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576726,
+      "m_Key": "c270_01_Gift_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576727,
+      "m_Key": "c270_01_Attractive_Up_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576728,
+      "m_Key": "c270_01_Attractive_Up_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576729,
+      "m_Key": "c270_01_Attractive_Up_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576730,
+      "m_Key": "c270_01_Party_Deploy_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576731,
+      "m_Key": "c270_01_Field_Touch_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576732,
+      "m_Key": "c270_01_Field_Go_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576733,
+      "m_Key": "c270_01_Battle_Enter_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576734,
+      "m_Key": "c270_01_Battle_Ready_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576735,
+      "m_Key": "c270_01_Battle_Ready_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576736,
+      "m_Key": "c270_01_Battle_Ready_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576737,
+      "m_Key": "c270_01_Reload_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576738,
+      "m_Key": "c270_01_Reload_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576739,
+      "m_Key": "c270_01_Reload_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576740,
+      "m_Key": "c270_01_Ult_Skill_Ready_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576741,
+      "m_Key": "c270_01_Ult_Skill_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576742,
+      "m_Key": "c270_01_FullBurst_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576743,
+      "m_Key": "c270_01_Kill_Monster_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576744,
+      "m_Key": "c270_01_Kill_Monster_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576745,
+      "m_Key": "c270_01_Kill_Monster_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576746,
+      "m_Key": "c270_01_Damage_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576747,
+      "m_Key": "c270_01_Damage_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576748,
+      "m_Key": "c270_01_Damage_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576749,
+      "m_Key": "c270_01_Die_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241948930277576750,
+      "m_Key": "c270_01_Win_1",
       "m_Metadata": {
         "m_Items": []
       }

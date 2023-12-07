@@ -3807,6 +3807,13 @@
       }
     },
     {
+      "m_Id": 236523533616951299,
+      "m_Key": "ITEM_COUNT_NUM_KEY",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 3970263526699013,
       "m_Key": "INVENTORY_FUNCTION_TITLE",
       "m_Metadata": {
@@ -5167,6 +5174,13 @@
     {
       "m_Id": 176028870923558917,
       "m_Key": "MAX_GRADE_CHAR",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246271709087047697,
+      "m_Key": "SUMMON_SPECIAL_RIDE_AGAIN",
       "m_Metadata": {
         "m_Items": []
       }
@@ -6621,6 +6635,48 @@
       }
     },
     {
+      "m_Id": 243806022473129989,
+      "m_Key": "COPY",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243806022473129990,
+      "m_Key": "COPY_CANCEL",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243806022473129991,
+      "m_Key": "COPY_PARTY_SET_USER",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243806022473129992,
+      "m_Key": "COPY_PARTY_SET_MY_PARTY",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243806022473129993,
+      "m_Key": "COPY_PARTY_SET_SAVE_RESULT",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243806022473129994,
+      "m_Key": "COPY_PARTY_SET_POPUP_DESC",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 3970263539281973,
       "m_Key": "LIBRARY_FUNCTION_TITLE",
       "m_Metadata": {
@@ -7239,6 +7295,13 @@
     {
       "m_Id": 46016941406318658,
       "m_Key": "CUBE_ENCHANT",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244902230564212737,
+      "m_Key": "CUBE_LEVEL",
       "m_Metadata": {
         "m_Items": []
       }
@@ -9955,6 +10018,13 @@
     {
       "m_Id": 228888341215948893,
       "m_Key": "SHOP_EVENT_STORY_33_SHOP_TAB",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244477352844177476,
+      "m_Key": "SHOP_EVENT_STORY_34_SHOP_TAB",
       "m_Metadata": {
         "m_Items": []
       }
@@ -14328,6 +14398,13 @@
       }
     },
     {
+      "m_Id": 245879296763826242,
+      "m_Key": "bcg003_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 56715110994612310,
       "m_Key": "world_raid_description_1",
       "m_Metadata": {
@@ -14617,6 +14694,13 @@
     {
       "m_Id": 224581295328137233,
       "m_Key": "mcg006_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 245879296768020512,
+      "m_Key": "bcg003_description",
       "m_Metadata": {
         "m_Items": []
       }
@@ -17417,6 +17501,27 @@
     {
       "m_Id": 191612248382967860,
       "m_Key": "CUBE_PARTY_SET_NOT_SAVE",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 239781653918715923,
+      "m_Key": "CUBE_SET_COMPLET",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 239781653918715924,
+      "m_Key": "CUBE_SET_NO_CHANGE",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 239781653918715925,
+      "m_Key": "CUBE_SET_NOT_SAVED_WARNING_DESC",
       "m_Metadata": {
         "m_Items": []
       }
@@ -22133,8 +22238,22 @@
       }
     },
     {
+      "m_Id": 248468075832737836,
+      "m_Key": "SYSTEM_VIEW_43005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 223562466090004574,
       "m_Key": "SYSTEM_VIEW_4115",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244044245760094263,
+      "m_Key": "SYSTEM_VIEW_15100",
       "m_Metadata": {
         "m_Items": []
       }
@@ -23463,6 +23582,20 @@
       }
     },
     {
+      "m_Id": 244477353016143904,
+      "m_Key": "STORY_DUNGEON_TITLE34",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244477353016143905,
+      "m_Key": "STORY_DUNGEON_TITLE35",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 38706771739308094,
       "m_Key": "STORY_DUNGEON_DESCRIPTION",
       "m_Metadata": {
@@ -24312,6 +24445,13 @@
     {
       "m_Id": 114756853574705202,
       "m_Key": "SETTING_BATTLE_TEST_SET_DISPLAY",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243365684685074450,
+      "m_Key": "SETTING_BATTLE_TEST_SET_DISPLAY_DESC",
       "m_Metadata": {
         "m_Items": []
       }
@@ -35755,6 +35895,13 @@
       }
     },
     {
+      "m_Id": 244477353297162284,
+      "m_Key": "ITEM_EXCHANGE_10034_MAIL_DESC",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 173079523098390560,
       "m_Key": "ITEM_EXCHANGE_11001_MAIL_TITLE",
       "m_Metadata": {
@@ -35841,6 +35988,13 @@
     {
       "m_Id": 41206675041620003,
       "m_Key": "PASS_FUNCTION",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244061377138462759,
+      "m_Key": "PASS_RANK",
       "m_Metadata": {
         "m_Items": []
       }
@@ -38786,6 +38940,13 @@
       }
     },
     {
+      "m_Id": 243407473389363204,
+      "m_Key": "INAPP_SHOP_SUB_CATEGORY_NEVERLAND_FUNCTION",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 163335488733204549,
       "m_Key": "INAPP_SHOP_STEPUP_CANNOT_BUY",
       "m_Metadata": {
@@ -41306,6 +41467,20 @@
       }
     },
     {
+      "m_Id": 243696112645943300,
+      "m_Key": "LOCKED_ARCHIVE_RECORD_DENIED_MESSENGER",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243696112645943301,
+      "m_Key": "ARCHIVE_RECORD_NOT_PROVIDED_MESSENGER",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 220967807484407889,
       "m_Key": "HELP_EVENT_ARCHIVE_TITLE",
       "m_Metadata": {
@@ -41719,6 +41894,13 @@
       }
     },
     {
+      "m_Id": 244477353347493925,
+      "m_Key": "RECORD_EVENT_TITLE_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 221020843678347334,
       "m_Key": "RECORD_REWARD_INFO_1",
       "m_Metadata": {
@@ -41999,8 +42181,50 @@
       }
     },
     {
+      "m_Id": 241214728911495174,
+      "m_Key": "NIKKE_TEMPORARY_CONTENTS_ELYSION_TOWER",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241214728911495175,
+      "m_Key": "NIKKE_TEMPORARY_CONTENTS_MISSILIS_TOWER",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241214728911495176,
+      "m_Key": "NIKKE_TEMPORARY_CONTENTS_TETRA_TOWER",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241214728911495177,
+      "m_Key": "NIKKE_TEMPORARY_CONTENTS_PILGRIM_TOWER",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247349621966020627,
+      "m_Key": "NIKKE_TEMPORARY_CONTENTS_STORY_EVENT",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 234750114543738893,
       "m_Key": "NIKKE_COMEBACK_EVENT_CLOSE",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242309990657273976,
+      "m_Key": "TOAST_NIKKE_TEMPORARY_DENIED_COUNSELING",
       "m_Metadata": {
         "m_Items": []
       }

@@ -210,6 +210,34 @@
       }
     },
     {
+      "m_Id": 243406380822368270,
+      "m_Localized": "설온장에 어서오세요",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243406380822368271,
+      "m_Localized": "힘내라! 미카!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247105188494573595,
+      "m_Localized": "설온장은 저에게 맡겨주세요!\r\n…깔끔해졌어요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243406380822368272,
+      "m_Localized": "Snowfall Oasis",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 73412624346976261,
       "m_Localized": "다탄두 미사일",
       "m_Metadata": {
@@ -1470,6 +1498,34 @@
       }
     },
     {
+      "m_Id": 241596287667605509,
+      "m_Localized": "이끄는 등불",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246351851497754626,
+      "m_Localized": "길을 잃었을땐, 이 등불을 기억하거라.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241596287667605510,
+      "m_Localized": "설온제",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246351851497754628,
+      "m_Localized": "다 함께 설온장에서 놀아요!",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 200695390947446814,
       "m_Localized": "드레이크 스폐셜",
       "m_Metadata": {
@@ -1710,6 +1766,27 @@
     {
       "m_Id": 229660006024941602,
       "m_Localized": "이벤트 [ALONE SURVIVOR]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243406380834951189,
+      "m_Localized": "이벤트 [NEVERLAND]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243406380834951190,
+      "m_Localized": "이벤트 [NEVERLAND]에서 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243406380834951191,
+      "m_Localized": "이벤트 [Snowfall Oasis]에서 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }
@@ -2347,6 +2424,20 @@
     {
       "m_Id": 229660006100439044,
       "m_Localized": "토브 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241596287675994136,
+      "m_Localized": "루드밀라: 윈터 오너 한계돌파 3 달성 시 획득 가능",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241596287675994137,
+      "m_Localized": "미카: 스노우 버디 한계돌파 3 달성 시 획득 가능",
       "m_Metadata": {
         "m_Items": []
       }

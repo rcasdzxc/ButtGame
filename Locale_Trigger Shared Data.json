@@ -2050,6 +2050,13 @@
       }
     },
     {
+      "m_Id": 243732936774303754,
+      "m_Key": "trigger_desc_ObtainEventCurrencyMaterialNL",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 112363388388528199,
       "m_Key": "trigger_desc_EventDungeonStageClear_01",
       "m_Metadata": {
@@ -2129,6 +2136,13 @@
     {
       "m_Id": 233905822394925121,
       "m_Key": "trigger_desc_EventMiniGameNKSPlayCheck",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244912595306201116,
+      "m_Key": "trigger_desc_EventSnowfallOasisDailyRewardCheck",
       "m_Metadata": {
         "m_Items": []
       }

@@ -10392,6 +10392,1483 @@
       "m_Metadata": {
         "m_Items": []
       }
+    },
+    {
+      "m_Id": 242315517485449253,
+      "m_Key": "event_game_load",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449254,
+      "m_Key": "event_memory_recall",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449255,
+      "m_Key": "event_daily_reward_goal",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449256,
+      "m_Key": "event_daily_reward_goal_progress",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449257,
+      "m_Key": "event_daily_reward_complete",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449258,
+      "m_Key": "event_stamina_lack",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449259,
+      "m_Key": "event_end_time_alert_type_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449260,
+      "m_Key": "event_contents_all_clear_alert",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449261,
+      "m_Key": "event_button_heroine",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449262,
+      "m_Key": "event_button_lostitem",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449263,
+      "m_Key": "event_dating_sim_heroine_info_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449264,
+      "m_Key": "event_dating_sim_heroine_info_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449265,
+      "m_Key": "event_dating_sim_lostitem_info_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449266,
+      "m_Key": "event_dating_sim_lostitem_info_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449267,
+      "m_Key": "lost_item",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449268,
+      "m_Key": "button_outing",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449269,
+      "m_Key": "button_discontinue",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449270,
+      "m_Key": "button_discontinue_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449271,
+      "m_Key": "event_dating_sim_stamina_alert",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449272,
+      "m_Key": "event_dating_sim_myroom",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449273,
+      "m_Key": "event_dating_sim_lostitem_appear",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449274,
+      "m_Key": "event_dating_sim_location_not_open",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449275,
+      "m_Key": "event_dating_sim_out_of_stamina_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449276,
+      "m_Key": "event_dating_sim_out_of_stamina_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449277,
+      "m_Key": "event_dating_sim_event_select",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449278,
+      "m_Key": "event_dating_sim_event_select_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449279,
+      "m_Key": "event_dating_sim_extra_event_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449280,
+      "m_Key": "event_dating_sim_selection_locked",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449281,
+      "m_Key": "event_dating_sim_go_to_event_field",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449282,
+      "m_Key": "event_dating_sim_go_to_find_lost_item",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449283,
+      "m_Key": "event_dating_sim_heroine_unlocked",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449284,
+      "m_Key": "event_dating_sim_relation_lv_up",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449285,
+      "m_Key": "event_dating_sim_relation_lv_up_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449286,
+      "m_Key": "ending",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449287,
+      "m_Key": "event_dating_sim_ending_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449288,
+      "m_Key": "hidden_ending",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449289,
+      "m_Key": "event_dating_sim_hidden_ending_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449290,
+      "m_Key": "daily_reward",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242315517485449291,
+      "m_Key": "event_dating_sim_daily_reward_gain_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242323969750401073,
+      "m_Key": "event_dating_sim_stop",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242323969750401074,
+      "m_Key": "event_dating_sim_diary",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243414149454430234,
+      "m_Key": "event_dating_sim_print_picture",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243414149454430235,
+      "m_Key": "event_dating_sim_print_complete",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243414149454430236,
+      "m_Key": "event_dating_sim_picture",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243414149454430237,
+      "m_Key": "event_dating_sim_album_total_progress",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243414149454430238,
+      "m_Key": "epilogue",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243414149454430239,
+      "m_Key": "get_reward",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243414149454430240,
+      "m_Key": "event_dating_sim_album_not_open",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243414149454430241,
+      "m_Key": "event_dating_sim_complete_reward_not_complete",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243414149454430242,
+      "m_Key": "event_dating_sim_complete_reward_already_gained",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243414149454430243,
+      "m_Key": "event_dating_sim_album_photo_not_opened",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243414149454430244,
+      "m_Key": "event_dating_sim_special_photo_not_complete",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243414149454430245,
+      "m_Key": "event_dating_sim_special_photo_already_gain",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244057433675727001,
+      "m_Key": "event_dating_sim_album_is_empty",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244071219384090728,
+      "m_Key": "event_dating_sim_lost_item_is_on_field",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246649270638805069,
+      "m_Key": "event_dating_sim_lost_item_is_not_on_field",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244071219384090729,
+      "m_Key": "event_dating_sim_deliver_button",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244071219384090730,
+      "m_Key": "button_resume",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244071219384090731,
+      "m_Key": "button_game_guide",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246640673024442469,
+      "m_Key": "event_dating_sim_lost_item_list_empty",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248468291227025476,
+      "m_Key": "event_dating_sim_special_photo_guide",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248943035353202773,
+      "m_Key": "event_dating_sim_relation_is_max_alert_title",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248943035353202774,
+      "m_Key": "event_dating_sim_relation_is_max_alert_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 250950243817422884,
+      "m_Key": "event_dating_sim_epilogue_show_condition",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 251342617680871443,
+      "m_Key": "event_dating_sim_special_photo_complete",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002523,
+      "m_Key": "event_snowfall_location_inn",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002524,
+      "m_Key": "event_snowfall_location_trail",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002525,
+      "m_Key": "event_snowfall_location_dining",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002526,
+      "m_Key": "event_snowfall_location_bamboo",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002527,
+      "m_Key": "event_snowfall_location_hotspring",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002528,
+      "m_Key": "event_snowfall_location_waterfall",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002529,
+      "m_Key": "event_snowfall_lostitem_name_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002530,
+      "m_Key": "event_snowfall_lostitem_name_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002531,
+      "m_Key": "event_snowfall_lostitem_name_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002532,
+      "m_Key": "event_snowfall_lostitem_name_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002533,
+      "m_Key": "event_snowfall_lostitem_name_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002534,
+      "m_Key": "event_snowfall_lostitem_description_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002535,
+      "m_Key": "event_snowfall_lostitem_description_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002536,
+      "m_Key": "event_snowfall_lostitem_description_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002537,
+      "m_Key": "event_snowfall_lostitem_description_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002538,
+      "m_Key": "event_snowfall_lostitem_description_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002539,
+      "m_Key": "event_snowfall_lostitem_hint_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002540,
+      "m_Key": "event_snowfall_lostitem_hint_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002541,
+      "m_Key": "event_snowfall_lostitem_hint_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002542,
+      "m_Key": "event_snowfall_lostitem_hint_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244850445386002543,
+      "m_Key": "event_snowfall_lostitem_hint_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614240,
+      "m_Key": "snowfall_attractive_noir_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614241,
+      "m_Key": "snowfall_attractive_noir_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614242,
+      "m_Key": "snowfall_attractive_noir_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614243,
+      "m_Key": "snowfall_attractive_noir_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614244,
+      "m_Key": "snowfall_attractive_noir_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614245,
+      "m_Key": "snowfall_attractive_noir_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614249,
+      "m_Key": "snowfall_attractive_blanc_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614250,
+      "m_Key": "snowfall_attractive_blanc_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614251,
+      "m_Key": "snowfall_attractive_blanc_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614252,
+      "m_Key": "snowfall_attractive_blanc_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614253,
+      "m_Key": "snowfall_attractive_blanc_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614254,
+      "m_Key": "snowfall_attractive_blanc_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614258,
+      "m_Key": "snowfall_attractive_ludmilla_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614259,
+      "m_Key": "snowfall_attractive_ludmilla_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614260,
+      "m_Key": "snowfall_attractive_ludmilla_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614261,
+      "m_Key": "snowfall_attractive_ludmilla_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614262,
+      "m_Key": "snowfall_attractive_ludmilla_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614263,
+      "m_Key": "snowfall_attractive_ludmilla_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614264,
+      "m_Key": "snowfall_attractive_ludmilla_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614265,
+      "m_Key": "snowfall_attractive_ludmilla_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614266,
+      "m_Key": "snowfall_attractive_emma_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614267,
+      "m_Key": "snowfall_attractive_emma_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614268,
+      "m_Key": "snowfall_attractive_emma_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614269,
+      "m_Key": "snowfall_attractive_emma_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614270,
+      "m_Key": "snowfall_attractive_emma_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614271,
+      "m_Key": "snowfall_attractive_emma_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614272,
+      "m_Key": "snowfall_attractive_emma_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614273,
+      "m_Key": "snowfall_attractive_emma_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614274,
+      "m_Key": "snowfall_attractive_mica_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614275,
+      "m_Key": "snowfall_attractive_mica_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614276,
+      "m_Key": "snowfall_attractive_mica_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614277,
+      "m_Key": "snowfall_attractive_mica_4",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614278,
+      "m_Key": "snowfall_attractive_mica_5",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614279,
+      "m_Key": "snowfall_attractive_mica_6",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614280,
+      "m_Key": "snowfall_attractive_mica_7",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246244331051614281,
+      "m_Key": "snowfall_attractive_mica_8",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622299,
+      "m_Key": "event_tutorial",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622300,
+      "m_Key": "snowfalloasis_tutorial_title_myroom",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622301,
+      "m_Key": "snowfalloasis_tutorial_title_worldmap",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622302,
+      "m_Key": "snowfalloasis_tutorial_title_dialogevent",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622303,
+      "m_Key": "snowfalloasis_tutorial_title_relationevent",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622304,
+      "m_Key": "snowfalloasis_tutorial_title_heroinegroup",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622305,
+      "m_Key": "snowfalloasis_tutorial_title_lostitem",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622306,
+      "m_Key": "snowfalloasis_tutorial_title_infinitytime",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622307,
+      "m_Key": "snowfalloasis_tutorial_title_infinitystamina",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622308,
+      "m_Key": "snowfalloasis_tutorial_page_title_myroom_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622312,
+      "m_Key": "snowfalloasis_tutorial_page_title_worldmap_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622313,
+      "m_Key": "snowfalloasis_tutorial_page_title_worldmap_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622316,
+      "m_Key": "snowfalloasis_tutorial_page_title_dialogevent_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622317,
+      "m_Key": "snowfalloasis_tutorial_page_title_dialogevent_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622318,
+      "m_Key": "snowfalloasis_tutorial_page_title_dialogevent_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622320,
+      "m_Key": "snowfalloasis_tutorial_page_title_relationevent_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622321,
+      "m_Key": "snowfalloasis_tutorial_page_title_relationevent_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622324,
+      "m_Key": "snowfalloasis_tutorial_page_title_heroinegroup_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622328,
+      "m_Key": "snowfalloasis_tutorial_page_title_lostitem_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622329,
+      "m_Key": "snowfalloasis_tutorial_page_title_lostitem_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622332,
+      "m_Key": "snowfalloasis_tutorial_page_title_infinitytime_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622336,
+      "m_Key": "snowfalloasis_tutorial_page_title_infinitystamina_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622340,
+      "m_Key": "snowfalloasis_tutorial_tutorial_myroom_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622344,
+      "m_Key": "snowfalloasis_tutorial_tutorial_worldmap_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622345,
+      "m_Key": "snowfalloasis_tutorial_tutorial_worldmap_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622348,
+      "m_Key": "snowfalloasis_tutorial_tutorial_dialogevent_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622349,
+      "m_Key": "snowfalloasis_tutorial_tutorial_dialogevent_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622350,
+      "m_Key": "snowfalloasis_tutorial_tutorial_dialogevent_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622352,
+      "m_Key": "snowfalloasis_tutorial_tutorial_relationevent_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622353,
+      "m_Key": "snowfalloasis_tutorial_tutorial_relationevent_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622356,
+      "m_Key": "snowfalloasis_tutorial_tutorial_heroinegroup_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622360,
+      "m_Key": "snowfalloasis_tutorial_tutorial_lostitem_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622361,
+      "m_Key": "snowfalloasis_tutorial_tutorial_lostitem_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622364,
+      "m_Key": "snowfalloasis_tutorial_tutorial_infinitytime_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246993941533622368,
+      "m_Key": "snowfalloasis_tutorial_tutorial_infinitystamina_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247003569826889813,
+      "m_Key": "snowfalloasis_help_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247003569826889814,
+      "m_Key": "snowfalloasis_help_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247003569826889815,
+      "m_Key": "snowfalloasis_help_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247003569826889816,
+      "m_Key": "snowfalloasis_help_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247003569826889817,
+      "m_Key": "snowfalloasis_help_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247003569826889818,
+      "m_Key": "snowfalloasis_heroine_album_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247003569826889819,
+      "m_Key": "snowfalloasis_global_album_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247003569826889820,
+      "m_Key": "snowfalloasis_photo_album_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247003569826889821,
+      "m_Key": "snowfalloasis_heroine_album_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247003569826889822,
+      "m_Key": "snowfalloasis_global_album_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247003569826889823,
+      "m_Key": "snowfalloasis_photo_album_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926898794648,
+      "m_Key": "EventScene_snowfalloasis_01_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926898794649,
+      "m_Key": "EventScene_snowfalloasis_01_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926898794650,
+      "m_Key": "EventScene_snowfalloasis_02_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926898794651,
+      "m_Key": "EventScene_snowfalloasis_02_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988800,
+      "m_Key": "EventScene_snowfalloasis_03_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988801,
+      "m_Key": "EventScene_snowfalloasis_03_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988802,
+      "m_Key": "EventScene_snowfalloasis_04_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988803,
+      "m_Key": "EventScene_snowfalloasis_04_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988804,
+      "m_Key": "EventScene_snowfalloasis_04_3",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988805,
+      "m_Key": "EventScene_snowfalloasis_05_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988806,
+      "m_Key": "EventScene_snowfalloasis_05_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988807,
+      "m_Key": "EventScene_snowfalloasis_06_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988808,
+      "m_Key": "EventScene_snowfalloasis_06_2",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988809,
+      "m_Key": "EventScene_snowfalloasis_07",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988810,
+      "m_Key": "EventScene_snowfalloasis_08",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988811,
+      "m_Key": "EventScene_snowfalloasis_09",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988812,
+      "m_Key": "EventScene_snowfalloasis_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988813,
+      "m_Key": "EventScene_snowfalloasis_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988814,
+      "m_Key": "EventScene_snowfalloasis_12",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988815,
+      "m_Key": "EventScene_snowfalloasis_13",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247021926902988816,
+      "m_Key": "EventScene_snowfalloasis_14",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427696,
+      "m_Key": "event_hotspring_narrativesign_title_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427697,
+      "m_Key": "event_hotspring_narrativesign_title_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427698,
+      "m_Key": "event_hotspring_narrativesign_title_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427699,
+      "m_Key": "event_hotspring_narrativesign_title_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427700,
+      "m_Key": "event_hotspring_narrativesign_title_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427701,
+      "m_Key": "event_hotspring_narrativesign_title_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427702,
+      "m_Key": "event_hotspring_narrativesign_title_07",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427703,
+      "m_Key": "event_hotspring_narrativesign_title_08",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427704,
+      "m_Key": "event_hotspring_narrativesign_title_09",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427705,
+      "m_Key": "event_hotspring_narrativesign_title_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427706,
+      "m_Key": "event_hotspring_narrativesign_title_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427707,
+      "m_Key": "event_hotspring_narrativesign_description_01",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427708,
+      "m_Key": "event_hotspring_narrativesign_description_02",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427709,
+      "m_Key": "event_hotspring_narrativesign_description_03",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427710,
+      "m_Key": "event_hotspring_narrativesign_description_04",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427711,
+      "m_Key": "event_hotspring_narrativesign_description_05",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427712,
+      "m_Key": "event_hotspring_narrativesign_description_06",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427713,
+      "m_Key": "event_hotspring_narrativesign_description_07",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427714,
+      "m_Key": "event_hotspring_narrativesign_description_08",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427715,
+      "m_Key": "event_hotspring_narrativesign_description_09",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427716,
+      "m_Key": "event_hotspring_narrativesign_description_10",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244510257711427717,
+      "m_Key": "event_hotspring_narrativesign_description_11",
+      "m_Metadata": {
+        "m_Items": []
+      }
     }
   ],
   "m_Metadata": {

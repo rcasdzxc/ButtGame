@@ -2185,7 +2185,7 @@
     },
     {
       "m_Id": 14062699528888349,
-      "m_Localized": "니케 {0}명 획득",
+      "m_Localized": "니케 {0}기 획득",
       "m_Metadata": {
         "m_Items": [
           {
@@ -2207,7 +2207,7 @@
     },
     {
       "m_Id": 14062699528888351,
-      "m_Localized": "SSR 니케 {0}명 획득",
+      "m_Localized": "SSR 니케 {0}기 획득",
       "m_Metadata": {
         "m_Items": [
           {
@@ -2378,6 +2378,17 @@
       }
     },
     {
+      "m_Id": 243732936774303754,
+      "m_Localized": "시원한 우유 {0}개 획득",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
       "m_Id": 112363388388528199,
       "m_Localized": "임의의 이벤트 스테이지 {0}회 클리어",
       "m_Metadata": {
@@ -2497,6 +2508,17 @@
     {
       "m_Id": 233905822394925121,
       "m_Localized": "MEMORY OF GODDESS {0}회 플레이",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 244912595306201116,
+      "m_Localized": "스노우폴 오아시스 일일 보상 {0}회 획득",
       "m_Metadata": {
         "m_Items": [
           {
