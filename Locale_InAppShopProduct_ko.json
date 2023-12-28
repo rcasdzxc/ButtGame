@@ -1327,6 +1327,34 @@
       "m_Metadata": {
         "m_Items": []
       }
+    },
+    {
+      "m_Id": 209487375790485567,
+      "m_Localized": "2024 새해 패키지 I",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 209487375790485568,
+      "m_Localized": "2024 새해 패키지 II",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 209487375790485569,
+      "m_Localized": "2024 새해 패키지 III",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 209487375790485570,
+      "m_Localized": "2024년 새해를 기념하여 판매하는 상품입니다.\r\n이런 파격적인 특별 구성은 더 이상 만나기 어렵습니다.\r\n※ 패키지에 포함된 쥬얼은 <color=#0EA0FF>무료</color> 쥬얼입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
     }
   ],
   "references": {

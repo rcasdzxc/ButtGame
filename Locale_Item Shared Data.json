@@ -1476,6 +1476,13 @@
       }
     },
     {
+      "m_Id": 251000850841538595,
+      "m_Key": "piece_225",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 2397806650,
       "m_Key": "consume_exp",
       "m_Metadata": {
@@ -3254,6 +3261,34 @@
       }
     },
     {
+      "m_Id": 244936585305894916,
+      "m_Key": "story_event_ticket_material_036",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244936585305894917,
+      "m_Key": "story_event_ticket_material_036_desc",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244936585305894918,
+      "m_Key": "story_event_currency_material_036",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244936585305894919,
+      "m_Key": "story_event_currency_material_036_desc",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 248862468190285826,
       "m_Key": "story_event_currency_material_1003",
       "m_Metadata": {
@@ -3361,6 +3396,20 @@
     {
       "m_Id": 223477911838810113,
       "m_Key": "box_gacha_event_currency_material_004_desc",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248390219996094486,
+      "m_Key": "box_gacha_event_currency_material_005",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248390219996094487,
+      "m_Key": "box_gacha_event_currency_material_005_desc",
       "m_Metadata": {
         "m_Items": []
       }
@@ -6999,6 +7048,20 @@
       }
     },
     {
+      "m_Id": 244477772547207224,
+      "m_Key": "story_event_ticket_material_022_desc_archive",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244477772547207225,
+      "m_Key": "story_event_currency_material_022_desc_archive",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 221743504979197956,
       "m_Key": "story_event_ticket_material_1001_desc_archive",
       "m_Metadata": {
@@ -7071,6 +7134,20 @@
     {
       "m_Id": 152554583412461637,
       "m_Key": "select_box_piece_ssr_3001_desc",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248390220042231829,
+      "m_Key": "select_box_piece_ssr_stepup_1",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 248390220042231830,
+      "m_Key": "select_box_piece_ssr_stepup_1_desc",
       "m_Metadata": {
         "m_Items": []
       }
@@ -7435,6 +7512,20 @@
     {
       "m_Id": 244870947469705263,
       "m_Key": "randombox_snowfall_noirblanc_desc",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 253595792177020954,
+      "m_Key": "bundle_box_2024_new_year",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 253595792177020955,
+      "m_Key": "bundle_box_2024_new_year_desc",
       "m_Metadata": {
         "m_Items": []
       }

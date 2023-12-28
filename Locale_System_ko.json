@@ -1272,14 +1272,14 @@
     },
     {
       "m_Id": 3970263505727534,
-      "m_Localized": "공격",
+      "m_Localized": "공격력",
       "m_Metadata": {
         "m_Items": []
       }
     },
     {
       "m_Id": 3970263505727535,
-      "m_Localized": "방어",
+      "m_Localized": "방어력",
       "m_Metadata": {
         "m_Items": []
       }
@@ -4047,6 +4047,34 @@
       }
     },
     {
+      "m_Id": 229271811219664928,
+      "m_Localized": "원하는 니케를 선택해주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229271811219664929,
+      "m_Localized": "선택한 니케를 획득 하시겠습니까?",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229271811219664930,
+      "m_Localized": "목록 보기",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 229271811219664931,
+      "m_Localized": "모집할 수 있는 니케의 목록입니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 236523533616951299,
       "m_Localized": "수량 부분을 선택하면, 직접 입력이 가능합니다.",
       "m_Metadata": {
@@ -4932,6 +4960,45 @@
       }
     },
     {
+      "m_Id": 248938989340872717,
+      "m_Localized": "스텝업 모집 ({0}단계)",
+      "m_Metadata": {
+        "m_Items": [
+          {
+            "rid": 0
+          }
+        ]
+      }
+    },
+    {
+      "m_Id": 228203826071248924,
+      "m_Localized": "4단계 모집 진행 시 [신년 SSR 니케 선택 상자] 지급",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 228203826071248925,
+      "m_Localized": "자세한 내용은 \"모집 설명\"에서 확인해주세요.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 247430343997300765,
+      "m_Localized": "4단계 모집 진행 시 [신년 SSR 니케 선택 상자] 지급",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 228203826071248926,
+      "m_Localized": "(특정 캐릭터 제외)",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 2485887105,
       "m_Localized": "쥬얼 {0}개를 사용하여 {1}회 모집을 하시겠습니까?",
       "m_Metadata": {
@@ -5486,6 +5553,13 @@
       }
     },
     {
+      "m_Id": 262630308118769735,
+      "m_Localized": "NEW YEAR SPECIAL",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 3970263530893345,
       "m_Localized": "유실물",
       "m_Metadata": {
@@ -5609,20 +5683,6 @@
     {
       "m_Id": 46016941406318621,
       "m_Localized": "통화기록",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 24260731721158716,
-      "m_Localized": "카테고리 4(임시)",
-      "m_Metadata": {
-        "m_Items": []
-      }
-    },
-    {
-      "m_Id": 24260731721158717,
-      "m_Localized": "카테고리 5(임시)",
       "m_Metadata": {
         "m_Items": []
       }
@@ -10573,6 +10633,13 @@
     {
       "m_Id": 244477352844177476,
       "m_Localized": "WHITE CHRISTMAS",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244477352844177477,
+      "m_Localized": "YEAR-END SHOP",
       "m_Metadata": {
         "m_Items": []
       }
@@ -24840,6 +24907,13 @@
       }
     },
     {
+      "m_Id": 244477353016143906,
+      "m_Localized": "NEW YEAR, NEW SWORD",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 38706771739308094,
       "m_Localized": "어느 날 방주를 향해 날아온 발신자 불명의 음성 메시지.\r\n그 발신지는 아무도 남아있지 않는 지상이었다.",
       "m_Metadata": {
@@ -27024,6 +27098,13 @@
     {
       "m_Id": 211801764270993437,
       "m_Localized": "[출석 보충]에 대해",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246271709355483166,
+      "m_Localized": "[스텝업 모집]에 대해",
       "m_Metadata": {
         "m_Items": []
       }
@@ -35482,6 +35563,83 @@
       }
     },
     {
+      "m_Id": 246271709477117952,
+      "m_Localized": "등장 니케",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246271709477117953,
+      "m_Localized": "스텝업 모집에서는 특정 니케를 제외한 R~SSR 등급의 니케를 획득할 수 있습니다. (자세한 내용은 확률정보에서 확인하실 수 있습니다)",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246271709477117954,
+      "m_Localized": "스텝별 모집",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246271709477117955,
+      "m_Localized": "스텝업 모집은 총 4회 진행할 수 있습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246271709477117956,
+      "m_Localized": "회차별 모집 횟수는 아래와 같습니다.\r\n- 1회차 = 1명 모집\r\n- 2회차 = 10명 모집\r\n- 3회차 = 10명 모집\r\n- 4회차 = 10명 모집",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246271709477117957,
+      "m_Localized": "재모집",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246271709477117958,
+      "m_Localized": "모집 진행 후 다음 회차 모집이 가능할 경우, 결과 화면에서 바로 재모집을 진행할 수 있습니다",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246271709477117959,
+      "m_Localized": "재모집 버튼에는 진행할 회차와 모집 인원, 그리고 모집 비용이 표기됩니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246271709477117960,
+      "m_Localized": "스텝업 모집 완료 보상",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246271709477117961,
+      "m_Localized": "마지막 회차까지 모집을 진행하면 완료 보상을 획득하게됩니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 246271709477117962,
+      "m_Localized": "완료 보상은 사용 시 100% 확률로 SSR 니케 1명을 선택 하여 획득할 수 있습니다.(필그림과 특정 니케는 등장하지 않습니다. 자세한 설명은 해당 아이템의 확률정보에서 확인하실 수 있습니다)",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 16536826612052125,
       "m_Localized": "미성년자는 이용할 수 없습니다.",
       "m_Metadata": {
@@ -37254,6 +37412,13 @@
       }
     },
     {
+      "m_Id": 244936220674076757,
+      "m_Localized": "사자의 왕관 1개당 크레디트 200으로 교환되었습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 173079523098390560,
       "m_Localized": "코스튬 티켓 교환",
       "m_Metadata": {
@@ -37305,6 +37470,20 @@
     {
       "m_Id": 223484369141784605,
       "m_Localized": "코스튬 티켓 1개당 120개의 무료 쥬얼로 교환되었습니다.",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 262630308299124824,
+      "m_Localized": "코스튬 티켓 교환",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 262630308299124825,
+      "m_Localized": "디바 콘서트 티켓 1개당 120개의 무료 쥬얼로 교환되었습니다.",
       "m_Metadata": {
         "m_Items": []
       }
@@ -40611,6 +40790,20 @@
       }
     },
     {
+      "m_Id": 243407473389363205,
+      "m_Localized": "NEW YEAR, NEW SWORD",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 262630308324290568,
+      "m_Localized": "NEW YEAR SPECIAL",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 163335488733204549,
       "m_Localized": "이전 STEP 패키지 구매가 필요합니다",
       "m_Metadata": {
@@ -43676,6 +43869,13 @@
     {
       "m_Id": 244477353347493925,
       "m_Localized": "QUEEN'S ORDER",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 244477353347493926,
+      "m_Localized": "NYA NYA PARADISE",
       "m_Metadata": {
         "m_Items": []
       }

@@ -12051,6 +12051,69 @@
       "m_Metadata": {
         "m_Items": []
       }
+    },
+    {
+      "m_Id": 242046944517038089,
+      "m_Key": "22251_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242046944517038090,
+      "m_Key": "22252_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 253496141598433308,
+      "m_Key": "12253_name",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242046944517038092,
+      "m_Key": "22251_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 242046944517038093,
+      "m_Key": "22252_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 253542124868870152,
+      "m_Key": "12253_description",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 243342399070806039,
+      "m_Key": "c225_skill1_onuseammo_int_dec_des",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 251414560922488836,
+      "m_Key": "character_shot_description_localkey_rl_up_50",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 251414560922488837,
+      "m_Key": "character_shot_description_localkey_rl_up_750",
+      "m_Metadata": {
+        "m_Items": []
+      }
     }
   ],
   "m_Metadata": {

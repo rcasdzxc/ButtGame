@@ -193,6 +193,13 @@
       }
     },
     {
+      "m_Id": 251016978498261004,
+      "m_Localized": "씨 오브 슬로스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
       "m_Id": 45930662449684487,
       "m_Localized": "선라이즈 마켓",
       "m_Metadata": {
@@ -229,6 +236,13 @@
     },
     {
       "m_Id": 49191244369956872,
+      "m_Localized": "화이트 프로미스",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 251016978502455296,
       "m_Localized": "화이트 프로미스",
       "m_Metadata": {
         "m_Items": []
@@ -447,6 +461,27 @@
     {
       "m_Id": 227124939813752867,
       "m_Localized": "노스텔지어",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241949184779554846,
+      "m_Localized": "큐트 선플라워",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241949184779554847,
+      "m_Localized": "다크 트레이서",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241949184779554848,
+      "m_Localized": "클래식 디바",
       "m_Metadata": {
         "m_Items": []
       }
@@ -905,6 +940,27 @@
     {
       "m_Id": 241568962653655053,
       "m_Localized": "블랑의 코스튬\r\n이벤트 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241949184783749151,
+      "m_Localized": "리타의 코스튬\r\n이벤트 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241949184783749152,
+      "m_Localized": "길로틴의 코스튬\r\n미션 패스에서 획득",
+      "m_Metadata": {
+        "m_Items": []
+      }
+    },
+    {
+      "m_Id": 241949184783749153,
+      "m_Localized": "노이즈의 코스튬\r\n코스튬 픽에서 획득",
       "m_Metadata": {
         "m_Items": []
       }
